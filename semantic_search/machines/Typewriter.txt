@@ -1,0 +1,1877 @@
+Typewriter
+A typewriter is a mechanical or electromechanical
+machine for writing characters similar to those
+produced by a printer's movable type. Typically, a
+typewriter has an array of keys, and each one causes
+a diﬀerent single character to be produced on the
+paper, by means of a ribbon with dried ink struck
+against the paper by a type element similar to the
+sorts used in movable type letterpress printing. On
+some typewriters, a separate type element (called a
+typebar) corresponds to each key; others use a single
+type element (such as a typeball or disc) with a
+diﬀerent portion of it used for each character. At the
+end of the nineteenth century, the term typewriter
+was also applied to a person who used a typing
+machine.[1]
+
+Mechanical desktop
+typewriters, such as this
+Touchmaster Five, were longtime standards of government
+agencies, newsrooms, and
+oﬃces
+
+The ﬁrst commercial typewriters were introduced in
+1874,[2] but did not become common in oﬀices until
+after the mid-1880s.[3] The typewriter quickly became
+an indispensable tool for practically all writing other
+than personal handwritten correspondence. It was
+widely used by professional writers, in oﬀices, and for
+business correspondence in private homes.
+Play media
+Typewriters were a standard ﬁxture in most oﬀices up
+Video on the history of
+to the 1980s. Thereafter, they began to be largely
+typewriters and how they
+supplanted by computers. Nevertheless, typewriters
+operate
+remain common in some parts of the world, are
+required for a few speciﬁc applications, and are
+popular in certain subcultures. In many Indian cities
+and towns, typewriters are still used, especially in roadside and legal oﬀices due to a
+lack of continuous, reliable electricity.[4] The QWERTY keyboard layout, developed
+for typewriters, remains the standard for computer keyboards.[5]
+
+Notable typewriter manufacturers included E.
+Remington and Sons, IBM, Godrej,[6] Imperial
+Typewriter Company, Oliver Typewriter Company,
+Olivetti, Royal Typewriter Company, Smith Corona,
+Underwood Typewriter Company, Adler Typewriter
+Company and Olympia Werke.[7]
+
+Contents
+History
+Hansen Writing Ball
+
+Play media
+Video showing the operation of
+a typewriter
+
+Sholes and Glidden typewriter
+Index typewriter
+Standardization
+Frontstriking
+Shift key
+Tab key
+Dead keys
+Character sizes
+Color
+"Noiseless" designs
+
+Disassembled parts of an Adler
+Favorit mechanical typewriter
+
+Electric designs
+Early electric models
+IBM Selectric
+Later electric models
+Typewriter/printer hybrids
+Electronic typewriters
+Decline
+Correction technologies
+Typewriter erasers
+Eraser shield
+Erasable bond
+Correction ﬂuid
+Dry correction
+Legacy
+Keyboard layouts
+QWERTY
+Other layouts
+Typewriter conventions
+Terminology
+Social eﬀects
+Authors and writers who had notable
+relationships with typewriters
+Early adopters
+Others
+Late users
+Typewriters in popular culture
+In music
+Other
+Forensic examination
+Gallery
+See also
+References
+
+An Elliott-Fisher book typewriter
+on display at the Historic
+Archive and Museum of Mining
+in Pachuca, Mexico
+
+Patents
+Further reading
+External links
+Revival
+
+History
+Although many modern typewriters have one of
+several similar designs, their invention was
+incremental, developed by numerous inventors
+working independently or in competition with each
+other over a series of decades. As with the
+automobile, telephone, and telegraph, a number of
+people contributed insights and inventions that
+eventually resulted in ever more commercially
+successful instruments. Historians have estimated
+that some form of typewriter was invented 52 times
+as thinkers tried to come up with a workable
+design.[8]
+
+Peter Mitterhofer's typewriter
+prototype (1864)
+
+Some early typing instruments include:
+In 1575, an Italian printmaker, Francesco Rampazetto, invented the scrittura
+tattile, a machine to impress letters in papers.[9]
+In 1714, Henry Mill obtained a patent in Britain for a machine that, from the
+patent, appears to have been similar to a typewriter. The patent shows that this
+machine was actually created: "[he] hath by his great study and paines & expence
+invented and brought to perfection an artiﬁcial machine or method for impressing
+or transcribing of letters, one after another, as in writing, whereby all writing
+whatsoever may be engrossed in paper or parchment so neat and exact as not to
+be distinguished from print; that the said machine or method may be of great use
+in settlements and public records, the impression being deeper and more lasting
+than any other writing, and not to be erased or counterfeited without manifest
+discovery."[10]
+In 1802, Italian Agostino Fantoni developed a particular typewriter to enable his
+blind sister to write.[11]
+Between 1801 and 1808, Italian Pellegrino Turri invented a typewriter for his blind
+friend Countess Carolina Fantoni da Fivizzano.[12]
+In 1823, Italian Pietro Conti da Cilavegna invented a new model of typewriter, the
+tachigrafo, also known as tachitipo.[13]
+In 1829, American William Austin Burt patented a machine called the
+"Typographer" which, in common with many other early machines, is listed as the
+"ﬁrst typewriter". The London Science Museum describes it merely as "the ﬁrst
+writing mechanism whose invention was documented", but even that claim may be
+excessive, since Turri's invention pre-dates it.[14] Even in the hands of its inventor,
+this machine was slower than handwriting. Burt and his promoter John D. Sheldon
+never found a buyer for the patent, so the invention was never commercially
+
+produced. Because the typographer used a dial, rather than keys, to select each
+character, it was called an "index typewriter" rather than a "keyboard typewriter".
+Index typewriters of that era resemble the squeeze-style embosser from the 1960s
+more than they resemble the modern keyboard typewriter.
+Giuseppe Ravizza, a proliﬁc typewriter inventor, born in Italy in 1811 (died 1885),
+spent nearly 40 years of his life obsessively grappling with the complexities of
+inventing a usable writing machine. He called his invention Cembalo scrivano o
+"macchina da scrivere a tasti" because of its piano-type keys and keyboard. The
+story of the 16 models he produced between 1847 and the early 1880s is
+described in The Writing Machine and illustrated from Ravizza’s 1855 patent, which
+bears similarities to the later upstroke design of the Sholes and Glidden typewriter.
+By the mid-19th century, the increasing pace of business communication had created
+a need for mechanization of the writing process. Stenographers and telegraphers
+could take down information at rates up to 130 words per minute, whereas a writer
+with a pen was limited to a maximum of 30 words per minute (the 1853 speed
+record).[15]
+From 1829 - 1870, many printing or typing machines were patented by inventors in
+Europe and America, but none went into commercial production.
+American Charles Thurber developed multiple patents, of which his ﬁrst in 1843
+was developed as an aid to the blind, such as the 1845 Chirographer.[16]
+In 1855, the Italian Giuseppe Ravizza created a prototype typewriter called
+Cembalo scrivano o macchina da scrivere a tasti ("Scribe harpsichord, or machine
+for writing with keys"). It was an advanced machine that let the user see the
+writing as it was typed.
+In 1861, Father Francisco João de Azevedo, a Brazilian priest, made his own
+typewriter with basic materials and tools, such as wood and knives. In that same
+year the Brazilian emperor D. Pedro II, presented a gold medal to Father Azevedo
+for this invention. Many Brazilian people as well as the Brazilian federal
+government recognize Fr. Azevedo as the inventor of the typewriter, a claim that
+has been the subject of some controversy.[17]
+In 1865, John Jonathon Pratt, of Centre, Alabama (US), built a machine called the
+Pterotype which appeared in an 1867 Scientiﬁc American article[18] and inspired
+other inventors.
+Between 1864 and 1867, Peter Mitterhofer, a carpenter from South Tyrol (then part
+of Austria) developed several models and a fully functioning prototype typewriter
+in 1867.[19]
+Hansen Writing Ball
+In 1865, Rev. Rasmus Malling-Hansen of Denmark invented the Hansen Writing Ball,
+which went into commercial production in 1870 and was the ﬁrst commercially sold
+typewriter. It was a success in Europe and was reported as being used in oﬀices in
+London as late as 1909.[20][21] Malling-Hansen used a solenoid escapement to return
+the carriage on some of his models which makes him a candidate for the title of
+inventor of the ﬁrst "electric" typewriter.
+
+According to the book Hvem er skrivekuglens opﬁnder?
+(English: Who is the inventor of the Writing Ball?), written
+by Malling-Hansen's daughter, Johanne Agerskov, in 1865,
+Malling-Hansen made a porcelain model of the keyboard of
+his writing ball and experimented with diﬀerent placements
+of the letters to achieve the fastest writing speed. MallingHansen placed the letters on short pistons that went
+directly through the ball and down to the paper. This,
+together with the placement of the letters so that the fastest
+writing ﬁngers struck the most frequently used letters,
+made the Hansen Writing Ball the ﬁrst typewriter to
+produce text substantially faster than a person could write
+by hand.
+The Hansen Writing Ball was produced with only upper-case
+characters. The Writing Ball was used as a template for
+inventor Frank Haven Hall to create a derivative that would
+produce letter prints cheaper and faster.[22][23][24]
+
+Hansen Writing Ball was
+the ﬁrst typewriter
+manufactured
+commercially (1870)
+
+Malling-Hansen developed his typewriter further through the 1870s and 1880s and
+made many improvements, but the writing head remained the same. On the ﬁrst
+model of the writing ball from 1870, the paper was attached to a cylinder inside a
+wooden box. In 1874, the cylinder was replaced by a carriage, moving beneath the
+writing head. Then, in 1875, the well-known "tall model" was patented, which was
+the ﬁrst of the writing balls that worked without electricity. Malling-Hansen attended
+the world exhibitions in Vienna in 1873 and Paris in 1878 and he received the ﬁrstprize for his invention at both exhibitions.[25][26][27]
+Sholes and Glidden typewriter
+The ﬁrst typewriter to be commercially successful was
+patented in 1868 by Americans Christopher Latham Sholes,
+Frank Haven Hall, Carlos Glidden and Samuel W. Soule in
+Milwaukee, Wisconsin,[28] although Sholes soon disowned
+the machine and refused to use or even recommend it. It
+looked "like something like a cross between a piano and a
+kitchen table".[29] The working prototype was made by the
+machinist Matthias Schwalbach.[30][31][32] The patent (US
+79,265) was sold for $12,000 to Densmore and Yost, who
+made an agreement with E. Remington and Sons (then
+famous as a manufacturer of sewing machines) to
+commercialize the machine as the Sholes and Glidden TypeWriter.
+
+Prototype of the Sholes
+and Glidden typewriter,
+the ﬁrst commercially
+successful typewriter,
+and the ﬁrst with a
+QWERTY keyboard
+(1873)
+
+This was the origin of the term typewriter. Remington
+began production of its ﬁrst typewriter on March 1, 1873, in
+Ilion, New York. It had a QWERTY keyboard layout, which,
+because of the machine's success, was slowly adopted by
+other typewriter manufacturers. As with most other early
+typewriters, because the typebars strike upwards, the typist could not see the
+characters as they were typed.
+
+Index typewriter
+Coming into the market in the early 1880s,[33] the
+index typewriter uses a pointer or stylus to choose a
+letter from an index. The pointer is mechanically
+linked so that the letter chosen could then be printed,
+most often by the activation of a lever.
+The index typewriter was brieﬂy popular in niche
+markets. Although they were slower than keyboard
+type machines they were mechanically simpler and
+lighter,[33] they were therefore marketed as being
+suitable for travellers,[33] and because they could be
+produced more cheaply than keyboard machines, as
+A Mignon Model 4 index
+budget machines for users who needed to produce
+typewriter from 1924
+small quantities of typed correspondence.[33] The
+index typewriter's niche appeal however soon
+disappeared, as on the one hand new keyboard typewriters became lighter and more
+portable and on the other refurbished second hand machines began to become
+available.[33] The last widely available western index machine was the Mignon
+typewriter produced by AEG which was produced until 1934. Considered one of the
+very best of the index typewriters, part of the Mignon's popularity was that it
+featured both interchangeable indexes and type,[34] allowing the use of diﬀerent
+fonts and character sets,[34] something very few keyboard machines allowed and
+only at considerable added cost.[34]
+Although pushed out of the market in most of the world by keyboard machines,
+successful Japanese and Chinese typewriters are of the index type albeit with a very
+much larger index and number of type elements.
+
+Standardization
+By about 1910, the "manual" or "mechanical" typewriter had reached a somewhat
+standardized design. There were minor variations from one manufacturer to another,
+but most typewriters followed the concept that each key was attached to a typebar
+that had the corresponding letter molded, in reverse, into its striking head. When a
+key was struck briskly and ﬁrmly, the typebar hit a ribbon (usually made of inked
+fabric), making a printed mark on the paper wrapped around a cylindrical platen.
+The platen was mounted on a carriage that moved left or right, automatically
+advancing the typing position horizontally after each character was typed. The paper,
+rolled around the typewriter's platen, was then advanced vertically by the carriagereturn lever (at the far left, or on the far right for left handed typewriters) into
+position for each new line of text. A small bell was struck a few characters before the
+right hand margin was reached to warn the operator to complete the word and then
+use the carriage-return lever to shift the paper back to the beginning of the next
+line.[35]
+Frontstriking
+
+In most of the early typewriters, the typebars struck upward against the paper,
+pressed against the bottom of the platen, so the typist could not see the text as it was
+typed. What was typed was not visible until a carriage return caused it to scroll into
+view. The diﬀiculty with any other arrangement was ensuring the typebars fell back
+into place reliably when the key was released. This was eventually achieved with
+various ingenious mechanical designs and so-called "visible typewriters" which used
+frontstriking, in which the typebars struck forward against the front side of the
+platen, became standard.
+One of the ﬁrst was the Daugherty Visible, introduced in 1893, which also introduced
+the four-bank keyboard that became standard, although the Underwood which came
+out two years later was the ﬁrst major typewriter with these features.[36][37]
+However, older "nonvisible" models continued in production to as late as 1915.
+Shift key
+A signiﬁcant innovation was the shift key, introduced
+with the Remington No. 2 in 1878. This key physically
+"shifted" either the basket of typebars, in which case
+the typewriter is described as "basket shift", or the
+paper-holding carriage, in which case the typewriter
+is described as "carriage shift". Either mechanism
+caused a diﬀerent portion of the typebar to come in
+contact with the ribbon/platen. The result is that each
+Comparison of full-keyboard,
+typebar could type two diﬀerent characters, cutting
+single-shift, and double-shift
+the number of keys and typebars in half (and
+typewriters in 1911
+simplifying the internal mechanisms considerably).
+The obvious use for this was to allow letter keys to
+type both upper and lower case, but normally the
+number keys were also duplexed, allowing access to special symbols such as percent,
+⟨%⟩, and ampersand, ⟨&⟩.
+Before the shift key, typewriters had to have a separate key and typebar for uppercase letters; in essence, the typewriter had two keyboards, one above the other. With
+the shift key, manufacturing costs (and therefore purchase price) were greatly
+reduced, and typist operation was simpliﬁed; both factors contributed greatly to
+mass adoption of the technology. Certain models, such as the Barlet, had a double
+shift so that each key performed three functions. These little three-row machines
+were portable and could be used by journalists.
+However, because the shift key required more force to push (its mechanism was
+moving a much larger mass than other keys), and was operated by the little ﬁnger
+(normally the weakest ﬁnger on the hand), it was diﬀicult to hold the shift down for
+more than two or three consecutive strokes. The "shift lock" key (the precursor to
+the modern caps lock) allowed the shift operation to be maintained indeﬁnitely.
+Tab key
+To facilitate typewriter use in business settings, a tab (tabulator) key was added in
+the late nineteenth century. Before using the key, the operator had to set mechanical
+"tab stops", pre-designated locations to which the carriage would advance when the
+tab key was pressed. This facilitated the typing of columns of numbers, freeing the
+
+operator from the need to manually position the carriage. The ﬁrst models had one
+tab stop and one tab key; later ones allowed as many stops as desired, and
+sometimes had multiple tab keys, each of which moved the carriage a diﬀerent
+number of spaces ahead of the decimal point (the tab stop), to facilitate the typing of
+columns with numbers of diﬀerent length ($1.00, $10.00, $100.00, etc.)
+Dead keys
+Languages such as French, Spanish, and German required diacritics, special signs
+attached to or on top of the base letter: for example, a combination of the acute
+accent ⟨´⟩ plus ⟨e⟩ produced ⟨é⟩; ⟨~⟩ plus ⟨n⟩ produced ⟨ñ⟩. In metal typesetting, ⟨é⟩,
+⟨ñ⟩, and others were separate sorts. With mechanical typewriters, the number of
+whose characters (sorts) was constrained by the physical limits of the machine, the
+number of keys required was reduced by the use of dead keys. Diacritics such as ⟨´⟩
+(acute accent) would be assigned to a dead key, which did not move the platen
+forward, permitting another character to be imprinted at the same location; thus a
+single dead key such as the acute accent could be combined with ⟨a⟩,⟨e⟩,⟨i⟩,⟨o⟩ and
+⟨u⟩ to produce ⟨á⟩,⟨é⟩,⟨í⟩,⟨ó⟩ and ⟨ú⟩, reducing the number of sorts needed from 5 to 1.
+The typebars of "normal" characters struck a rod as they moved the metal character
+desired toward the ribbon and platen, and each rod depression moved the platen
+forward the width of one character. Dead keys had a typebar shaped so as not to
+strike the rod.
+The tilde character, ⟨~⟩, never seen in isolation in metal typesetting, became a
+separate character in ASCII as a result of its use on dead keys for Spanish and
+Portuguese (see Tilde#Role of mechanical typewriters).
+Character sizes
+In English-speaking countries, ordinary typewriters printing ﬁxed-width characters
+were standardized to print six horizontal lines per vertical inch, and had either of
+two variants of character width, one called pica for ten characters per horizontal
+inch and the other elite, for twelve. This diﬀered from the use of these terms in
+printing, where pica is a linear unit (approximately 1⁄6 of an inch) used for any
+measurement, the most common one being the height of a type face.
+Some typewriters were designed to print extra-large type (commonly double height,
+double width) for labelling purposes. Classiﬁcation numbers on books in libraries
+could be done this way.
+Color
+Some ribbons were inked in black and red stripes, each being half the width and
+running the entire length of the ribbon. A lever on most machines allowed switching
+between colors, which was useful for bookkeeping entries where negative amounts
+were highlighted in red. The red color was also used on some selected characters in
+running text, for emphasis. When a typewriter had this facility, it could still be ﬁtted
+with a solid black ribbon; the lever was then used to switch to fresh ribbon when the
+ﬁrst stripe ran out of ink. Some typewriters also had a third position which stopped
+
+the ribbon being struck at all. This enabled the keys to hit the paper unobstructed,
+and was used for cutting stencils for stencil duplicators (aka mimeograph
+machines).[38]
+"Noiseless" designs
+In the early part of the 20th century, a typewriter was marketed under the name
+Noiseless and advertised as "silent". It was developed by Wellington Parker Kidder
+and the ﬁrst model was marketed by the Noiseless Typewriter Company in 1917. An
+agreement with Remington in 1924 saw production transferred to Remington, and a
+further agreement in 1929 allowed Underwood to produce it as well.[39] Noiseless
+portables sold well in the 1930s and 1940s, and noiseless standards continued to be
+manufactured until the 1960s.[40]
+In a conventional typewriter the typebar reaches the end of its travel simply by
+striking the ribbon and paper. A "noiseless" typewriter has a complex lever
+mechanism that decelerates the typebar mechanically before pressing it against the
+ribbon and paper[39] in an attempt to dampen the noise. It certainly reduced the
+high-frequency content of the sound, rendering it more of a "clunk" than a "clack"
+and arguably less intrusive, but such advertising claims as "A machine that can be
+operated a few feet away from your desk – And not be heard" were not true.
+
+Electric designs
+Although electric typewriters would not achieve widespread popularity until nearly a
+century later, the basic groundwork for the electric typewriter was laid by the
+Universal Stock Ticker, invented by Thomas Edison in 1870. This device remotely
+printed letters and numbers on a stream of paper tape from input generated by a
+specially designed typewriter at the other end of a telegraph line.
+Early electric models
+Some electric typewriters were patented in the 19th century, but the ﬁrst machine
+known to be produced in series is the Cahill of 1900.[41]
+Another electric typewriter was produced by the Blickensderfer Manufacturing
+Company, of Stamford, Connecticut, in 1902. Like the manual Blickensderfer
+typewriters, it used a cylindrical typewheel rather than individual typebars. The
+machine was produced in several variants but apparently it was not a commercial
+success, for reasons that are unclear.[42]
+The next step in the development of the electric typewriter came in 1910, when
+Charles and Howard Krum ﬁled a patent for the ﬁrst practical teletypewriter.[43] The
+Krums' machine, named the Morkrum Printing Telegraph, used a typewheel rather
+than individual typebars. This machine was used for the ﬁrst commercial
+teletypewriter system on Postal Telegraph Company lines between Boston and New
+York City in 1910.[44]
+James Fields Smathers of Kansas City invented what is considered the ﬁrst practical
+power-operated typewriter in 1914. In 1920, after returning from Army service, he
+produced a successful model and in 1923 turned it over to the Northeast Electric
+
+Company of Rochester for development. Northeast was interested in ﬁnding new
+markets for their electric motors and developed Smathers's design so that it could be
+marketed to typewriter manufacturers, and from 1925 Remington Electric
+typewriters were produced powered by Northeast's motors.
+After some 2,500 electric typewriters had been produced, Northeast asked
+Remington for a ﬁrm contract for the next batch. However, Remington was engaged
+in merger talks, which would eventually result in the creation of Remington Rand
+and no executives were willing to commit to a ﬁrm order. Northeast instead decided
+to enter the typewriter business for itself, and in 1929 produced the ﬁrst
+Electromatic Typewriter.
+In 1928, Delco, a division of General Motors, purchased Northeast Electric, and the
+typewriter business was spun oﬀ as Electromatic Typewriters, Inc. In 1933,
+Electromatic was acquired by IBM, which then spent $1 million on a redesign of the
+Electromatic Typewriter, launching the IBM Electric Typewriter Model 01[45] in
+1935. By 1958 IBM was deriving 8% of its revenue from the sale of electric
+typewriters.
+In 1931, an electric typewriter was introduced by Varityper Corporation. It was
+called the Varityper, because a narrow cylinder-like wheel could be replaced to
+change the font.[46]
+Electrical typewriter designs removed the direct mechanical connection between the
+keys and the element that struck the paper. Not to be confused with later electronic
+typewriters, electric typewriters contained only a single electrical component — the
+motor. Where the keystroke had previously moved a typebar directly, now it engaged
+mechanical linkages that directed mechanical power from the motor into the typebar.
+In 1941, IBM announced the Electromatic Model 04 electric typewriter, featuring the
+revolutionary concept of proportional spacing. By assigning varied rather than
+uniform spacing to diﬀerent sized characters, the Type 4 recreated the appearance
+of a typeset page, an eﬀect that was further enhanced by including the 1937
+innovation of carbon-ﬁlm ribbons that produced clearer, sharper words on the
+page.[47] The proportional spacing feature became a staple of the IBM Executive
+series typewriters.
+IBM Selectric
+IBM and Remington Rand electric typewriters were
+the leading models until IBM introduced the IBM
+Selectric typewriter in 1961, which replaced the
+typebars with a spherical element (or typeball)
+slightly smaller than a golf ball, with reverse-image
+letters molded into its surface. The Selectric used a
+system of latches, metal tapes, and pulleys are driven
+by an electric motor to rotate the ball into the correct
+position and then strike it against the ribbon and
+platen. The typeball moved laterally in front of the
+paper, instead of the previous designs using a platencarrying carriage moving the paper across a
+stationary print position.
+
+IBM Selectric II (dual
+Latin/Hebrew typeball and
+keyboard)
+
+Due to the physical similarity, the typeball was sometimes
+referred to as a "golfball".[48] The typeball design had many
+advantages, especially the elimination of "jams" (when more
+than one key was struck at once and the typebars became
+entangled) and in the ability to change the typeball,
+allowing multiple fonts to be used in a single document.
+The IBM Selectric became a commercial success,
+dominating the oﬀice typewriter market for at least two
+decades. IBM also gained an advantage by marketing more
+heavily to schools than did Remington, with the idea that
+students who learned to type on a Selectric would later
+choose IBM typewriters over the competition in the
+workplace as businesses replaced their old manual models.
+By the 1970s, IBM had succeeded in establishing the
+Selectric as the de facto standard typewriter in mid- to
+high-end oﬀice environments, replacing the raucous "clack"
+of older typebar machines with the quieter sound of
+gyrating typeballs.
+
+Replaceable IBM typeballs with
+clip
+
+Selectric II dual
+Latin/Hebrew Hadar
+typeball
+
+Later models of IBM Executives and Selectrics
+replaced inked fabric ribbons with "carbon ﬁlm"
+ribbons that had a dry black or colored powder on a
+clear plastic tape. These could be used only once, but
+later models used a cartridge that was simple to
+replace. A side eﬀect of this technology was that the
+text typed on the machine could be easily read from
+the used ribbon, raising issues where the machines
+were used for preparing classiﬁed documents
+(ribbons had to be accounted for to ensure that
+typists did not carry them from the facility).[49]
+
+A variation known as
+"Correcting Selectrics"
+introduced a correction feature, where a sticky tape
+in front of the carbon ﬁlm ribbon could remove the
+Composer output showing
+black-powdered image of a typed character,
+Roman, Bold and Italic fonts
+eliminating the need for little bottles of white dab-on
+available by changing the type
+correction ﬂuid and for hard erasers that could tear
+ball
+the paper. These machines also introduced selectable
+"pitch" so that the typewriter could be switched
+between pica type (10 characters per inch) and elite type (12 per inch), even within
+one document. Even so, all Selectrics were monospaced—each character and
+letterspace was allotted the same width on the page, from a capital "W" to a period.
+Although IBM had produced a successful typebar-based machine with ﬁve levels of
+proportional spacing, called the IBM Executive,[50] proportional spacing was not
+provided with the Selectric typewriter or its successors the Selectric II and Selectric
+III.
+The only fully electromechanical Selectric Typewriter with fully proportional spacing
+and which used a Selectric type element was the expensive Selectric Composer,
+which was capable of right-margin justiﬁcation (typing each line twice was required,
+
+once to calculate and again to print) and was considered a typesetting machine
+rather than a typewriter. Composer typeballs physically resembled those of the
+Selectric typewriter but were not interchangeable.
+In addition to its electronic successors, the Magnetic Tape Selectric Composer
+(MT/SC), the Mag Card Selectric Composer, and the Electronic Selectric Composer,
+IBM also made electronic typewriters with proportional spacing using the Selectric
+element that were considered typewriters or word processors instead of typesetting
+machines.
+The ﬁrst of these was the relatively obscure Mag Card Executive, which used 88character elements. Later, some of the same typestyles used for it were used on the
+96-character elements used on the IBM Electronic Typewriter 50 and the later
+models 65 and 85.
+By 1970, as oﬀset printing began to replace letterpress printing, the Composer
+would be adapted as the output unit for a typesetting system. The system included a
+computer-driven input station to capture the key strokes on magnetic tape and insert
+the operator's format commands, and a Composer unit to read the tape and produce
+the formatted text for photo reproduction.
+Advantages:
+reasonably fast, jam-free, and reliable
+relatively quiet, and more importantly, free of major vibrations
+could produce high quality lower- and upper-case output, compared to competitors
+such as Teletype machines
+could be activated by a short, low-force mechanical action, allowing easier
+interfacing to electronic controls
+did not require the movement of a heavy "type basket" to shift between lower- and
+upper-case, allowing higher speed without heavy impacts
+did not require the platen roller assembly to move from side to side (a problem
+with continuous-feed paper used for automated printing)
+The IBM 2741 terminal was a popular example of a Selectric-based computer
+terminal, and similar mechanisms were employed as the console devices for many
+IBM System/360 computers. These mechanisms used "ruggedized" designs
+compared to those in standard oﬀice typewriters.
+Later electric models
+Some of IBM's advances were later adopted in less expensive machines from
+competitors. For example, Smith-Corona electric typewriters introduced in 1973
+switched to interchangeable Coronamatic (SCM-patented) ribbon cartridges,[51]
+including fabric, ﬁlm, erasing, and two-color versions. At about the same time, the
+advent of photocopying meant that carbon copies, correction ﬂuid and erasers were
+less and less necessary; only the original need be typed, and photocopies made from
+it.
+
+Typewriter/printer hybrids
+
+Towards the end of the commercial popularity of typewriters in the 1970s, a number
+of hybrid designs combining features of printers were introduced. These often
+incorporated keyboards from existing models of typewriters and printing
+mechanisms of dot-matrix printers. The generation of teleprinters with impact pinbased printing engines was not adequate for the demanding quality required for
+typed output, and alternative thermal transfer technologies used in thermal label
+printers had become technically feasible for typewriters.
+IBM produced a series of typewriters called Thermotronic with letter-quality output
+and correcting tape along with printers tagged Quietwriter. Brother extended the life
+of their typewriter product line with similar products. The development of these
+proprietary printing engines provided the vendors with exclusive markets in
+consumable ribbons and the ability to use standardized printing engines with varying
+degrees of electronic and software sophistication to develop product lines. Although
+these changes reduced prices—and greatly increased the convenience—of
+typewriters, the technological disruption posed by word processors left these
+improvements with only a short-term low-end market. To extend the life of these
+products, many examples were provided with communication ports to connect them
+to computers as printers.
+Electronic typewriters
+The ﬁnal major development of the typewriter was the electronic typewriter. Most of
+these replaced the typeball with a plastic or metal daisy wheel mechanism (a disk
+with the letters molded on the outside edge of the "petals"). The daisy wheel concept
+ﬁrst emerged in printers developed by Diablo Systems in the 1970s. The ﬁrst
+electronic daisywheel typewriter marketed in the world (in 1976) is the Olivetti Tes
+501, and subsequently in 1978, the Olivetti ET101 (with function display) and Olivetti
+TES 401 (with text display and ﬂoppy disk for memory storage). This has allowed
+Olivetti to maintain the world record in the design of electronic typewriters,
+proposing increasingly advanced and performing models in the following years.[52].
+In 1981, Xerox Corporation, who by then had bought Diablo Systems, introduced a
+line of electronic typewriters incorporating this technology (the Memorywriter
+product line). For a time, these products were quite successful as their daisy-wheel
+mechanism was much simpler and cheaper than either typebar or Selectric
+mechanisms, and their electronic memory and display allowed the user to easily see
+errors and correct them before they were actually printed. One problem with the
+plastic daisy wheel was that they were not always durable. To solve this problem,
+more durable metal daisy wheels were made available (but at a slightly higher price).
+These and similar electronic typewriters were in essence dedicated word processors
+with either single-line LCD displays or multi-line CRT displays, built-in line editors in
+ROM, a spelling and grammar checker, a few kilobytes of internal RAM and optional
+cartridge, magnetic card or diskette external memory-storage devices for storing
+text and even document formats. Text could be entered a line or paragraph at a time
+and edited using the display and built-in software tools before being committed to
+paper.
+Unlike the Selectrics and earlier models, these really were "electronic" and relied on
+integrated circuits and multiple electromechanical components. These typewriters
+were sometimes called display typewriters,[53] dedicated word processors or wordprocessing typewriters, though the latter term was also frequently applied to less
+
+sophisticated machines that featured only a tiny, sometimes just single-row display.
+Sophisticated models were also called word processors, though today that term
+almost always denotes a type of software program. Manufacturers of such machines
+included Olivetti (TES501, ﬁrst totally electronic Olivetti word processor with
+daisywheel and ﬂoppy disk in 1976; TES621 in 1979 etc.), Brother (Brother WP1 and
+WP500 etc., where WP stood for word processor), Canon (Canon Cat), Smith-Corona
+(PWP, i.e. Personal Word Processor line)[54] and Philips/Magnavox (VideoWriter).
+
+Electronic
+typewriter – the
+ﬁnal
+stage
+in
+typewriter
+development.
+A
+1989
+Canon
+Typestar 110
+
+The Brother WP1,
+an
+electronic
+typewriter
+complete with a
+small screen and
+a
+ﬂoppy
+disk
+reader
+
+Decline
+The 1970s and early 1980s were a time of transition for typewriters and word
+processors. At one point in time, most small-business oﬀices would be completely
+"old-style", while large corporations and government departments would already be
+"new-style"; other oﬀices would have a mixture. The pace of change was so rapid
+that it was common for clerical staﬀ to have to learn several new systems, one after
+the other, in just a few years. While such rapid change is commonplace today, and is
+taken for granted, this was not always so; in fact, typewriting technology changed
+very little in its ﬁrst 80 or 90 years.
+Due to falling sales, IBM sold its typewriter division in 1991 to the newly formed
+Lexmark, completely exiting from a market it once dominated.
+The increasing dominance of personal computers, desktop publishing, the
+introduction of low-cost, truly high-quality laser and inkjet printer technologies, and
+the pervasive use of web publishing, e-mail and other electronic communication
+techniques have largely replaced typewriters in the United States. Still, as of 2009,
+typewriters continued to be used by a number of government agencies and other
+institutions in the US, where they are primarily used to ﬁll preprinted forms.
+According to a Boston typewriter repairman quoted by The Boston Globe, "Every
+maternity ward has a typewriter, as well as funeral homes".[55] A fairly major
+typewriter user is the City of New York, which in 2008 purchased several thousand
+typewriters, mostly for use by the New York Police Department, at the total cost of
+
+$982,269. Another $99,570 was spent in 2009 for the maintenance of the existing
+typewriters. New York police oﬀicers would use the machines to type property and
+evidence vouchers on carbon paper forms.[56]
+A rather specialized market for typewriters exists due to the regulations of many
+correctional systems in the US, where prisoners are prohibited from having
+computers or telecommunication equipment, but are allowed to own typewriters. The
+Swintec corporation (headquartered in Moonachie, New Jersey), which, as of 2011,
+still produced typewriters at its overseas factories (in Japan, Indonesia, and/or
+Malaysia), manufactures a variety of typewriters for use in prisons, made of clear
+plastic (to make it harder for prisoners to hide prohibited items inside it). As of 2011,
+the company had contracts with prisons in 43 US states.[57][58]
+In April 2011, Godrej and Boyce, a Mumbai-based manufacturer of mechanical
+typewriters, closed its doors, leading to a ﬂurry of news reports that the "world's last
+typewriter factory" had shut down.[59] The reports were quickly contested, with
+opinions settling to agree that it was indeed the world's last producer of manual
+typewriter.[60][61][62][63]
+In November 2012, Brother's UK factory manufactured what it claimed to be the last
+typewriter ever made in the UK; the typewriter was donated to the London Science
+Museum.[64]
+Russian typewriters use Cyrillic, which has made the ongoing Azerbaijani
+reconversion from Cyrillic to Latin alphabet more diﬀicult. In 1997, the government
+of Turkey oﬀered to donate western typewriters to the Republic of Azerbaijan in
+exchange for more zealous and exclusive promotion of the Latin alphabet for the
+Azerbaijani language; this oﬀer, however, was declined.
+In Latin America and Africa, mechanical typewriters are still common because they
+can be used without electrical power. In Latin America, the typewriters used are
+most often Brazilian models; Brazil continues to produce mechanical (Facit) and
+electronic (Olivetti) typewriters to the present day.[65]
+The 21st century has seen a revival of interest in typewriters among certain
+subcultures, including makers, steampunks, hipsters, and street poets.[66]
+
+Correction technologies
+According to the standards taught in secretarial schools in the mid-20th century, a
+business letter was supposed to have no mistakes and no visible corrections.
+Accuracy was prized as much as speed. Indeed, typing speeds, as scored in
+proﬁciency tests and typewriting speed competitions, included a deduction of ten
+words for every mistake. Corrections were, of course, necessary, and many methods
+were developed.
+In practice, several methods would often be combined. For example, if six extra
+copies of a letter were needed, the ﬂuid-corrected original would be photocopied, but
+only for the two recipients getting a c.c.; the other four copies, the less-important ﬁle
+copies that stayed in various departments at the oﬀice, would be cheaper, hand-
+
+erased, less-distinct bond paper copies or even "ﬂimsies" of diﬀerent colors (tissue
+papers interleaved with black carbon paper) that were all typed as a "carbon pack"
+at the same time as the original.
+In informal applications such as personal letters where low priority was placed on
+the appearance of the document, or conversely in highly formal applications in which
+it was important that any corrections be obvious, the backspace key could be used to
+back up over the error and then overstrike it with hyphens, slashes, Xs, or the like.
+
+Typewriter erasers
+The traditional erasing method involved the use of a special
+typewriter eraser made of hard rubber that contained an
+abrasive material. Some were thin, ﬂat disks, pink or gray,
+approximately 2 inches (51 mm) in diameter by 1⁄8 inch
+(3.2 mm) thick, with a brush attached from the center, while
+others looked like pink pencils, with a sharpenable eraser at
+the "lead" end and a stiﬀ nylon brush at the other end.
+Either way, these tools made possible erasure of individual
+typed letters. Business letters were typed on heavyweight,
+high-rag-content bond paper, not merely to provide a
+luxurious appearance, but also to stand up to erasure.
+
+Triumph typewriter
+eraser (1960)
+
+Typewriter eraser brushes were necessary for clearing
+eraser crumbs and paper dust, and using the brush properly was an important
+element of typewriting skill; if erasure detritus fell into the typewriter, a small
+buildup could cause the typebars to jam in their narrow supporting grooves.
+
+Eraser shield
+Erasing a set of carbon copies was particularly diﬀicult, and called for the use of a
+device called an eraser shield (a thin stainless-steel rectangle about 2 by 3 inches (51
+by 76 mm) with several tiny holes in it) to prevent the pressure of erasing on the
+upper copies from producing carbon smudges on the lower copies. To correct copies,
+typists had to go from carbon copy to carbon copy, trying not to get their ﬁngers
+dirty as they leafed through the carbon papers, and moving and repositioning the
+eraser shield and eraser for each copy.
+
+Erasable bond
+Paper companies produced a special form of typewriter paper called erasable bond
+(for example, Eaton's Corrasable Bond). This incorporated a thin layer of material
+that prevented ink from penetrating and was relatively soft and easy to remove from
+the page. An ordinary soft pencil eraser could quickly produce perfect erasures on
+this kind of paper. However, the same characteristics that made the paper erasable
+made the characters subject to smudging due to ordinary friction and deliberate
+alteration after the fact, making it unacceptable for business correspondence,
+contracts, or any archival use.
+
+Correction ﬂuid
+In the 1950s and 1960s, correction ﬂuid made its appearance, under brand names
+such as Liquid Paper, Wite-Out and Tipp-Ex; it was invented by Bette Nesmith
+Graham. Correction ﬂuid was a kind of opaque, white, fast-drying paint that
+produced a fresh white surface onto which, when dry, a correction could be retyped.
+However, when held to the light, the covered-up characters were visible, as was the
+patch of dry correction ﬂuid (which was never perfectly ﬂat, and frequently not a
+perfect match for the color, texture, and luster of the surrounding paper). The
+standard trick for solving this problem was photocopying the corrected page, but this
+was possible only with high quality photocopiers.
+A diﬀerent ﬂuid was available for correcting stencils. It sealed up the stencil ready
+for retyping but did not attempt to color match.[67]
+
+Dry correction
+Dry correction products (such as correction paper) under brand names such as "KoRec-Type" were introduced in the 1970s and functioned like white carbon paper. A
+strip of the product was placed over the letters needing correction, and the incorrect
+letters were retyped, causing the black character to be overstruck with a white
+overcoat. Similar material was soon incorporated in carbon-ﬁlm electric typewriter
+ribbons; like the traditional two-color black-and-red inked ribbon common on manual
+typewriters, a black and white correcting ribbon became commonplace on electric
+typewriters. But the black or white coating could be partly rubbed oﬀ with handling,
+so such corrections were generally not acceptable in legal documents.
+The pinnacle of this kind of technology was the IBM Electronic Typewriter series.
+These machines, and similar products from other manufacturers, used a separate
+correction ribbon and a character memory. With a single keystroke, the typewriter
+was capable of automatically backspacing and then overstriking the previous
+characters with minimal marring of the paper. White cover-up ribbons were used
+with fabric ink ribbons, or an alternate premium design featured plastic lift-oﬀ
+correction ribbons which were used with carbon ﬁlm typing ribbons. This latter
+technology actually lifted the carbon ﬁlm forming a typed letter, leaving nothing
+more than a ﬂattened depression in the surface of the paper, with the advantage that
+no color matching of the paper was needed.
+
+Legacy
+Keyboard layouts
+QWERTY
+The 1874 Sholes & Glidden typewriters established the "QWERTY" layout for the
+letter keys. During the period in which Sholes and his colleagues were
+experimenting with this invention, other keyboard arrangements were apparently
+tried, but these are poorly documented.[68] The QWERTY layout of keys has become
+the de facto standard for English-language typewriter and computer keyboards.
+
+Other languages written in the Latin alphabet
+sometimes use variants of the QWERTY layouts, such
+as the French AZERTY, the Italian QZERTY and the
+German QWERTZ layouts.
+The QWERTY layout is not the most eﬀicient layout
+possible for the English language, since it requires a
+touch-typist to move his or her ﬁngers between rows
+to type the most common letters. Although the
+QWERTY keyboard was the most commonly used
+layout in typewriters, a better, less strenuous
+keyboard was being searched for throughout the late
+1900s.[69]
+One popular but unveriﬁed[5] explanation for the
+QWERTY arrangement is that it was designed to
+reduce the likelihood of internal clashing of typebars
+by placing commonly used combinations of letters
+farther from each other inside the machine.[70][71]
+
+The "QWERTY" layout of
+typewriter keys became a de
+facto standard and continues to
+be used long after the reasons
+for its adoption (including
+reduction of key/lever
+entanglements) have ceased to
+apply.
+
+Other layouts
+A number of radically diﬀerent layouts such as Dvorak have been proposed to reduce
+the perceived ineﬀiciencies of QWERTY, but none have been able to displace the
+QWERTY layout; their proponents claim considerable advantages, but so far none
+has been widely used. The Blickensderfer typewriter with its DHIATENSOR layout
+may have possibly been the ﬁrst attempt at optimizing the keyboard layout for
+eﬀiciency advantages.[72]
+Many non-Latin alphabets have keyboard layouts that have nothing to do with
+QWERTY. The Russian layout, for instance, puts the common trigrams ыва, про, and
+ить on adjacent keys so that they can be typed by rolling the ﬁngers. The Greek
+layout, on the other hand, is a variant of QWERTY.
+Typewriters were also made for East Asian languages with thousands of characters,
+such as Chinese or Japanese. They were not easy to operate, but professional typists
+used them for a long time until the development of electronic word processors and
+laser printers in the 1980s.
+On modern keyboards, the exclamation point is the shifted character on the 1 key, a
+direct result of the historical fact that these were the last characters to become
+"standard" on keyboards. Holding the spacebar pressed down usually suspended the
+carriage advance mechanism (a so-called "dead key" feature), allowing one to
+superimpose multiple keystrikes on a single location. The ¢ symbol (meaning cents)
+was located above the number 6 on electric typewriters, while ASCII computer
+keyboards have ^ instead.
+
+Typewriter conventions
+A number of typographical conventions originate from the widespread use of the
+typewriter, based on the characteristics and limitations of the typewriter itself. For
+example, the QWERTY keyboard typewriter did not include keys for the en dash and
+
+the em dash. To overcome this limitation, users
+typically typed more than one adjacent hyphen to
+approximate
+these
+symbols.
+This
+typewriter
+convention is still sometimes used today, even though
+modern computer word processing applications can
+input the correct en and em dashes for each font
+type.[73] Double hyphens are also standard in Western
+comics lettering despite historically being done by
+hand.
+Other examples of typewriter practices that are
+sometimes still used in desktop publishing systems
+include
+inserting
+a
+double
+space
+between
+sentences,[74][75] and the use of the typewriter
+apostrophe, ⟨'⟩, and straight quotes, ⟨"⟩, as quotation
+marks and prime marks.[76] The practice of
+underlining text in place of italics and the use of all
+capitals to provide emphasis are additional examples
+of typographical conventions that derived from the
+limitations of the typewriter keyboard that still carry
+on today.[77]
+
+This typed page uses a number
+of typographic conventions
+stemming from the mechanical
+limitations of the typewriter:
+two hyphens in place of an em
+dash, double sentence spacing,
+straight quotation marks, tab
+indents for paragraphs, and
+double carriage returns
+between paragraphs
+
+Many older typewriters did not include a separate key
+for the numeral ⟨1⟩ or the exclamation point ⟨!⟩, and
+some even older ones also lacked the numeral zero,
+⟨0⟩. Typists who trained on these machines learned
+the habit of using the lowercase letter ⟨l⟩ ("ell") for
+the digit ⟨1⟩, and the uppercase ⟨O⟩ ('oh') for the zero.
+A cents symbol, ⟨¢⟩ was created by combining (over-striking) a lower case ⟨c⟩ with a
+slash character (typing ⟨c⟩, then backspace, then ⟨/⟩).
+Similarly, the exclamation point was created by combining an apostrophe and a
+period ( ' + . ≈⟨!⟩).[78] These characters were omitted to simplify design and reduce
+manufacturing and maintenance costs; they were chosen speciﬁcally because they
+were "redundant" and could be recreated using other keys.
+
+Terminology
+Some terminology from the typewriter age has survived into the personal computer
+era. Examples include:
+backspace (BS) – a keystroke that moved the cursor backwards one position (on a
+physical platen, this is the exact opposite of the space key), for the purpose of
+overtyping a character. This could be for combining characters (e.g. an apostrophe,
+backspace, and period make an exclamation point—a character missing on some
+early typewriters), or for correction such as with the correcting tape that developed
+later.
+carriage return (CR) – return to the ﬁrst column of text and, in some systems,
+switch to the next line.
+cursor – a marker used to indicate where the next character will be printed. The
+cursor, however, was originally a term to describe the clear slider on a slide rule.
+
+cut and paste – taking text, a numerical table, or an image and pasting it into a
+document. The term originated when such compound documents were created
+using manual paste up techniques for typographic page layout. Actual brushes and
+paste were later replaced by hot-wax machines equipped with cylinders that
+applied melted adhesive wax to developed prints of "typeset" copy. This copy was
+then cut out with knives and rulers, and slid into position on layout sheets on
+slanting layout tables. After the "copy" had been correctly positioned and squared
+up using a T-square and set square, it was pressed down with a brayer, or roller.
+The whole point of the exercise was to create so-called "camera-ready copy" which
+existed only to be photographed and then printed, usually by oﬀset lithography.
+dead key – a key that, when typed, does not advance the typing position, thus
+allowing another character to be overstruck on top of the original character. This
+was typically used to combine diacritical marks with letters they modiﬁed (e.g. è
+can be generated by ﬁrst pressing ` and then e ). The dead key feature was often
+implemented mechanically by having the typist press and hold the space bar while
+typing the characters to be superimposed.
+line feed (LF), also called "newline" – moving the cursor to the next on-screen line
+of text in a word processor document.
+shift – a modiﬁer key used to type capital letters and other alternate "upper case"
+characters; when pressed and held down, would shift a typewriter's mechanism to
+allow a diﬀerent typebar impression (such as 'D' instead of 'd') to press into the
+ribbon and print on a page. The concept of a shift key or modiﬁer key was later
+extended to Ctrl, Alt, and Super ("Windows" or "Apple") keys on modern computer
+keyboards. The generalized concept of a shift key reached its apex in the MIT
+space-cadet keyboard.
+tab (HT), shortened from "horizontal tab" or "tabulator stop" – caused the print
+position to advance horizontally to the next pre-set "tab stop". This was used for
+typing lists and tables with vertical columns of numbers or words. The related term
+"vertical tab" (VT) never came into widespread use.
+tty, short for teletypewriter – used in Unix-like operating systems to designate a
+given "terminal".
+In the above listing, the two-letter codes in parentheses are abbreviations for the
+ASCII characters derived from typewriter usage.
+
+Social eﬀects
+When Remington started marketing typewriters, the
+company assumed the machine would not be used for
+composing but for transcribing dictation, and that the
+person typing would be a woman. The 1800s Sholes and
+Glidden typewriter had ﬂoral ornamentation on the case.[79]
+
+Humorous "Get out!
+Can't you see I'm busy"
+postcard (1900s)
+
+During World War I and II, increasing numbers of women
+were entering the workforce. In the United States, women
+often started in the professional workplace as typists.
+Questions about morals made a salacious businessman
+making sexual advances to a female typist into a cliché of
+oﬀice life, appearing in vaudeville and movies. Being a
+typist was considered the right choice for a "good girl",
+
+meaning women who present themselves as being chaste and having good
+conduct.[80] According to the 1900 census, 94.9% of stenographers and typists were
+unmarried women.[81]
+The "Tijuana bibles" – adult comic books produced in Mexico for the American
+market, starting in the 1930s – often featured women typists. In one panel, a
+businessman in a three-piece suit, ogling his secretary's thigh, says, "Miss Higby, are
+you ready for—ahem!—er—dictation?"[40]
+The typewriter was a useful machine during the censorship era of the Soviet
+government, starting during the Russian Civil War (1917-1922). Samizdat was a form
+of self-publication used when the government was censoring what literature the
+public could access. The Soviet government signed a Decree on Press which
+prohibited the publishing of any written work that wasn't previously read over and
+approved.[82] This work was copied by hand, most often on typewriters.[83] There
+was a new law in 1983 that required any owner of a typewriter needed to get police
+permission to buy or keep, they would have to register a type sample of letters and
+numbers to ensure that any illegal literature typed with it could be traced back to its
+source.[84] The typewriter became increasingly popular as the interest in prohibited
+books grew.[85]
+
+Authors and writers who had notable relationships
+with typewriters
+Early adopters
+Henry James dictated to a typist.[40]
+Mark Twain claimed in his autobiography that he was the ﬁrst important writer to
+present a publisher with a typewritten manuscript, for The Adventures of Tom
+Sawyer (1876). Research showed that Twain's memory was incorrect and that the
+ﬁrst book submitted in typed form was Life on the Mississippi (1883, also by
+Twain).[86]
+
+Others
+William S. Burroughs wrote in some of his novels—and possibly believed—that "a
+machine he called the 'Soft Typewriter' was writing our lives, and our books, into
+existence", according to a book review in The New Yorker. In the ﬁlm adaptation of
+his novel Naked Lunch, his typewriter is a living, insect-like entity (voiced by North
+American actor Peter Boretski) and actually dictates the book to him.
+Writer Zack Helm and director Mark Forster explored the potential mechanics of
+the "Soft Typewriter" philosophy in the movie Stranger than Fiction, in which the
+very act of typing up her handwritten notes gives a ﬁction writer the power to kill
+or otherwise manipulate her main character in real life.
+Ernest Hemingway used to write his books standing up in front of a Royal
+typewriter suitably placed on a tall bookshelf. This typewriter, still on its bookshelf,
+is kept in Finca Vigía, Hemingway's Havana house (now a museum), where he lived
+until 1960, the year before his death.
+
+J. R. R. Tolkien was likewise accustomed to typing
+from awkward positions: "balancing his typewriter
+on his attic bed, because there was no room on his
+desk".[87] In his Foreword to The Lord of the Rings,
+Tolkien stated that "the whole story ... had to be
+typed, and re-typed: by me; the cost of
+professional typing by the ten-ﬁngered was beyond
+my means."
+Jack Kerouac, a fast typist at 100 words per minute,
+William Faulkner's Underwood
+typed On the Road on a roll of paper so he would
+Universal Portable sits in his
+oﬃce at Rowan Oak, which is
+not be interrupted by having to change the paper.
+now maintained by the
+Within two weeks of starting to write On the Road,
+University of Mississippi in
+Kerouac had one single-spaced paragraph, 120 feet
+Oxford as a museum.
+long. Some scholars say the scroll was shelf paper;
+others contend it was a Thermo-fax roll; another
+theory is that the roll consisted of sheets of
+architect’s paper taped together.[40] His rapid work
+earned the famous rebuke from Truman Capote,
+"That's not writing, it's typing."
+Another fast typist of the Beat Generation was
+Richard Brautigan, who said that he thought out
+the plots of his books in detail beforehand, then
+typed them out at speeds approaching 90 to 100
+words a minute.[88]
+Tom Robbins waxed philosophical about the
+Remington SL3, a typewriter that he bought to
+A portable typewriter owned by
+write Still Life with Woodpecker. He eventually did
+Ernest Hemingway
+away with it because it is too complicated and
+inhuman for the writing of poetry.
+After completing the novel Beautiful Losers,
+Leonard Cohen is said to have ﬂung his typewriter into the Aegean Sea.
+Don Marquis purposely used the limitations of a typewriter (or more precisely, a
+particular typist) in his archy and mehitabel series of newspaper columns, which
+were later compiled into a series of books. According to his literary conceit, a
+cockroach named "Archy" was a reincarnated free-verse poet, who would type
+articles overnight by jumping onto the keys of a manual typewriter. The writings
+were typed completely in lower case, because of the cockroach's inability to
+generate the heavy force needed to operate the shift key. The lone exception is the
+poem "CAPITALS AT LAST" from archys life of mehitabel, written in 1933.
+Author Ray Bradbury used a typewriter for rent at the library to write his work
+known as Fahrenheit 451, which was published in 1953.[89]
+Actor Tom Hanks uses and collects manual typewriters.[90]
+
+Late users
+Andy Rooney and William F. Buckley Jr. (1982) were among many writers who were
+very reluctant to switch from typewriters to computers.
+David McCullough bought a second-hand Royal typewriter in 1965 and has used it
+to compose every book he has published.
+
+Hunter S. Thompson kept a typewriter in his kitchen and is believed to have
+written his "Hey, Rube!" column for ESPN.com on a typewriter. He used a
+typewriter until his suicide in 2005.
+Theodore Kaczynski, the Unabomber, wrote his manifesto as well as his letters on a
+manual typewriter.
+David Sedaris used a typewriter to write his essay collections through Me Talk
+Pretty One Day at least.
+Richard Polt, a philosophy professor at Xavier University in Cincinnati who collects
+typewriters, edits ETCetera, a quarterly magazine about historic writing machines,
+and is the author of the book The Typewriter Revolution: A Typist's Companion for
+the 21st Century.[91]
+William Gibson used a Hermes 2000 model manual typewriter to write
+Neuromancer and half of Count Zero before a mechanical failure and lack of
+replacement parts forced him to upgrade to an Apple IIc computer.[92]
+Harlan Ellison has used typewriters for his entire career, and when he was no
+longer able to have them repaired, learned to do it himself; he has repeatedly
+stated his belief that computers are bad for writing, maintaining, "Art is not
+supposed to be easier!"[93]
+Author Cormac McCarthy continues to write his novels on an Olivetti Lettera 32
+typewriter to the present day. In 2009, the Lettera he obtained from a pawn shop
+in 1963, on which nearly all his novels and screenplays have been written, was
+auctioned for charity at Christie's for US$254,500;[94] McCarthy obtained an
+identical replacement for $20 to continue writing on.[95]
+Will Self explains why he uses a manual typewriter: "I think the computer user
+does their thinking on the screen, and the non-computer user is compelled,
+because he or she has to retype a whole text, to do a lot more thinking in the
+head."[96]
+
+Typewriters in popular culture
+In music
+Erik Satie's 1917 score for Parade (ballet) includes a "Mach. à écrire" as a
+percussion instrument, along with (elsewhere) a roulette wheel and a pistol.[97]
+The composer Pablo Sorozábal includes in a scene of his zarzuela La eterna
+canción (1945) a typewriter, accompanied by an orchestra and vocal soloists: the
+scene is in a police station, where a policeman is deposing witnesses, and is
+singing while he types the report.
+The composer Leroy Anderson wrote The Typewriter (1950) for orchestra and
+typewriter, and it has since been used as the theme for numerous radio programs.
+The solo instrument is a real typewriter played by a percussionist. The piece was
+later made famous by comedian Jerry Lewis as part of his regular routine both on
+screen and stage, most notably in the 1963 ﬁlm Who's Minding the Store?.
+Frank Loesser's music for the stage (1961) and screen (1967) musical How to
+Succeed in Business Without Really Trying employs the typewriter as a percussion
+instrument in the song "A Secretary is Not a Toy".
+The clacking of typewriter keys can be heard at the beginning of Dolly Parton's
+song "9 to 5". Parton has said in interviews that when writing the song, to mimic
+
+the typing keys sound, she would run her acrylic ﬁngernails back and forth against
+each other.
+The song "Embassy Lament" from the 1986 musical Chess mimics the sound of
+typing in the bridge.
+A typewriter provides the percussive backing for Stereo Total's "Dactylo Rock", the
+ﬁrst song from their 1995 debut album Oh Ah!.
+A suite of songs entitled "Green Typewriters" is on The Olivia Tremor Control's
+album Dusk At Cubist Castle (1996), and the sounds of typewriters can be heard in
+a few of the sections.
+Guster's 1999 song "Barrel of a Gun" features a typewriter as percussion.
+American singer-songwriter Marian Call accompanies herself on a typewriter on
+"Nerd Anthem" (c. 1998)
+American musician Beck's 2005 music video for "Black Tambourine" features
+typewriter characters to animate Beck's moving and playing guitar.
+The title track of Heernt's 2006 album Locked in a Basement prominently features
+the typewriter as a percussion instrument.
+The Boston Typewriter Orchestra (BTO) has performed at numerous art festivals,
+clubs, and parties since 2004.[98][99] The group consists of a half-dozen performers
+who use typewriters as percussive musical instruments, under the slogan, "The
+revolution will be typewritten".
+South Korean improviser Ryu Hankil frequently performs typewriters, most
+prominently in his 2009 album Becoming Typewriter.[100]
+Lead singer and songwriter Eddie Vedder of Pearl Jam types many of the band's
+lyrics on vintage typewriters.
+French musician and composer Yann Tiersen makes use of a typewriter as an
+instrument in some of his compositions.
+The Swedish band Wintergatan uses a typewriter as a percussion instrument in
+several of its pieces.
+
+Other
+In the ﬁlm The History of the Typewriter recited by Michael Winslow, voice sound
+eﬀect performer Michael Winslow recreates the sounds of 32 typewriters from
+history.
+The word "typewriter" is often cited as the longest English word that can be typed
+using only one row of keys of a QWERTY keyboard. This is untrue, since
+"rupturewort" (a kind of ﬂowering plant) has 11 letters, while "typewriter" has only
+10. Taber's Cyclopedic Medical Dictionary deﬁnes "uropyoureter" (12 letters).
+A sentence which uses every letter of the alphabet (a pangram), "A quick brown
+fox jumps over the lazy dog" can be used to check typewriters quickly.
+The early Resident Evil video games use a typewriter as the save feature, and use
+one ink ribbon per save.
+The opening title sequence of Murder, She Wrote prominently features Jessica
+Fletcher touch-typing a manuscript with a 1940s Royal KMM Manual Typewriter.
+Although in one episode Fletcher rejects a character's oﬀer to sell her a computer
+to replace the old Royal (which he calls a "dinosaur"), towards the series' end, she
+too begins using a computer and word-processing typewriter.
+
+In Rome the Altare della Patria, the national monument to King Victor Emmanuel II,
+used to be nicknamed "the typewriter" (la macchina per scrivere in Italian)
+because of its strange shape and popular dislike toward it.
+The 2012 French comedy movie Populaire, starring Romain Duris and Déborah
+François, centers on a young secretary in the 1950s striving to win typewriting
+speed competitions.[101]
+In the 2015 animated ﬁlm The Peanuts Movie, the character of Snoopy comes
+across a typewriter in a dumpster and uses it to write a story about his battle with
+the Red Baron, though he eventually ends up throwing it at Lucy after she insults
+his story.
+In the 2007 animated ﬁlm Ratatouille, old-fashioned and sternly-critical food writer
+Anton Ego writes his reviews on a typewriter, which resembles a human skull in
+appearance.
+
+Forensic examination
+Typewritten documents may be examined by forensic document examiners. This is
+done primarily to determine 1) the make and/or model of the typewriter used to
+produce a document, or 2) whether or not a particular suspect typewriter might have
+been used to produce a document.[102] In some situations, an ink or correction
+ribbon may also be examined.
+The determination of a make and/or model of typewriter is a 'classiﬁcation' problem
+and several systems have been developed for this purpose.[102] These include the
+original Haas Typewriter Atlases (Pica version)[103] and (Non-Pica version)[104] and
+the TYPE system developed by Dr. Philip Bouﬀard,[105] the Royal Canadian Mounted
+Police's Termatrex Typewriter classiﬁcation system,[106] and Interpol's typewriter
+classiﬁcation system,[107] among others.[102]
+Because of the tolerances of the mechanical parts, slight variation in the alignment
+of the letters and their uneven wear, each typewriter has an individual "signature" or
+"ﬁngerprint", which may permit a typewritten document to be traced back to the
+typewriter on which it was produced. For devices utilizing replaceable components,
+such as a typeball element, any association may be restricted to a speciﬁc element,
+rather than to the typewriter as a whole.
+The earliest reference in ﬁctional literature to the potential identiﬁcation of a
+typewriter as having produced a document was by Sir Arthur Conan Doyle, who
+wrote the Sherlock Holmes short story "A Case of Identity" in 1891.[108] In nonﬁction, the ﬁrst document examiner[108] to describe how a typewriter might be
+identiﬁed was William E. Hagan who wrote, in 1894, "All typewriter machines, even
+when using the same kind of type, become more or less peculiar by use as to the
+work done by them".[109] Other early discussions of the topic were provided by A. S.
+Osborn in his 1908 treatise, Typewriting as Evidence,[110] and again in his 1929
+textbook, Questioned Documents.[111] A modern description of the examination
+procedure is laid out in ASTM Standard E2494-08 (Standard Guide for Examination
+of Typewritten Items).[112]
+Typewriter examination was used in the Leopold and Loeb and Alger Hiss cases. In
+the Eastern Bloc, typewriters (together with printing presses, copy machines, and
+later computer printers) were a controlled technology, with secret police in charge of
+
+maintaining ﬁles of the typewriters and their owners. In the Soviet Union, the First
+Department of each organization sent data on organization's typewriters to the KGB.
+This posed a signiﬁcant risk for dissidents and samizdat authors. In Romania,
+according to State Council Decree No. 98 of March 28, 1983, owning a typewriter,
+both by businesses or by private persons, was subject to an approval given by the
+local police authorities.[113] People previously convicted of any crime or those who
+because of their behaviour were considered to be "a danger to public order or to the
+security of the state" were refused approval.[113] In addition, once a year, typewriter
+owners had to take the typewriter to the local police station, where they would be
+asked to type a sample of all the typewriter's characters.[113] It was also forbidden to
+borrow, lend, or repair typewriters other than at the places that had been authorized
+by the police.[113]
+The ribbon can be read, although only if it has not been typed over more than once.
+This is not as easy as reading text from a page as the ribbon does not include spaces,
+but can be done, giving every typewriter a "memory".
+
+Gallery
+
+Peter Mitterhofer Hansen
+Writing
+1864 typewriter
+Ball, invented in
+1865
+(1870
+model)
+
+Hammond 1B, as
+used
+by
+a
+newspaper oﬃce
+in
+Saskatoon
+around 1910
+
+1868
+patent
+drawing for the
+Sholes, Glidden,
+and
+Soule
+typewriter
+
+Hammond
+1B
+typewriter,
+invented 1870s,
+manufactured
+1881
+
+U.S.
+Army Typebars
+in
+a
+Quartermaster
+1920s typewriter
+soldiers
+in
+typewriter repair
+shop,
+Tours,
+France, 1919
+
+Chinese
+typewriter
+produced
+by
+Shuangge,
+with
+2,450 characters
+
+Japanese
+Hermes
+typewriter
+SH- typewriter
+280,
+a
+small
+machine
+with
+2,268 characters
+
+typewriter
+robotron S 1001
+from
+VEB
+RobotronElektronik at the
+GDR, this sample
+is owned by the
+MEK
+
+3000 1920s Underwood Chinese
+typewriter
+with typewriter
+at
+Swedish layout
+Deutsches
+Technikmuseum
+
+Personal
+An Olivetti Studio
+typewriter
+of 45 Typewriter
+Mozaﬀar
+ad-Din
+Shah Qajar, the
+ﬁfth Qajar king of
+Persia
+(Iran),
+made in late 19th
+century
+
+See also
+Chorded keyboard
+Computer keyboard
+Duplicating machines
+Friden Flexowriter
+JOHNNIAC
+Letter (alphabet)
+
+Projection keyboard
+Teletype Model 33
+Typeface
+Typescript
+Typewriter desk
+UNIVAC 1102
+
+References
+1. "typewriter (2)". Oxford English Dictionary. Vol 18 (2nd ed.). Oxford University
+Press. 1989. p. 789.
+
+2. James W. Cortada (2015). Before the Computer: IBM, NCR, Burroughs, and
+Remington Rand and the Industry They Created, 1865–1956 (https://books.google.
+com/books?id=dbl9BgAAQBAJ&pg=PT38). Princeton University Press. p. 38.
+ISBN 978-1-4008-7276-3. Archived (https://web.archive.org/web/20180626060339/
+https://books.google.com/books?id=dbl9BgAAQBAJ&pg=PT38) from the original on
+2018-06-26.
+3. "Typewriters" (https://web.archive.org/web/20161227181833/http://www.oﬃcemus
+eum.com/typewriters.htm). www.oﬃcemuseum.com. Archived from the original (ht
+tps://www.oﬃcemuseum.com/typewriters.htm) on December 27, 2016.
+4. "Typewriters, Writing a Social History of Urban India" (https://thewire.in/books/withgreat-truth-and-regards-typewriter). The Wire. Retrieved 18 March 2019.
+5. Stamp, Jimmy. "Fact of Fiction? The Legend of the QWERTY Keyboard" (https://www.
+smithsonianmag.com/arts-culture/fact-of-ﬁction-the-legend-of-the-qwerty-keyboard
+-49863249/). Smithsonian.
+6. "The archives times – March – April 2013 – Lost and found, a 1984 photo revives
+those times" (http://www.archives.godrej.com/assets/pdf/The_Archives_Times_Mar_
+Apr_2013.pdf) (PDF). Godrej archives. Retrieved 18 March 2019.
+7. "From behind the scenes – Godrej Prima and the Stenographers handbook" (http://
+www.archives.godrej.com/assets/pdf/Steno's_Handbook.pdf) (PDF).
+www.archives.godrej.com. Godrej archives. Retrieved 18 March 2019.
+8. Acocella, Joan (April 9, 2007). "The Typing Life: How writers used to write" (https://n
+ewyorker.com/arts/critics/books/2007/04/09/070409crbo_books_acocella?currentPa
+ge=1). The New Yorker. Archived (https://web.archive.org/web/20131203011413/ht
+tp://www.newyorker.com/arts/critics/books/2007/04/09/070409crbo_books_acocell
+a?currentPage=1) from the original on December 3, 2013.
+9. "Scrittura | Museo dinamico della tecnologia Adriano Olivetti" (http://museocaserta
+olivetti.altervista.org/scrittura/). museocasertaolivetti.altervista.org (in Italian).
+https://translate.google.pl/translate?
+hl=en&sl=it&u=http://museocasertaolivetti.altervista.org/scrittura/&prev=search.
+Archived (https://web.archive.org/web/20170621081930/http://museocasertaolivett
+i.altervista.org/scrittura/) from the original on 2017-06-21. Retrieved 2017-07-21.
+10. "Henry Mill Patents" (http://www.todayinsci.com/M/Mill_Henry/MillHenryPatents.ht
+m). Todayinsci.com. Archived (https://web.archive.org/web/20121128013806/htt
+p://www.todayinsci.com/M/Mill_Henry/MillHenryPatents.htm) from the original on
+2012-11-28. Retrieved 2012-03-30.
+11. "History of Computers and Computing, Birth of the modern computer, The bases of
+digital computers, typewriter and computer keyboard" (http://history-computer.co
+m/ModernComputer/Basis/keyboard.html). history-computer.com. Archived (https://
+web.archive.org/web/20160905195941/http://history-computer.com/ModernCompu
+ter/Basis/keyboard.html) from the original on 2016-09-05. Retrieved 2016-09-19.
+12. "Italian Inventors and their Inventions" (http://www.yourguidetoitaly.com/italian-inv
+entors.html). YourGuideToItaly.com. 2010. Retrieved 2011-01-25.
+13. Gianfrancesco Rambelli (1844). Intorno invenzioni e scoperte italiane (http://books.
+google.it/books?id=Om_KVDRCK8EC&pg=PA150) (in Italian). Modena: Tipograﬁa
+Vincenzi e Rossi. p. 150.
+14. William Austin Burt's Typographer. Science Museum. 1829.
+15. Utterback, James M. Utterback (1996). Mastering The Dynamics Of Innovation, 2nd
+Ed. Harvard Business Press. ISBN 978-0-87584-740-5.
+16. "Thurber's Chirographer – Scientiﬁc American" (https://todayinsci.com/Events/Type
+writer/Chirographer-SciAm.htm). todayinsci.com. Archived (https://web.archive.org/
+web/20150327043255/http://todayinsci.com/Events/Typewriter/Chirographer-SciA
+m.htm) from the original on 2015-03-27. Retrieved 2017-01-20.
+
+17. Adler, Michael (1997). Antique typewriters: from Creed to QWERTY. Atglen, Pa.:
+Schiﬀer Pub. ISBN 978-0-7643-0132-2.
+18. "Type Writing Machine" (http://cdl.library.cornell.edu/cgi-bin/moa/pageviewer?fram
+es=1&coll=moa&view=50&root=%2Fmoa%2Fscia%2Fscia1017%2F&tif=00011.TIF
+&cite=http%3A%2F%2Fcdl.library.cornell.edu%2Fcgi-bin%2Fmoa%2Fmoa-cgi%3Fn
+otisid%3DABF2204-1017-3). Scientiﬁc American. New. 17 (1). New York. 1867-0706. p. 3. Retrieved 2009-01-14.
+19. Hearst Magazines (May 1929). Popular Mechanics (https://books.google.com/book
+s?id=wN4DAAAAMBAJ&pg=PA751). Hearst Magazines. p. 751.
+20. Mares, G. C. (1909). The History of the Typewriter (https://archive.org/details/in.ern
+et.dli.2015.201721). London. p. 230 (https://archive.org/details/in.ernet.dli.2015.20
+1721/page/n234).
+21. "Early Oﬃce Museum" (http://www.oﬃcemuseum.com/typewriters.htm). Archived
+(https://web.archive.org/web/20140102201621/http://www.oﬃcemuseum.com/type
+writers.htm) from the original on 2 January 2014. Retrieved 1 December 2013.
+22. Larson, Erik (2004). The Devil in the White City: A Saga of Magic and Murder at the
+Fair that Changed America (https://books.google.com/books?id=kJp22rZDOZQC).
+Knopf Doubleday Publishing Group. p. 291. ISBN 978-1-4000-7631-4. Archived (htt
+ps://web.archive.org/web/20180626060339/https://books.google.com/books?id=kJp
+22rZDOZQC) from the original on 2018-06-26.
+23. Hendrickson, Walter B. (1956). "The Three Lives of Frank H. Hall" (https://web.archi
+ve.org/web/20100806034158/http://dig.lib.niu.edu/ISHS/ishs-1956autumn/ishs-195
+6autumn-271.pdf) (PDF). Journal of the Illinois State Historical Society. University of
+Illinois Press. 49 (3). Archived from the original (http://dig.lib.niu.edu/ISHS/ishs-195
+6autumn/ishs-1956autumn-271.pdf) (PDF) on 2010-08-06.
+24. Anonymous (24 April 2011). "Hall Braille Writer" (https://web.archive.org/web/2012
+0427203920/http://www.aph.org/museum/braillewriters/1.html). American Printing
+House for the Blind, Inc. Archived from the original (http://www.aph.org/museum/br
+aillewriters/1.html) on 27 April 2012. Retrieved 29 February 2012.
+25. Otto Burghagen (1898). Die Schreibmaschine. Illustrierte Beschreibung aller
+gangbaren Schreibmaschinen nebst gründlicher Anleitung zum Arbeiten auf
+sämtlichen Systemen.
+26. Dieter Eberwein. Nietzsches Schreibkugel. Ein Blick auf Nietzsches
+Schreibmaschinenzeit durch die Restauration der Schreibkugel. EberweinTyposkriptverlag. Schauenburg 2005.
+27. Johanne Agerskov (1925). Hvem er Skrivekuglens Opﬁnder?.
+28. Records of the Patent and Trademark Oﬃce, Record Group 241. (June 23, 1868).
+"Drawing for a Typewriter" (https://www.docsteach.org/documents/document/drawi
+ng-for-a-typewriter). docsteach.org.
+29. Jocher, Katharine; Bliven, Bruce (1954). "Reviewed work: The Typewriter and the
+Men Who Made It., Richard N. Current; the Wonderful Writing Machine., Bruce
+Bliven, Jr". Social Forces. 33 (2): 197–198. doi:10.2307/2573562 (https://doi.org/10.
+2307%2F2573562). JSTOR 2573562 (https://www.jstor.org/stable/2573562).
+30. "SmartBeard" (https://web.archive.org/web/20150102155301/http://smartbeard.co
+m/history-of-the-typewriter/). SmartBeard. Archived from the original (https://smart
+beard.com/) on January 2, 2015.
+31. Schwalbach Tower Clocks (http://www.vintagecatalogs.com/VC/HTM/Item/Schwalba
+ch_1906_ARCH.htm), Vintagecatalogs.com
+32. Wisconsin Historical Commission (http://www.waymarking.com/waymarks/WM23A6
+_FIRST_practical_typewriter) Archived (https://web.archive.org/web/201601020104
+02/http://www.waymarking.com/waymarks/WM23A6_FIRST_practical_typewriter)
+2016-01-02 at the Wayback Machine, Waymarking.com
+
+33. "Antique Index Typewriters"
+(http://www.oﬃcemuseum.com/typewriters_index.htm). Early Oﬃce Museum.
+Archived (https://web.archive.org/web/20160702212611/http://www.oﬃcemuseum.
+com/typewriters_index.htm) from the original on 2 July 2016. Retrieved 13 March
+2017.
+34. "The Mignon 2" (http://www.typewritermuseum.org/collection/brands/index.php3?
+machine=indexmignon2&cat=is). The Virtual Typewriter Museum. Archived (http
+s://web.archive.org/web/20161003035122/http://www.typewritermuseum.org/collec
+tion/brands/index.php3?machine=indexmignon2&cat=is) from the original on 3
+October 2016. Retrieved 13 March 2017.
+35. "The Remington Type-Writing Machine". Nature. 14 (342): 43–44. 1876.
+Bibcode:1876Natur..14...43. (https://ui.adsabs.harvard.edu/abs/1876Natur..14...4
+3.). doi:10.1038/014043a0 (https://doi.org/10.1038%2F014043a0).
+36. Robert, Paul. "Daugherty" (http://www.typewritermuseum.org/collection/index.php
+3?machine=daugh&cat=kf#). Collection. The Virtual Typewriter Museum (http://ww
+w.typewritermuseum.org/index.html). Archived (https://web.archive.org/web/20110
+729132951/http://www.typewritermuseum.org/collection/index.php3?machine=dau
+gh&cat=kf) from the original on July 29, 2011. Retrieved July 5, 2012. External link
+in |publisher= (help)
+37. Seaver, Alan (2011). "Daugherty Visible" (https://web.archive.org/web/2013051121
+1636/http://machinesoﬂovinggrace.com/ptf/VisDaughertyPittsburg.html). Machines
+of Loving Grace website (http://machinesoﬂovinggrace.com/). Alan Seaver.
+Archived from the original (http://machinesoﬂovinggrace.com/ptf/VisDaughertyPitts
+burg.html) on May 11, 2013. Retrieved July 5, 2012. External link in |work= (help)
+38. "How to prepare a mimeograph stencil by using a typewriter" (http://www.sil.org/lin
+gualinks/literacy/implementaliteracyprogram/howtoprepareamimeographstencil2.h
+tm). LinguaLinks Library. SIL International. Archived (https://archive.today/2012101
+6144524/http://www.sil.org/lingualinks/literacy/implementaliteracyprogram/howtop
+repareamimeographstencil2.htm) from the original on 2012-10-16. Retrieved
+2011-05-10.
+39. OOcities.com (https://web.archive.org/web/20091028054256/http://www.geocities.
+com/wbd641/UndNoiselessAd.html) Reproduction of advertisement for Noiseless
+typewriters, with list of models and diagram of typebar mechanism
+40. Newyorker.com (https://newyorker.com/arts/critics/books/2007/04/09/070409crbo_
+books_acocella?currentPage=all) Archived (https://web.archive.org/web/20070929
+165400/http://www.newyorker.com/arts/critics/books/2007/04/09/070409crbo_book
+s_acocella?currentPage=all) 2007-09-29 at the Wayback Machine Acocella, Joan,
+"The Typing Life: How writers used to write", The New Yorker, April 9, 2007, a
+review of The Iron Whim: A Fragmented History of Typewriting (Cornell) 2007, by
+Darren Wershler-Henry
+41. "Bert Kerschbaumer, "The Cahill Electrical Typewriters," ETCetera No. 100
+(December 2012)" (http://etconline.org/backissues/ETC100.pdf) (PDF). Archived (ht
+tps://web.archive.org/web/20160730133043/http://etconline.org/backissues/ETC10
+0.pdf) (PDF) from the original on 2016-07-30.
+42. "P. Robert Aubert, "The Last Service Call," ETCetera No. 33(December 1995)" (htt
+p://etconline.org/backissues/ETC033.pdf) (PDF). Archived (https://web.archive.org/
+web/20160730133642/http://etconline.org/backissues/ETC033.pdf) (PDF) from the
+original on 2016-07-30.
+
+43. "U.S. Patent 1,286,351 ﬁled in May, 1910, and issued in December, 1918" (http://p
+atimg2.uspto.gov/.piw?Docid=01286351&homeurl=http%3A%2F%2Fpatft.uspto.go
+v%2Fnetacgi%2Fnph-Parser%3FSect1%3DPTO1%2526Sect2%3DHITOFF%2526d%
+3DPALL%2526p%3D1%2526u%3D%25252Fnetahtml%25252FPTO%25252Fsrchnu
+m.htm%2526r%3D1%2526f%3DG%2526l%3D50%2526s1%3D1286351.PN.%2526
+OS%3DPN%2F1286351%2526RS%3DPN%2F1286351&PageNum=&Rtype=&Sectio
+nNum=&idkey=NONE&Input=View+ﬁrst+page). Archived (https://web.archive.org/
+web/20161225235913/http://patimg2.uspto.gov/.piw?Docid=01286351&homeurl=
+http%3A%2F%2Fpatft.uspto.gov%2Fnetacgi%2Fnph-Parser%3FSect1%3DPTO1%25
+26Sect2%3DHITOFF%2526d%3DPALL%2526p%3D1%2526u%3D%25252Fnetahtm
+l%25252FPTO%25252Fsrchnum.htm%2526r%3D1%2526f%3DG%2526l%3D50%25
+26s1%3D1286351.PN.%2526OS%3DPN%2F1286351%2526RS%3DPN%2F1286351
+&PageNum=&Rtype=&SectionNum=&idkey=NONE&Input=View+ﬁrst+page) from
+the original on 2016-12-25. Retrieved 2011-09-16.
+44. Colin Hempstead, William E. Worthington (2005). Encyclopedia of 20th Century
+Technology (https://books.google.com/books?id=0wkIlnNjDWcC&pg=PA605).
+Routledge. p. 605. ISBN 978-1-57958-464-1.
+45. "IBM Electric Typewriter Model 01" (http://www-03.ibm.com/ibm/history/exhibits/vin
+tage/vintage_4506VV2240.html). 03.ibm.com. 23 January 2003. Archived (https://w
+eb.archive.org/web/20130526135454/http://www-03.ibm.com/ibm/history/exhibits/
+vintage/vintage_4506VV2240.html) from the original on 2013-05-26. Retrieved
+2013-09-12.
+46. "Changing the Type of Typewriter Made Easy" (https://books.google.com/books?id=
+4OIDAAAAMBAJ&pg=-PA83). Popular Mechanics. Hearst Magazines: 83. July 1931.
+Archived (https://web.archive.org/web/20180626060339/https://books.google.com/
+books?id=4OIDAAAAMBAJ&pg=-PA83) from the original on 2018-06-26.
+47. "IBM Typewriter Milestones" (https://www-03.ibm.com/ibm/history/exhibits/modelb/
+modelb_milestone.html). IBM Archives. 23 January 2003. Archived (https://web.arc
+hive.org/web/20170627172904/http://www-03.ibm.com/ibm/history/exhibits/model
+b/modelb_milestone.html) from the original on 2017-06-27.
+48. IBM (7 March 2012). "The Selectric Typewriter" (https://www.ibm.com/ibm/history/i
+bm100/us/en/icons/selectric/). Icons of Progress. Retrieved 20 January 2020.
+49. Ellen, David (2005). Scientiﬁc Examination of Documents. CRC Press. pp. 106–107.
+ISBN 978-0-8493-3925-7.
+50. Wershler-Henry, Darren (2005). The Iron Whim: A Fragmented History of
+Typewriting (https://archive.org/details/ironwhim00wers/page/254). Ithica and
+London: Cornell University Press. p. 254 (https://archive.org/details/ironwhim00wer
+s/page/254). ISBN 978-0-8014-4586-6.
+51. "The History of Smith Corona | Since 1877 to Present" (http://www.smithcorona.co
+m/history.html). Archived (https://web.archive.org/web/20170322134218/http://ww
+w.smithcorona.com/history.html) from the original on 2017-03-22. Retrieved
+2017-03-12.
+52. Giuseppe Silmo (2007). M.P.S. Macchine per scrivere Olivetti e non solo.
+Fondazione Natale Capellaro. p. 74.
+53. US patent 4620808 (https://worldwide.espacenet.com/textdoc?DB=EPODOC&IDX=
+US4620808), "Display typewriter", issued 1986-11-04
+54. "Smith-Corona" (http://mindmachine.co.uk/products/04_Manuf_Smith-Corona_01.ht
+ml#PWP-series). Mindmachine.co.uk. Archived (https://web.archive.org/web/20130
+528120612/http://mindmachine.co.uk/products/04_Manuf_Smith-Corona_01.html#
+PWP-series) from the original on 2013-05-28. Retrieved 2013-09-12.
+
+55. Keene, Cindy Atoji (2009-02-01). "Typewriters ring on in the fringes" (https://www.b
+oston.com/jobs/news/articles/2009/02/01/typewriters_ring_on_in_the_fringes/). The
+Boston Globe. Archived (https://web.archive.org/web/20130826014156/http://www.
+boston.com/jobs/news/articles/2009/02/01/typewriters_ring_on_in_the_fringes/)
+from the original on 2013-08-26.
+56. Typewrite & Wrong: NYPD 'Wastes' $1M on Relics (http://www.nypost.com/seven/07
+132009/news/regionalnews/typewrite__wrong_178919.htm) Archived (https://web.a
+rchive.org/web/20090905051538/http://www.nypost.com/seven/07132009/news/re
+gionalnews/typewrite__wrong_178919.htm) 2009-09-05 at the Wayback Machine,
+By Jeremy Olshan, New York Post, July 13, 2009
+57. "The death of the typewriter? Don't write it oﬀ yet" (https://web.archive.org/web/20
+110503045910/http://www.rnw.nl/english/article/death-typewriter-dont-write-ityet). Radio Netherlands Worldwide. 2011-04-27. Archived from the original (http://
+www.rnw.nl/english/article/death-typewriter-dont-write-it-yet) on 2011-05-03.
+Retrieved 2012-03-30.
+58. "Texas inmates have clear choice in typewriters" (http://ﬁxed-mobile-convergence.t
+mcnet.com/news/2011/06/15/5574540.htm). Fixed-mobileconvergence.tmcnet.com. 2011-06-15. Archived (https://web.archive.org/web/2012
+0426011651/http://ﬁxed-mobile-convergence.tmcnet.com/news/2011/06/15/55745
+40.htm) from the original on 2012-04-26. Retrieved 2012-03-30.
+59. CBC News (April 26, 2011). "World's last typewriter plant stops production" (http://
+www.cbc.ca/news/world/story/2011/04/26/typewriter-factory-closing.html).
+Archived (https://web.archive.org/web/20110429015137/http://www.cbc.ca/news/w
+orld/story/2011/04/26/typewriter-factory-closing.html) from the original on April 29,
+2011. Retrieved April 27, 2011. "A previous version of this story did not clearly
+state that Godrej & Boyce appears to be the world's last maker of mechanical
+typewriters, which operate solely on human power. Numerous other manufacturers
+continue to make several types of electric typewriters."
+60. "Wite Out? World's 'last typewriter factory' apparently isn't" (http://content.usatoda
+y.com/communities/ondeadline/post/2011/04/worlds-last-typewriter-factory-oﬀers-it
+-ﬁnal-500-machines-for-sale/1). Content.usatoday.com. 2011-04-26. Archived (http
+s://archive.today/20120707111148/http://content.usatoday.com/communities/onde
+adline/post/2011/04/worlds-last-typewriter-factory-oﬀers-it-ﬁnal-500-machines-for-s
+ale/1) from the original on 2012-07-07. Retrieved 2012-03-30.
+61. Romenesko, Jim (2011-04-26). "Reports of typewriter's death are premature" (http
+s://web.archive.org/web/20110904024830/http://www.poynter.org/latest-news/rom
+enesko/129512/reports-of-typewriters-death-are-premature/). Poynter.org. Archived
+from the original (http://www.poynter.org/latest-news/romenesko/129512/reports-of
+-typewriters-death-are-premature/) on 2011-09-04. Retrieved 2012-03-30.
+62. Memmott, Mark (2011-04-26). "Has The Last Typewriter Factory Closed? Not
+Really" (https://www.npr.org/blogs/thetwo-way/2011/04/26/135740246/has-the-last
+-typewriter-factory-closed-not-really). Npr.org. Archived (https://web.archive.org/we
+b/20120313204452/http://www.npr.org/blogs/thetwo-way/2011/04/26/135740246/h
+as-the-last-typewriter-factory-closed-not-really) from the original on 2012-03-13.
+Retrieved 2012-03-30.
+63. Rohrlich, Justin (2011-04-25). "Contrary to Reports, Typewriter Industry "Far From
+Dead" " (http://www.minyanville.com/mvpremium/2011/04/25/contrary-to-reports-t
+ypewriter-industry). Archived (https://web.archive.org/web/20160224204135/http://
+www.minyanville.com/mvpremium/2011/04/25/contrary-to-reports-typewriter-indus
+try/) from the original on 2016-02-24.
+
+64. "UK's 'last typewriter' produced" (https://www.bbc.co.uk/news/uk-20391538). BBC.
+2012-11-20. Archived (https://web.archive.org/web/20131219184806/http://www.b
+bc.co.uk/news/uk-20391538) from the original on 2013-12-19. Retrieved
+2013-09-12.
+65. "Ainda se fabricam máquinas de escrever? (Are typewriters still manufactured?)"
+(http://mundoestranho.abril.com.br/materia/ainda-se-fabricam-maquinas-de-escrev
+er). Mundoestranho.abril.com.br. Archived (https://web.archive.org/web/201204250
+25818/http://mundoestranho.abril.com.br/materia/ainda-se-fabricam-maquinas-deescrever) from the original on 2012-04-25. Retrieved 2012-03-30.
+66. Richard Polt, The Typewriter Revolution: A Typist's Companion for the 21st Century
+(Woodstock, VT: Countryman Press, 2015)
+67. "How to correct a mimeograph stencil" (http://www.sil.org/lingualinks/literacy/imple
+mentaliteracyprogram/howtocorrectamimeographstencil.htm). LinguaLinks Library.
+SIL International. Archived (https://archive.today/20121016144730/http://www.sil.o
+rg/lingualinks/literacy/implementaliteracyprogram/howtocorrectamimeographstenc
+il.htm) from the original on 2012-10-16. Retrieved 2011-05-10.
+68. Liebowitz, S. J.; Stephen E. Margolis (1990). "The Fable of the Keys" (http://wwwpu
+b.utdallas.edu/~liebowit/keys1.html). Journal of Law & Economics. The University
+of Chicago. XXXIII (April 1990): 1. doi:10.1086/467198 (https://doi.org/10.1086%2
+F467198). Archived (https://web.archive.org/web/20080703204106/http://wwwpub.
+utdallas.edu/%7Eliebowit/keys1.html) from the original on 2008-07-03. Retrieved
+2008-06-18. "This article examines the history, economics, and ergonomics of the
+typewriter keyboard. We show that David's version of the history of the market's
+rejection of Dvorak does not report the true history, and we present evidence that
+the continued use of Qwerty is eﬃcient given the current understanding of
+keyboard design."
+69. Kroemer, Karl H.E (2014), "Keyboards and keying an annotated bibliography of the
+literature from 1878 to 1999", Universal Access in the Information Society, 1 (2):
+99–160, doi:10.1007/s102090100012 (https://doi.org/10.1007%2Fs102090100012)
+70. David, P. A. (1986). "Understanding the Economics of QWERTY: the Necessity of
+History". In Parker, William N., Economic History and the Modern Economist. Basil
+Blackwell, New York and Oxford.
+71. "Consider QWERTY" (https://web.archive.org/web/20080515013027/http://home.ea
+rthlink.net/~dcrehr/whyqwert.html). Archived from the original (http://home.earthli
+nk.net/~dcrehr/whyqwert.html) on May 15, 2008. Retrieved 2008-06-18.
+"QWERTY's eﬀect, by reducing those annoying clashes, was to speed up typing
+rather than slow it down."
+72. "Instructions for Using the Blickensderfer Typewriter" (http://library.duke.edu/digital
+collections/eaa_A0562/). Archived (https://web.archive.org/web/20140221053745/h
+ttp://library.duke.edu/digitalcollections/eaa_A0562/) from the original on 2014-0221. Retrieved 2014-01-03.
+73. Upper and Lower Case Magazine. "U&lc Online Issue 41.1.1: Top Ten Type Crimes"
+(http://www.itcfonts.com/Ulc/4111/TopTenTypeCrimes.htm). Retrieved 23 March
+2010.
+74. Williams, Robin (2003). The Mac is not a typewriter: A style manual for creating
+professional-level type on your Macintosh (2nd ed.). Berkeley, California: Peachpit
+Press. ISBN 978-0-201-78263-9.
+75. Felici, James (2003). The Complete Manual of Typography: A Guide to Setting
+Perfect Type. Berkeley, California: Peachpit Press. p. 80. ISBN 978-0-321-12730-3.
+
+76. Rosendorf, Theodore (2009). The Typographic Desk Reference (https://archive.org/d
+etails/typographicdeskr0000rose) (1st ed.). New Castle, Delaware. ISBN 978-158456-231-3.; Upper and Lower Case Magazine. "U&lc Online Issue 41.1.1: Top Ten
+Type Crimes" (http://www.itcfonts.com/Ulc/4111/TopTenTypeCrimes.htm). Retrieved
+23 March 2010.; Strizver, Ilene (2010). Type Rules: The Designer's Guide to
+Professional Typography (3rd ed.). New Jersey: John Wiley & Sons. p. 199.
+ISBN 978-0-470-54251-4.. Strizver states that "When available, true primes should
+be used for measurements, but typewriter quotes (not smart quotes) have become
+the accepted practice in digital typography."
+77. Regents of the University of Minnesota (18 July 2007). "University of Minnesota
+Style Manual" (https://web.archive.org/web/20090117122230/http://www1.umn.ed
+u/urelate/style/copyprep.html). University of Minnesota. Regents of the University
+of Minnesota. Archived from the original (http://www1.umn.edu/urelate/style/copyp
+rep.html#Anchor-Copy-47857) on January 17, 2009. Retrieved 12 May 2010. This
+topic is discussed under "Creating Professional-looking Text."; Williams 2003. pps.
+31, 33. Another example of the limitation of the typewriter in regard to underlining,
+was the necessity to underline the titles of books and stand-alone works in
+Bibliographies—works that would otherwise have been italicized, if that capability
+existed on the typewriter.
+78. Truss, Lynn (2004). Eats, Shoot & Leaves: The Zero Tolerance Approach to
+Punctuation. New York: Gotham Books. p. 135. ISBN 978-1-59240-087-4.
+79. "1876 Sholes, Gidden, Soule invention" (https://web.archive.org/web/20121214222
+817/http://library.thinkquest.org/04oct/00451/typewriter.htm). Archived from the
+original (http://library.thinkquest.org/04oct/00451/typewriter.htm) on 14 December
+2012. Retrieved 29 December 2012.
+80. Boyer, Kate, and Kim England. "Gender, Work and Technology in the Information
+Workplace: From Typewriters to ATMs." Social & Cultural Geography 9.3 (2008):
+241–56. Web.
+81. Waller, Robert A. "WOMEN AND THE TYPEWRITER DURING THE FIRST FIFTY YEARS,
+1873–1923". Studies in Popular Culture 9.1 (1986): 39–50. Web.
+82. "Decree on the Press" (http://soviethistory.msu.edu/1917-2/organs-of-the-press/org
+ans-of-the-press-texts/decree-on-the-press/). Seventeen Moments in Soviet History.
+2015-08-25. Retrieved 2019-12-09.
+83. KULA: knowledge creation, dissemination, and preservation studies (https://kula.uvi
+c.ca/). 2017. OCLC 1126556820 (https://www.worldcat.org/oclc/1126556820).
+84. Bolintineanu, Alexandra; Thirugnanasampanthan, Jaya (2018-11-29). "The
+Typewriter Under the Bed: Introducing Digital Humanities through Banned Books
+and Endangered Knowledge". KULA: Knowledge Creation, Dissemination, and
+Preservation Studies. 2 (1): 22. doi:10.5334/kula.30 (https://doi.org/10.5334%2Fkul
+a.30). ISSN 2398-4112 (https://www.worldcat.org/issn/2398-4112).
+85. Aleeva, Ekaterina (2017-07-10). "Samizdat: How did people in the Soviet Union
+circumvent state censorship" (https://www.rbth.com/arts/literature/2017/07/10/sam
+izdat_797635). www.rbth.com. Retrieved 2019-12-09.
+86. "The First Typewriter" (https://web.archive.org/web/20090201140007/http://home.e
+arthlink.net/~dcrehr/ﬁrsttw.html). Rehr, Darryl. Archived from the original (http://ho
+me.earthlink.net/~dcrehr/ﬁrsttw.html) on 2009-02-01. Retrieved 2009-02-16.
+87. Carpenter, Humphrey (1978). J. R. R. Tolkien: A Biography, Unwin Paperbacks
+p.207. ISBN 0 04 928039 2
+88. Foster, Edward H., Richard Brautigan, Twayne 1983.
+
+89. A Bruin Birthday Tribute To Ray Bradbury Tweet (August 22, 2010). "First Spark: Ray
+Bradbury Turns 90; The Universe and UCLA Academy Celebrate" (https://web.archiv
+e.org/web/20111005161805/http://www.spotlight.ucla.edu/ray-bradbury/).
+Spotlight.ucla.edu. Archived from the original (http://www.spotlight.ucla.edu/ray-br
+adbury/) on October 5, 2011. Retrieved September 30, 2011.
+90. Hanks, Tom. "I Am TOM. I Like to TYPE. Hear That?" (https://www.nytimes.com/201
+3/08/04/opinion/sunday/i-am-tom-i-like-to-type-hear-that.html). Retrieved March 9,
+2020.
+91. Revolution, The Typewriter. "A Typist's Companion for the 21st Century" (https://typ
+ewriterrevolution.com/). The Typewriter Revolution.
+92. "Blog archive" (https://web.archive.org/web/20071021032407/http://www.williamgi
+bsonbooks.com/blog/2006_10_01_archive.asp). Archived from the original (http://w
+ww.williamgibsonbooks.com/blog/2006_10_01_archive.asp) on 2007-10-21.
+Retrieved 2008-10-23.
+93. "Harlan Ellison Webderland: Interview" (http://harlanellison.com/interview.htm).
+Harlanellison.com. Archived (https://web.archive.org/web/20120308110553/http://
+www.harlanellison.com/interview.htm) from the original on 2012-03-08. Retrieved
+2012-03-30.
+94. Kennedy, Randy (2009-12-04). "Cormac McCarthy's Typewriter Brings $254,500 at
+Auction – ArtsBeat Blog – NYTimes.com" (http://artsbeat.blogs.nytimes.com/2009/1
+2/04/cormac-mccarthys-typewriter-brings-254500-at-auction/).
+Artsbeat.blogs.nytimes.com. Archived (https://web.archive.org/web/201105281535
+49/http://artsbeat.blogs.nytimes.com/2009/12/04/cormac-mccarthys-typewriter-bri
+ngs-254500-at-auction/) from the original on 2011-05-28. Retrieved 2010-01-11.
+95. Patricia Cohen (November 30, 2009). "No Country for Old Typewriters: A Well-Used
+One Heads to Auction" (https://www.nytimes.com/2009/12/01/books/01typewriter.h
+tml?_r=1&scp=1&sq=cohen%20mccarthy&st=cse). New York Times. Archived (htt
+ps://web.archive.org/web/20140904124940/http://www.nytimes.com/2009/12/01/b
+ooks/01typewriter.html?_r=1&scp=1&sq=cohen%20mccarthy&st=cse) from the
+original on September 4, 2014.
+96. "Why typewriters beat computers" (http://news.bbc.co.uk/1/hi/7427237.stm). BBC
+News. 2008-05-30. Archived (https://web.archive.org/web/20170804050059/http://
+news.bbc.co.uk/1/hi/7427237.stm) from the original on 2017-08-04.
+97. "IMSLP16532-Satie_-_Parade_(orch._score).pdf" (http://conquest.imslp.info/ﬁles/img
+lnks/usimg/d/db/IMSLP16532-Satie_-_Parade_(orch._score).pdf) (PDF). International
+Music Score Library Project.
+98. Hurley, Sean. "Boston Orchestra Makes Typewriters Sing" (https://www.npr.org/tem
+plates/story/story.php?storyId=95578403). NPR Music. National Public Radio.
+Archived (https://web.archive.org/web/20120308223426/http://www.npr.org/templa
+tes/story/story.php?storyId=95578403) from the original on 2012-03-08. Retrieved
+2012-03-16.
+99. "The Boston Typewriter Orchestra" (http://www.bostontypewriterorchestra.com/).
+Wordpress. Archived (https://web.archive.org/web/20120404062611/http://www.bo
+stontypewriterorchestra.com/) from the original on 2012-04-04. Retrieved
+2012-03-16.
+00. "Becoming Typewriter : Ryu Hankil : Free Download & Streaming : Internet Archive"
+(https://archive.org/details/BecomingTypewriter). 2001-03-10. Retrieved
+2013-09-12.
+01. "Populaire Bande Annonce Oﬃcielle" (https://www.youtube.com/watch?v=5p6xo2W
+-DHs). YouTube. Archived (https://web.archive.org/web/20130724090127/http://ww
+w.youtube.com/watch?v=5p6xo2W-DHs) from the original on 2013-07-24.
+Retrieved 2013-09-12.
+
+02. Kelly, Mary W. (2006). "Typewriters". Scientiﬁc Examination of Questioned
+Documents, Second Edition (Forensic and Police Science Series) (2nd ed.). Boca
+Raton, FL: CRC Press. pp. 177–189. ISBN 978-0-8493-2044-6.
+03. Haas, Josef. (1972), "ATLAS der Schreibmaschinenschrift, PICA".
+04. Haas, Josef and Bernhard Haas. (1985), "ATLAS der Schreibmaschinenschrift, NonPICA".
+05. Bouﬀard, P.D. (1992), A PC-Based Typewriter Typestyle Classiﬁcation System
+Standard, presented at the American Academy of Forensic Sciences meeting, New
+Orleans, LA.
+06. Hodgins, Cpl. J.H. (January 1963). "A Punchcard System for Identiﬁcation of
+Typescript". Journal of Forensic Sciences. 8 (1): 68–81.
+07. Interpol (1969) "System for Identiﬁcation of Typewriter Makes Using the Card
+Index", ICPO-Interpol
+08. Crown, David A. (March 1967). "Landmarks in Typewriting Identiﬁcation" (https://sc
+holarlycommons.law.northwestern.edu/cgi/viewcontent.cgi?article=5434&context=
+jclc). Journal of Criminal Law, Criminology, and Police Science. 58 (1): 105–111.
+doi:10.2307/1141378 (https://doi.org/10.2307%2F1141378). JSTOR 1141378 (http
+s://www.jstor.org/stable/1141378). "The earliest known reference to the
+identiﬁcation potential of typewriting, curiously enough, appears in 'A Case of
+Identity', a Sherlock Holmes story by Sir Arthur Conan Doyle..."
+09. Hagan, William E. (1894). "Chapter VIII". Disputed Handwriting (https://archive.org/
+details/disputedhandwrit00haga). Albany, NY: Banks & Brothers. p. 203 (https://arc
+hive.org/details/disputedhandwrit00haga/page/203).
+10. Osborn, Albert S. (1908). "Typewriting as Evidence". Rochester, NY: The Genesee
+Press: 23.
+11. Osborn, Albert S. (1973) [1929]. "Questioned Typewriting". Questioned Documents
+(2nd ed.). Montclair, NJ: Patterson Smith. p. 1042. ISBN 978-0-87585-207-2.
+12. ASTM International (http://www.astm.org/) Archived (https://web.archive.org/web/2
+0060331053643/http://www.astm.org/) 2006-03-31 at the Wayback Machine, These
+guides are under the jurisdiction of ASTM Committee E30 on Forensic Sciences and
+the direct responsibility of Subcommittee E30.02 on Questioned Documents.
+Copies of ASTM Standards can be obtained directly from ASTM International.
+13. Betea, Lavinia (February 13, 2009). "La Miliţie cu maşina de scris" (https://web.arch
+ive.org/web/20150904043133/http://jurnalul.ro/scinteia/special/la-militie-cu-masina
+-de-scris-319045.html) (in Romanian). jurnalul.ro. Archived from the original (http://
+jurnalul.ro/scinteia/special/la-militie-cu-masina-de-scris-319045.html) on
+September 4, 2015. Retrieved August 24, 2014.
+
+Patents
+US79265 (https://www.google.com/patents/US79265) – Improvement in TypeWriting Machines (the patent that laid the basis for the Sholes & Glidden Type
+Writer)
+US349026 (https://www.google.com/patents/US349026) – typewriter ribbon, by
+George K. Anderson of Memphis, Tennessee.
+
+Further reading
+Adler, M.H. (1973). The Writing Machine: A History of the Typewriter. Allen and
+Unwin.
+
+Beeching, Wilfred A. (1974). Century of the Typewriter. St. Martin's Press. pp. 276
+Beeching was the Director of the British Typewriter Museum.
+
+External links
+The Eclectisaurus online Museum of Typewriters by manufacturers from Adler to
+Voss. (http://www.eclectisaurus.com/tmtypewritermuseum.html)
+Antique Typewriters, a look at the Martin Howard Collection (http://www.antiquetyp
+ewriters.com/)
+Most Deﬁnitely My Type (https://www.youtube.com/watch?v=2y3HK9yTqYo) Video
+showcasing historical typewriters, with soundtrack by Boston Typewriter Orchestra
+Oliveira Typewriter (em português) (http://www.maquinasantigasdeescrever.com.b
+r/historia.html)
+Antique Typewriter Collecting, History & Resources for the Collector (http://www.typ
+ewritercollector.com/)
+Early Typewriter Collectors' Association (https://web.archive.org/web/20090126014
+136/http://site.xavier.edu/polt/typewriters/etc.html)
+The Classic Typewriter Page (http://site.xavier.edu/polt/typewriters/)
+Robert, Paul (2001). "The Virtual Typewriter Museum" (http://www.typewritermuseu
+m.org/index.html).
+Mr. Martin's Typewriter Museum (http://www.mrmartinweb.com/type.htm)
+The Portable Typewriter Reference Site (https://web.archive.org/web/20091028022
+753/http://www.geocities.com/wbd641/PortablesIndex.html)
+Typewriter: Free Minimal Text Editing Software the Behaves like a Typewriter (http://
+www.lifehackingmovie.com/2009/05/18/typewriter-minimal-text-editor-freeware/)
+Swiss typpewriter museum (http://perrier-sa.ch/musee/)
+Peter Mitterhofer typewriters Museum in Parcines (South Tyrol – Italy) (http://www.s
+chreibmaschinenmuseum.com/en/)
+
+Revival
+Richard Polt, The Typewriter Revolution: A Typist's Companion for the 21st Century
+(http://typewriterrevolution.com/)
+Ding, click clack -- typewriter is back (http://qctimes.com/news/opinion/editorial/col
+umnists/bill-wundram/article_03dd1536-4423-11de-a7be-001cc4c002e0.html)—
+Quad-City Times, May 18, 2009
+Typewriters experience a comeback – UPI.com (http://www.upi.com/Odd_News/201
+1/12/19/Typewriters-experience-a-comeback/UPI-30661324327372/)—United Press
+International, Dec. 19, 2011
+Documentary Film -- The Typewriter (In the 21st Century) (http://typewritermovie.c
+om/)—2012
+Kremlin returns to typewriters to avoid computer leaks (https://www.telegraph.co.u
+k/news/worldnews/europe/russia/10173645/Kremlin-returns-to-typewriters-to-avoid
+-computer-leaks.html)—The Daily Telegraph, July 11, 2013
+Germany 'may revert to typewriters' to counter hi-tech espionage (https://www.the
+guardian.com/world/2014/jul/15/germany-typewriters-espionage-nsa-spying-surveil
+lance?CMP=twt_gu)—The Guardian, July 15, 2014
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Typewriter&oldid=965410152"
+
+This page was last edited on 1 July 2020, at 04:57 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may
+apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered
+trademark of the Wikimedia Foundation, Inc., a non-proﬁt organization.
+
+

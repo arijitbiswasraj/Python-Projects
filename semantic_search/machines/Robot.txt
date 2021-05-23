@@ -1,0 +1,2147 @@
+Robot
+A robot is a machine—especially one programmable
+by a computer— capable of carrying out a complex
+series of actions automatically.[2] Robots can be
+guided by an external control device or the control
+may be embedded within. Robots may be constructed
+on the lines of human form, but most robots are
+machines designed to perform a task with no regard
+to their aesthetics.
+Robots can be autonomous or semi-autonomous and
+range from humanoids such as Honda's Advanced
+Step in Innovative Mobility (ASIMO) and TOSY's
+TOSY Ping Pong Playing Robot (TOPIO) to industrial
+robots, medical operating robots, patient assist
+robots, dog therapy robots, collectively programmed
+swarm robots, UAV drones such as General Atomics
+MQ-1 Predator, and even microscopic nano robots. By
+mimicking a lifelike appearance or automating
+movements, a robot may convey a sense of
+intelligence or thought of its own. Autonomous things
+are expected to proliferate in the coming decade,[3]
+with home robotics and the autonomous car as some
+of the main drivers.[4]
+
+Atlas (2016), a bipedal
+humanoid robot
+
+The branch of technology that deals with the design,
+construction, operation, and application of robots,[5]
+as well as computer systems for their control, sensory
+feedback, and information processing is robotics.
+These technologies deal with automated machines
+that can take the place of humans in dangerous
+environments or manufacturing processes, or
+resemble humans in appearance, behavior, or
+cognition. Many of today's robots are inspired by
+nature contributing to the ﬁeld of bio-inspired
+robotics. These robots have also created a newer
+branch of robotics: soft robotics.
+From the time of ancient civilization there have been
+many accounts of user-conﬁgurable automated
+ASIMO (2000) at the Expo 2005
+devices and even automata resembling animals and
+humans, designed primarily as entertainment. As
+mechanical techniques developed through the Industrial age, there appeared more
+practical applications such as automated machines, remote-control and wireless
+remote-control.
+
+The term comes from a Slavic root, robot-, with
+meanings associated with labor. The word 'robot' was
+ﬁrst used to denote a ﬁctional humanoid in a 1920
+Czech-language play R.U.R. (Rossumovi Univerzální
+Roboti - Rossum's Universal Robots) by Karel Čapek,
+though it was Karel's brother Josef Čapek who was
+the word's true inventor.[6][7][8] Electronics evolved
+into the driving force of development with the advent
+of the ﬁrst electronic autonomous robots created by
+William Grey Walter in Bristol, England in 1948, as
+well as Computer Numerical Control (CNC) machine
+tools in the late 1940s by John T. Parsons and Frank
+L. Stulen. The ﬁrst commercial, digital and
+programmable robot was built by George Devol in
+1954 and was named the Unimate. It was sold to
+General Motors in 1961 where it was used to lift
+pieces of hot metal from die casting machines at the
+Inland Fisher Guide Plant in the West Trenton section
+of Ewing Township, New Jersey.[9]
+Robots have replaced humans[10] in performing
+repetitive and dangerous tasks which humans prefer
+not to do, or are unable to do because of size
+limitations, or which take place in extreme
+environments such as outer space or the bottom of
+the sea. There are concerns about the increasing use
+of robots and their role in society. Robots are blamed
+for rising technological unemployment as they
+replace
+workers
+in
+increasing
+numbers
+of
+[11]
+functions.
+The use of robots in military combat
+raises ethical concerns. The possibilities of robot
+autonomy and potential repercussions have been
+addressed in ﬁction and may be a realistic concern in
+the future.
+
+Contents
+Summary
+History
+Early beginnings
+Remote-controlled systems
+Origin of the term 'robot'
+Early robots
+Modern autonomous robots
+Future development and trends
+New functionalities and prototypes
+Etymology
+Modern robots
+
+Articulated welding robots used
+in a factory are a type of
+industrial robot
+
+The quadrupedal military robot
+Cheetah, an evolution of
+BigDog (pictured), was clocked
+as the world's fastest legged
+robot in 2012, beating the
+record set by an MIT bipedal
+robot in 1989.[1]
+
+Mobile robot
+Industrial robots (manipulating)
+Service robot
+Educational (interactive) robots
+Modular robot
+Collaborative robots
+Robots in society
+Autonomy and ethical questions
+Military robots
+Relationship to unemployment
+Contemporary uses
+General-purpose autonomous robots
+Factory robots
+Dirty, dangerous, dull or inaccessible tasks
+Military robots
+Mining robots
+Healthcare
+Research robots
+Contemporary art and sculpture
+Robots in popular culture
+Literature
+Films
+Sex robots
+Problems depicted in popular culture
+See also
+Speciﬁc robotics concepts
+Robotics methods and categories
+Speciﬁc robots and devices
+Other related articles
+References
+Further reading
+External links
+
+Summary
+The word robot can refer to both physical robots and virtual software agents, but the
+latter are usually referred to as bots.[12] There is no consensus on which machines
+qualify as robots but there is general agreement among experts, and the public, that
+robots tend to possess some or all of the following abilities and functions: accept
+electronic programming, process data or physical perceptions electronically, operate
+autonomously to some degree, move around, operate physical parts of itself or
+physical processes, sense and manipulate their environment, and exhibit intelligent
+behavior, especially behavior which mimics humans or other animals.[13][14] Closely
+
+related to the concept of a robot is the ﬁeld of
+Synthetic Biology, which studies entities whose
+nature is more comparable to beings than to
+machines.
+
+History
+The idea of automata originates in the mythologies of
+many cultures around the world. Engineers and
+inventors from ancient civilizations, including Ancient
+China,[15] Ancient Greece, and Ptolemaic Egypt,[16]
+attempted to build self-operating machines, some
+resembling animals and humans. Early descriptions of
+automata include the artiﬁcial doves of Archytas,[17]
+the artiﬁcial birds of Mozi and Lu Ban,[18] a
+"speaking" automaton by Hero of Alexandria, a
+washstand automaton by Philo of Byzantium, and a
+human automaton described in the Lie Zi.[15]
+
+KITT (a ﬁctional robot) is
+mentally anthropomorphic.
+
+Early beginnings
+Many ancient mythologies, and most modern religions
+iCub is physically
+include artiﬁcial people, such as the mechanical
+anthropomorphic.
+servants built by the Greek god Hephaestus[19]
+(Vulcan to the Romans), the clay golems of Jewish
+legend and clay giants of Norse legend, and Galatea, the mythical statue of
+Pygmalion that came to life. Since circa 400 BC, myths of Crete include Talos, a man
+of bronze who guarded the island from pirates.
+In ancient Greece, the Greek engineer Ctesibius (c. 270 BC) "applied a knowledge of
+pneumatics and hydraulics to produce the ﬁrst organ and water clocks with moving
+ﬁgures."[20][21] In the 4th century BC, the Greek mathematician Archytas of
+Tarentum postulated a mechanical steam-operated bird he called "The Pigeon". Hero
+of Alexandria (10–70 AD), a Greek mathematician and inventor, created numerous
+user-conﬁgurable automated devices, and described machines powered by air
+pressure, steam and water.[22]
+The 11th century Lokapannatti tells of how the
+Buddha's relics were protected by mechanical robots
+(bhuta vahana yanta), from the kingdom of Roma
+visaya (Rome); until they were disarmed by King
+Ashoka. [23] [24]
+In ancient China, the 3rd-century text of the Lie Zi
+describes an account of humanoid automata,
+involving a much earlier encounter between Chinese
+emperor King Mu of Zhou and a mechanical engineer
+Al-Jazari – A Musical Toy
+known as Yan Shi, an 'artiﬁcer'. Yan Shi proudly
+presented the king with a life-size, human-shaped
+ﬁgure of his mechanical 'handiwork' made of leather, wood, and artiﬁcial organs.[15]
+
+There are also accounts of ﬂying automata in the Han Fei Zi and other texts, which
+attributes the 5th century BC Mohist philosopher Mozi and his contemporary Lu Ban
+with the invention of artiﬁcial wooden birds (ma yuan) that could successfully ﬂy.[18]
+In 1066, the Chinese inventor Su Song built a water
+clock in the form of a tower which featured
+mechanical
+ﬁgurines
+which
+chimed
+the
+[25][26][27]
+hours.
+His mechanism had a programmable
+drum machine with pegs (cams) that bumped into
+little levers that operated percussion instruments.
+The drummer could be made to play diﬀerent rhythms
+and diﬀerent drum patterns by moving the pegs to
+diﬀerent locations.[27]
+
+Samarangana Sutradhara, a Sanskrit treatise by
+Bhoja (11th century), includes a chapter about the
+construction of mechanical contrivances (automata),
+including mechanical bees and birds, fountains
+shaped like humans and animals, and male and
+female dolls that reﬁlled oil lamps, danced, played
+instruments, and re-enacted scenes from Hindu
+mythology.[28][29][30]
+
+Su Song's astronomical clock
+tower showing the mechanical
+ﬁgurines which chimed the
+hours.
+
+13th century Muslim Scientist Ismail al-Jazari created several automated devices. He
+built automated moving peacocks driven by hydropower.[31] He also invented the
+earliest known automatic gates, which were driven by hydropower,[32] created
+automatic doors as part of one of his elaborate water clocks.[33] One of al-Jazari's
+humanoid automata was a waitress that could serve water, tea or drinks. The drink
+was stored in a tank with a reservoir from where the drink drips into a bucket and,
+after seven minutes, into a cup, after which the waitress appears out of an automatic
+door serving the drink.[34] Al-Jazari invented a hand washing automaton
+incorporating a ﬂush mechanism now used in modern ﬂush toilets. It features a
+female humanoid automaton standing by a basin ﬁlled with water. When the user
+pulls the lever, the water drains and the female automaton reﬁlls the basin.[35]
+Mark E. Rosheim summarizes the advances in robotics made by Muslim engineers,
+especially al-Jazari, as follows:
+Unlike the Greek designs, these Arab examples reveal an interest, not only
+in dramatic illusion, but in manipulating the environment for human
+comfort. Thus, the greatest contribution the Arabs made, besides
+preserving, disseminating and building on the work of the Greeks, was the
+concept of practical application. This was the key element that was missing
+in Greek robotic science.[36]
+In Renaissance Italy, Leonardo da Vinci (1452–1519) sketched plans for a humanoid
+robot around 1495. Da Vinci's notebooks, rediscovered in the 1950s, contained
+detailed drawings of a mechanical knight now known as Leonardo's robot, able to sit
+up, wave its arms and move its head and jaw.[38] The design was probably based on
+anatomical research recorded in his Vitruvian Man. It is not known whether he
+attempted to build it. According to Encyclopædia Britannica, Leonardo da Vinci may
+
+have been inﬂuenced by the classic automata of alJazari.[31]
+In Japan, complex animal and human automata were
+built between the 17th to 19th centuries, with many
+described in the 18th century Karakuri zui (Illustrated
+Machinery, 1796). One such automaton was the
+karakuri ningyō, a mechanized puppet.[39] Diﬀerent
+variations of the karakuri existed: the Butai karakuri,
+which were used in theatre, the Zashiki karakuri,
+which were small and used in homes, and the Dashi
+karakuri which were used in religious festivals, where
+the puppets were used to perform reenactments of
+traditional myths and legends.
+
+Model of Leonardo's robot with
+inner workings. Possibly
+constructed by Leonardo da
+Vinci around 1495.[37]
+
+In France, between 1738 and 1739, Jacques de
+Vaucanson exhibited several life-sized automatons: a
+ﬂute player, a pipe player and a duck. The mechanical
+duck could ﬂap its wings, crane its neck, and swallow food from the exhibitor's hand,
+and it gave the illusion of digesting its food by excreting matter stored in a hidden
+compartment.[40]
+
+Remote-controlled systems
+Remotely operated vehicles were demonstrated in the
+late 19th century in the form of several types of
+remotely controlled torpedoes. The early 1870s saw
+remotely controlled torpedoes by John Ericsson
+(pneumatic), John Louis Lay (electric wire guided),
+and Victor von Scheliha (electric wire guided).[41]
+
+The Brennan torpedo, one of
+the earliest 'guided missiles'
+
+The Brennan torpedo, invented by Louis Brennan in
+1877, was powered by two contra-rotating propellors
+that were spun by rapidly pulling out wires from drums wound inside the torpedo.
+Diﬀerential speed on the wires connected to the shore station allowed the torpedo to
+be guided to its target, making it "the world's ﬁrst practical guided missile".[42] In
+1897 the British inventor Ernest Wilson was granted a patent for a torpedo remotely
+controlled by "Hertzian" (radio) waves[43][44] and in 1898 Nikola Tesla publicly
+demonstrated a wireless-controlled torpedo that he hoped to sell to the US
+Navy.[45][46]
+Archibald Low, known as the "father of radio guidance systems" for his pioneering
+work on guided rockets and planes during the First World War. In 1917, he
+demonstrated a remote controlled aircraft to the Royal Flying Corps and in the same
+year built the ﬁrst wire-guided rocket.
+
+Origin of the term 'robot'
+'Robot' was ﬁrst applied as a term for artiﬁcial automata in the 1920 play R.U.R. by
+the Czech writer, Karel Čapek. However, Josef Čapek was named by his brother Karel
+as the true inventor of the term robot.[7][8] The word 'robot' itself was not new,
+
+having been in the Slavic language as robota (forced laborer), a term which
+classiﬁed those peasants obligated to compulsory service under the feudal system
+(see: Robot Patent).[47][48] Čapek's ﬁctional story postulated the technological
+creation of artiﬁcial human bodies without souls, and the old theme of the feudal
+robota class eloquently ﬁt the imagination of a new class of manufactured, artiﬁcial
+workers.
+English pronunciation of the word has evolved relatively quickly since its
+introduction. In the U.S. during the late '30s to early '40s the second sylable was
+pronounced with a long "O" like "row-boat."[49] By the late '50s to early '60s, some
+were pronouncing it with a short "U" like "row-but" while others used a softer "O"
+like "row-bought."[50] By the '70s, its current pronunciation "row-bot" had become
+predominant.
+
+Early robots
+In 1928, one of the ﬁrst humanoid robots, Eric, was
+exhibited at the annual exhibition of the Model Engineers
+Society in London, where it delivered a speech. Invented by
+W. H. Richards, the robot's frame consisted of an aluminium
+body of armour with eleven electromagnets and one motor
+powered by a twelve-volt power source. The robot could
+move its hands and head and could be controlled through
+remote control or voice control.[51] Both Eric and his
+"brother" George toured the world.[52]
+Westinghouse Electric Corporation built Televox in 1926; it
+was a cardboard cutout connected to various devices which
+users could turn on and oﬀ. In 1939, the humanoid robot
+known as Elektro was debuted at the 1939 New York
+W. H. Richards with
+World's Fair.[53][54] Seven feet tall (2.1 m) and weighing 265
+"George", 1932
+pounds (120.2 kg), it could walk by voice command, speak
+about 700 words (using a 78-rpm record player), smoke
+cigarettes, blow up balloons, and move its head and arms. The body consisted of a
+steel gear, cam and motor skeleton covered by an aluminum skin. In 1928, Japan's
+ﬁrst robot, Gakutensoku, was designed and constructed by biologist Makoto
+Nishimura.
+
+Modern autonomous robots
+The ﬁrst electronic autonomous robots with complex behaviour were created by
+William Grey Walter of the Burden Neurological Institute at Bristol, England in 1948
+and 1949. He wanted to prove that rich connections between a small number of
+brain cells could give rise to very complex behaviors – essentially that the secret of
+how the brain worked lay in how it was wired up. His ﬁrst robots, named Elmer and
+Elsie, were constructed between 1948 and 1949 and were often described as
+tortoises due to their shape and slow rate of movement. The three-wheeled tortoise
+robots were capable of phototaxis, by which they could ﬁnd their way to a recharging
+station when they ran low on battery power.
+
+Walter stressed the importance of using purely analogue electronics to simulate
+brain processes at a time when his contemporaries such as Alan Turing and John von
+Neumann were all turning towards a view of mental processes in terms of digital
+computation. His work inspired subsequent generations of robotics researchers such
+as Rodney Brooks, Hans Moravec and Mark Tilden. Modern incarnations of Walter's
+turtles may be found in the form of BEAM robotics.[55]
+The ﬁrst digitally operated and programmable robot
+was invented by George Devol in 1954 and was
+ultimately called the Unimate. This ultimately laid the
+foundations of the modern robotics industry.[56] Devol
+sold the ﬁrst Unimate to General Motors in 1960, and
+it was installed in 1961 in a plant in Trenton, New
+Jersey to lift hot pieces of metal from a die casting
+machine and stack them.[57] Devol's patent for the
+ﬁrst digitally operated programmable robotic arm
+represents the foundation of the modern robotics
+industry.[58]
+
+U.S. Patent 2,988,237, issued in
+1961 to Devol.
+
+The ﬁrst palletizing robot was introduced in 1963 by
+the Fuji Yusoki Kogyo Company.[59] In 1973, a robot
+with six electromechanically driven axes was
+patented[60][61][62] by KUKA robotics in Germany, and
+the programmable universal manipulation arm was
+invented by Victor Scheinman in 1976, and the design
+was sold to Unimation.
+
+Commercial and industrial robots are now in
+widespread use performing jobs more cheaply or with
+greater accuracy and reliability than humans. They are also employed for jobs which
+are too dirty, dangerous or dull to be suitable for humans. Robots are widely used in
+manufacturing, assembly and packing, transport, earth and space exploration,
+surgery, weaponry, laboratory research, and mass production of consumer and
+industrial goods.[63]
+
+Future development and trends
+External video
+Various techniques have emerged to develop the
+science of robotics and robots. One method is
+Atlas, The Next Generation
+evolutionary robotics, in which a number of diﬀering
+(https://www.youtube.com/watc
+robots are submitted to tests. Those which perform
+h?v=rVlhMGQgDkY)
+best are used as a model to create a subsequent
+"generation"
+of
+robots.
+Another
+method
+is
+developmental robotics, which tracks changes and development within a single robot
+in the areas of problem-solving and other functions. Another new type of robot is just
+recently introduced which acts both as a smartphone and robot and is named
+RoboHon.[64]
+As robots become more advanced, eventually there may be a standard computer
+operating system designed mainly for robots. Robot Operating System is an opensource set of programs being developed at Stanford University, the Massachusetts
+Institute of Technology and the Technical University of Munich, Germany, among
+
+others. ROS provides ways to program a robot's navigation and limbs regardless of
+the speciﬁc hardware involved. It also provides high-level commands for items like
+image recognition and even opening doors. When ROS boots up on a robot's
+computer, it would obtain data on attributes such as the length and movement of
+robots' limbs. It would relay this data to higher-level algorithms. Microsoft is also
+developing a "Windows for robots" system with its Robotics Developer Studio, which
+has been available since 2007.[65]
+Japan hopes to have full-scale commercialization of service robots by 2025. Much
+technological research in Japan is led by Japanese government agencies, particularly
+the Trade Ministry.[66]
+Many future applications of robotics seem obvious to people, even though they are
+well beyond the capabilities of robots available at the time of the prediction.[67][68]
+As early as 1982 people were conﬁdent that someday robots would:[69] 1. Clean parts
+by removing molding ﬂash 2. Spray paint automobiles with absolutely no human
+presence 3. Pack things in boxes—for example, orient and nest chocolate candies in
+candy boxes 4. Make electrical cable harness 5. Load trucks with boxes—a packing
+problem 6. Handle soft goods, such as garments and shoes 7. Shear sheep 8.
+prosthesis 9. Cook fast food and work in other service industries 10. Household
+robot.
+Generally such predictions are overly optimistic in timescale.
+
+New functionalities and prototypes
+In 2008, Caterpillar Inc. developed a dump truck which can drive itself without any
+human operator.[70] Many analysts believe that self-driving trucks may eventually
+revolutionize logistics.[71] By 2014, Caterpillar had a self-driving dump truck which is
+expected to greatly change the process of mining. In 2015, these Caterpillar trucks
+were actively used in mining operations in Australia by the mining company Rio
+Tinto Coal Australia.[72][73][74][75] Some analysts believe that within the next few
+decades, most trucks will be self-driving.[76]
+A literate or 'reading robot' named Marge has intelligence that comes from software.
+She can read newspapers, ﬁnd and correct misspelled words, learn about banks like
+Barclays, and understand that some restaurants are better places to eat than
+others.[77]
+Baxter is a new robot introduced in 2012 which learns by guidance. A worker could
+teach Baxter how to perform a task by moving its hands in the desired motion and
+having Baxter memorize them. Extra dials, buttons, and controls are available on
+Baxter's arm for more precision and features. Any regular worker could program
+Baxter and it only takes a matter of minutes, unlike usual industrial robots that take
+extensive programs and coding in order to be used. This means Baxter needs no
+programming in order to operate. No software engineers are needed. This also
+means Baxter can be taught to perform multiple, more complicated tasks. Sawyer
+was added in 2015 for smaller, more precise tasks.[78]
+
+Etymology
+
+The word robot was introduced to the public by the
+Czech interwar writer Karel Čapek in his play R.U.R.
+(Rossum's Universal Robots), published in 1920.[79]
+The play begins in a factory that uses a chemical
+substitute for protoplasm to manufacture living,
+simpliﬁed people called robots. The play does not
+focus in detail on the technology behind the creation
+of these living creatures, but in their appearance they
+A scene from Karel Čapek's
+preﬁgure modern ideas of androids, creatures who
+1920 play R.U.R. (Rossum's
+can be mistaken for humans. These mass-produced
+Universal Robots), showing
+workers are depicted as eﬀicient but emotionless,
+three robots
+incapable of original thinking and indiﬀerent to selfpreservation. At issue is whether the robots are being
+exploited and the consequences of human dependence upon commodiﬁed labor
+(especially after a number of specially-formulated robots achieve self-awareness and
+incite robots all around the world to rise up against the humans).
+Karel Čapek himself did not coin the word. He wrote a short letter in reference to an
+etymology in the Oxford English Dictionary in which he named his brother, the
+painter and writer Josef Čapek, as its actual originator.[79]
+In an article in the Czech journal Lidové noviny in 1933, he explained that he had
+originally wanted to call the creatures laboři ("workers", from Latin labor). However,
+he did not like the word, and sought advice from his brother Josef, who suggested
+"roboti". The word robota means literally "corvée", "serf labor", and ﬁguratively
+"drudgery" or "hard work" in Czech and also (more general) "work", "labor" in many
+Slavic languages (e.g.: Bulgarian, Russian, Serbian, Slovak, Polish, Macedonian,
+Ukrainian, archaic Czech, as well as robot in Hungarian). Traditionally the robota
+(Hungarian robot) was the work period a serf (corvée) had to give for his lord,
+typically 6 months of the year. The origin of the word is the Old Church Slavonic (Old
+Bulgarian) rabota "servitude" ("work" in contemporary Bulgarian and Russian),
+which in turn comes from the Proto-Indo-European root *orbh-. Robot is cognate with
+the German root Arbeit (work).[80][81]
+The word robotics, used to describe this ﬁeld of study,[5] was coined by the science
+ﬁction writer Isaac Asimov. Asimov created the "Three Laws of Robotics" which are a
+recurring theme in his books. These have since been used by many others to deﬁne
+laws used in ﬁction. (The three laws are pure ﬁction, and no technology yet created
+has the ability to understand or follow them, and in fact most robots serve military
+purposes, which run quite contrary to the ﬁrst law and often the third law. "People
+think about Asimov's laws, but they were set up to point out how a simple ethical
+system doesn't work. If you read the short stories, every single one is about a failure,
+and they are totally impractical," said Dr. Joanna Bryson of the University of
+Bath.[82])
+
+Modern robots
+Mobile robot
+
+Mobile robots[83] have the capability to move around
+in their environment and are not ﬁxed to one physical
+location. An example of a mobile robot that is in
+common use today is the automated guided vehicle or
+automatic guided vehicle (AGV). An AGV is a mobile
+robot that follows markers or wires in the ﬂoor, or
+uses vision or lasers.[84] AGVs are discussed later in
+this article.
+Mobile robots are also found in industry, military and
+security environments.[85] They also appear as
+consumer products, for entertainment or to perform
+certain tasks like vacuum cleaning. Mobile robots are
+the focus of a great deal of current research and
+almost every major university has one or more labs
+that focus on mobile robot research.
+Mobile robots are usually used in tightly controlled
+A laparoscopic robotic surgery
+environments such as on assembly lines because they
+machine
+have diﬀiculty responding to unexpected interference.
+Because of this most humans rarely encounter robots.
+However
+domestic
+robots
+for
+cleaning
+and
+maintenance are increasingly common in and around homes in developed countries.
+Robots can also be found in military applications.
+
+Industrial robots (manipulating)
+Industrial robots usually consist of a jointed arm
+(multi-linked manipulator) and an end eﬀector that is
+attached to a ﬁxed surface. One of the most common
+type of end eﬀector is a gripper assembly.
+The International Organization for Standardization
+gives a deﬁnition of a manipulating industrial robot in
+ISO 8373:
+
+A pick and place robot in a
+factory
+
+"an
+automatically
+controlled,
+reprogrammable,
+multipurpose, manipulator programmable in three or
+more axes, which may be either ﬁxed in place or
+mobile
+for
+use
+in
+industrial
+automation
+[86]
+applications."
+
+This deﬁnition is used by the International Federation
+of Robotics, the European Robotics Research Network (EURON) and many national
+standards committees.[87]
+
+Service robot
+Most commonly industrial robots are ﬁxed robotic arms and manipulators used
+primarily for production and distribution of goods. The term "service robot" is less
+well-deﬁned. The International Federation of Robotics has proposed a tentative
+
+deﬁnition, "A service robot is a robot which operates semi- or fully autonomously to
+perform services useful to the well-being of humans and equipment, excluding
+manufacturing operations."[88]
+
+Educational (interactive) robots
+Robots are used as educational assistants to teachers. From the 1980s, robots such
+as turtles were used in schools and programmed using the Logo language.[89][90]
+There are robot kits like Lego Mindstorms, BIOLOID, OLLO from ROBOTIS, or
+BotBrain Educational Robots can help children to learn about mathematics, physics,
+programming, and electronics. Robotics have also been introduced into the lives of
+elementary and high school students in the form of robot competitions with the
+company FIRST (For Inspiration and Recognition of Science and Technology). The
+organization is the foundation for the FIRST Robotics Competition, FIRST LEGO
+League, Junior FIRST LEGO League, and FIRST Tech Challenge competitions.
+There have also been robots such as the teaching computer, Leachim (1974).[91]
+Leachim was an early example of speech synthesis using the using the Diphone
+synthesis method. 2-XL (1976) was a robot shaped game / teaching toy based on
+branching between audible tracks on an 8-track tape player, both invented by
+Michael J. Freeman.[92] Later, the 8-track was upgraded to tape cassettes and then to
+digital.
+
+Modular robot
+Modular robots are a new breed of robots that are designed to increase the
+utilization of robots by modularizing their architecture.[93] The functionality and
+eﬀectiveness of a modular robot is easier to increase compared to conventional
+robots. These robots are composed of a single type of identical, several diﬀerent
+identical module types, or similarly shaped modules, which vary in size. Their
+architectural structure allows hyper-redundancy for modular robots, as they can be
+designed with more than 8 degrees of freedom (DOF). Creating the programming,
+inverse kinematics and dynamics for modular robots is more complex than with
+traditional robots. Modular robots may be composed of L-shaped modules, cubic
+modules, and U and H-shaped modules. ANAT technology, an early modular robotic
+technology patented by Robotics Design Inc., allows the creation of modular robots
+from U and H shaped modules that connect in a chain, and are used to form
+heterogeneous and homogenous modular robot systems. These "ANAT robots" can be
+designed with "n" DOF as each module is a complete motorized robotic system that
+folds relatively to the modules connected before and after it in its chain, and
+therefore a single module allows one degree of freedom. The more modules that are
+connected to one another, the more degrees of freedom it will have. L-shaped
+modules can also be designed in a chain, and must become increasingly smaller as
+the size of the chain increases, as payloads attached to the end of the chain place a
+greater strain on modules that are further from the base. ANAT H-shaped modules
+do not suﬀer from this problem, as their design allows a modular robot to distribute
+pressure and impacts evenly amongst other attached modules, and therefore
+payload-carrying capacity does not decrease as the length of the arm increases.
+Modular robots can be manually or self-reconﬁgured to form a diﬀerent robot, that
+may perform diﬀerent applications. Because modular robots of the same architecture
+
+type are composed of modules that compose diﬀerent modular robots, a snake-arm
+robot can combine with another to form a dual or quadra-arm robot, or can split into
+several mobile robots, and mobile robots can split into multiple smaller ones, or
+combine with others into a larger or diﬀerent one. This allows a single modular robot
+the ability to be fully specialized in a single task, as well as the capacity to be
+specialized to perform multiple diﬀerent tasks.
+Modular robotic technology is currently being applied in hybrid transportation,[94]
+industrial automation,[95] duct cleaning[96] and handling. Many research centres and
+universities have also studied this technology, and have developed prototypes.
+
+Collaborative robots
+A collaborative robot or cobot is a robot that can safely and eﬀectively interact with
+human workers while performing simple industrial tasks. However, end-eﬀectors and
+other environmental conditions may create hazards, and as such risk assessments
+should be done before using any industrial motion-control application.[97]
+The collaborative robots most widely used in industries today are manufactured by
+Universal Robots in Denmark.[98]
+Rethink Robotics—founded by Rodney Brooks, previously with iRobot—introduced
+Baxter in September 2012; as an industrial robot designed to safely interact with
+neighboring human workers, and be programmable for performing simple tasks.[99]
+Baxters stop if they detect a human in the way of their robotic arms and have
+prominent oﬀ switches. Intended for sale to small businesses, they are promoted as
+the robotic analogue of the personal computer.[100] As of May 2014, 190 companies
+in the US have bought Baxters and they are being used commercially in the UK.[11]
+
+Robots in society
+Roughly half of all the robots in the world are in Asia,
+32% in Europe, and 16% in North America, 1% in
+Australasia and 1% in Africa.[103] 40% of all the
+robots in the world are in Japan,[104] making Japan
+the country with the highest number of robots.
+
+Autonomy and ethical questions
+TOPIO, a humanoid robot,
+
+As robots have become more advanced and
+played ping pong at Tokyo
+International Robot Exhibition
+sophisticated,
+experts
+and
+academics
+have
+(IREX) 2009[101][102]
+increasingly explored the questions of what ethics
+might govern robots' behavior,[106] and whether
+robots might be able to claim any kind of social,
+cultural, ethical or legal rights.[107] One scientiﬁc team has said that it is possible
+that a robot brain will exist by 2019.[108] Others predict robot intelligence
+breakthroughs by 2050.[109] Recent advances have made robotic behavior more
+sophisticated.[110] The social impact of intelligent robots is subject of a 2010
+documentary ﬁlm called Plug & Pray.[111]
+
+Vernor Vinge has suggested that a moment may come
+when computers and robots are smarter than
+humans. He calls this "the Singularity".[112] He
+suggests that it may be somewhat or possibly very
+dangerous for humans.[113] This is discussed by a
+philosophy called Singularitarianism.
+In 2009, experts attended a conference hosted by the
+Association for the Advancement of Artiﬁcial
+Intelligence (AAAI) to discuss whether computers and
+robots might be able to acquire any autonomy, and
+how much these abilities might pose a threat or
+hazard. They noted that some robots have acquired
+various forms of semi-autonomy, including being able
+to ﬁnd power sources on their own and being able to
+independently choose targets to attack with weapons.
+They also noted that some computer viruses can
+An android, or robot designed
+evade elimination and have achieved "cockroach
+to resemble a human, can
+intelligence." They noted that self-awareness as
+appear comforting to some
+depicted in science-ﬁction is probably unlikely, but
+people and disturbing to
+that there were other potential hazards and
+others[105]
+pitfalls.[112] Various media sources and scientiﬁc
+groups have noted separate trends in diﬀering areas
+which might together result in greater robotic functionalities and autonomy, and
+which pose some inherent concerns.[114][115][116] In 2015, the Nao alderen robots
+were shown to have a capability for a degree of self-awareness. Researchers at the
+Rensselaer Polytechnic Institute AI and Reasoning Lab in New York conducted an
+experiment where a robot became aware of itself, and corrected its answer to a
+question once it had realised this.[117]
+
+Military robots
+Some experts and academics have questioned the use of robots for military combat,
+especially when such robots are given some degree of autonomous functions.[118]
+There are also concerns about technology which might allow some armed robots to
+be controlled mainly by other robots.[119] The US Navy has funded a report which
+indicates that, as military robots become more complex, there should be greater
+attention to implications of their ability to make autonomous decisions.[120][121] One
+researcher states that autonomous robots might be more humane, as they could
+make decisions more eﬀectively. However, other experts question this.[122]
+One robot in particular, the EATR, has generated public concerns[123] over its fuel
+source, as it can continually refuel itself using organic substances.[124] Although the
+engine for the EATR is designed to run on biomass and vegetation[125] speciﬁcally
+selected by its sensors, which it can ﬁnd on battleﬁelds or other local environments,
+the project has stated that chicken fat can also be used.[126]
+Manuel De Landa has noted that "smart missiles" and autonomous bombs equipped
+with artiﬁcial perception can be considered robots, as they make some of their
+decisions autonomously. He believes this represents an important and dangerous
+trend in which humans are handing over important decisions to machines.[127]
+
+Relationship to unemployment
+For centuries, people have predicted that machines would make workers obsolete
+and increase unemployment, although the causes of unemployment are usually
+thought to be due to social policy.[128]
+A recent example of human replacement involves Taiwanese technology company
+Foxconn who, in July 2011, announced a three-year plan to replace workers with
+more robots. At present the company uses ten thousand robots but will increase
+them to a million robots over a three-year period.[129]
+Lawyers have speculated that an increased prevalence of robots in the workplace
+could lead to the need to improve redundancy laws.[130]
+Kevin J. Delaney said "Robots are taking human jobs. But Bill Gates believes that
+governments should tax companies’ use of them, as a way to at least temporarily
+slow the spread of automation and to fund other types of employment."[131] The
+robot tax would also help pay a guaranteed living wage to the displaced workers.
+The World Bank's World Development Report 2019 puts forth evidence showing that
+while automation displaces workers, technological innovation creates more new
+industries and jobs on balance.[132]
+
+Contemporary uses
+At present, there are two main types of robots, based on their
+use: general-purpose autonomous robots and dedicated robots.
+Robots can be classiﬁed by their speciﬁcity of purpose. A robot
+might be designed to perform one particular task extremely
+well, or a range of tasks less well. All robots by their nature
+can be re-programmed to behave diﬀerently, but some are
+limited by their physical form. For example, a factory robot
+arm can perform jobs such as cutting, welding, gluing, or
+acting as a fairground ride, while a pick-and-place robot can
+only populate printed circuit boards.
+
+General-purpose autonomous robots
+General-purpose autonomous robots can perform a variety of
+A general-purpose
+functions independently. General-purpose autonomous robots
+robot acts as a
+typically can navigate independently in known spaces, handle
+guide during the day
+their own re-charging needs, interface with electronic doors
+and a security guard
+and elevators and perform other basic tasks. Like computers,
+at night.
+general-purpose robots can link with networks, software and
+accessories that increase their usefulness. They may recognize
+people or objects, talk, provide companionship, monitor
+environmental quality, respond to alarms, pick up supplies and perform other useful
+tasks. General-purpose robots may perform a variety of functions simultaneously or
+they may take on diﬀerent roles at diﬀerent times of day. Some such robots try to
+mimic human beings and may even resemble people in appearance; this type of robot
+
+is called a humanoid robot. Humanoid robots are still in a very limited stage, as no
+humanoid robot can, as of yet, actually navigate around a room that it has never
+been in. Thus, humanoid robots are really quite limited, despite their intelligent
+behaviors in their well-known environments.
+
+Factory robots
+Car production
+Over the last three decades, automobile factories have become dominated by robots.
+A typical factory contains hundreds of industrial robots working on fully automated
+production lines, with one robot for every ten human workers. On an automated
+production line, a vehicle chassis on a conveyor is welded, glued, painted and ﬁnally
+assembled at a sequence of robot stations.
+Packaging
+Industrial robots are also used extensively for palletizing and packaging of
+manufactured goods, for example for rapidly taking drink cartons from the end of a
+conveyor belt and placing them into boxes, or for loading and unloading machining
+centers.
+Electronics
+Mass-produced printed circuit boards (PCBs) are almost exclusively manufactured by
+pick-and-place robots, typically with SCARA manipulators, which remove tiny
+electronic components from strips or trays, and place them on to PCBs with great
+accuracy.[133] Such robots can place hundreds of thousands of components per hour,
+far out-performing a human in speed, accuracy, and reliability.[134]
+Automated guided vehicles (AGVs)
+Mobile robots, following markers or wires in the ﬂoor, or using vision[84] or lasers,
+are used to transport goods around large facilities, such as warehouses, container
+ports, or hospitals.[135]
+Early AGV-style robots
+Limited to tasks that could be accurately deﬁned and had to be performed the same
+way every time. Very little feedback or intelligence was required, and the robots
+needed only the most basic exteroceptors (sensors). The limitations of these AGVs
+are that their paths are not easily altered and they cannot alter their paths if
+obstacles block them. If one AGV breaks down, it may stop the entire operation.
+Interim AGV technologies
+
+Developed to deploy triangulation from beacons or bar code
+grids for scanning on the ﬂoor or ceiling. In most factories,
+triangulation systems tend to require moderate to high
+maintenance, such as daily cleaning of all beacons or bar
+codes. Also, if a tall pallet or large vehicle blocks beacons
+or a bar code is marred, AGVs may become lost. Often such
+AGVs are designed to be used in human-free environments.
+Intelligent AGVs (i-AGVs)
+Such as SmartLoader,[136] SpeciMinder,[137] ADAM,[138]
+Tug[139] Eskorta,[140] and MT 400 with Motivity[141] are
+designed for people-friendly workspaces. They navigate by
+recognizing natural features. 3D scanners or other means
+An intelligent AGV dropsof sensing the environment in two or three dimensions help
+oﬀ goods without
+to eliminate cumulative errors in dead-reckoning
+needing lines or beacons
+calculations of the AGV's current position. Some AGVs can
+in the workspace.
+create maps of their environment using scanning lasers
+with simultaneous localization and mapping (SLAM) and
+use those maps to navigate in real time with other path planning and obstacle
+avoidance algorithms. They are able to operate in complex environments and
+perform non-repetitive and non-sequential tasks such as transporting photomasks in
+a semiconductor lab, specimens in hospitals and goods in warehouses. For dynamic
+areas, such as warehouses full of pallets, AGVs require additional strategies using
+three-dimensional sensors such as time-of-ﬂight or stereovision cameras.
+
+Dirty, dangerous, dull or inaccessible tasks
+There are many jobs which humans would rather leave to robots. The job may be
+boring, such as domestic cleaning or sports ﬁeld line marking, or dangerous, such as
+exploring inside a volcano.[142] Other jobs are physically inaccessible, such as
+exploring another planet,[143] cleaning the inside of a long pipe, or performing
+laparoscopic surgery.[144]
+Space probes
+Almost every unmanned space probe ever launched was a robot.[145][146] Some were
+launched in the 1960s with very limited abilities, but their ability to ﬂy and land (in
+the case of Luna 9) is an indication of their status as a robot. This includes the
+Voyager probes and the Galileo probes, among others.
+Telerobots
+Teleoperated robots, or telerobots, are devices remotely operated from a distance by
+a human operator rather than following a predetermined sequence of movements,
+but which has semi-autonomous behaviour. They are used when a human cannot be
+present on site to perform a job because it is dangerous, far away, or inaccessible.
+The robot may be in another room or another country, or may be on a very diﬀerent
+scale to the operator. For instance, a laparoscopic surgery robot allows the surgeon
+to work inside a human patient on a relatively small scale compared to open surgery,
+
+signiﬁcantly shortening recovery time.[144] They can
+also be used to avoid exposing workers to the
+hazardous and tight spaces such as in duct cleaning.
+When disabling a bomb, the operator sends a small
+robot to disable it. Several authors have been using a
+device called the Longpen to sign books remotely.[147]
+Teleoperated robot aircraft, like the Predator
+Unmanned Aerial Vehicle, are increasingly being used
+by the military. These pilotless drones can search
+terrain and ﬁre on targets.[148][149] Hundreds of
+robots such as iRobot's Packbot and the Foster-Miller
+TALON are being used in Iraq and Afghanistan by the
+U.S. military to defuse roadside bombs or improvised
+explosive devices (IEDs) in an activity known as
+explosive ordnance disposal (EOD).[150]
+
+A U.S. Marine Corps technician
+prepares to use a telerobot to
+detonate a buried improvised
+explosive device near Camp
+Fallujah, Iraq.
+
+Automated fruit harvesting machines
+Robots are used to automate picking fruit on orchards at a cost lower than that of
+human pickers.
+Domestic robots
+Domestic robots are simple robots dedicated to a
+single task work in home use. They are used in simple
+but often disliked jobs, such as vacuum cleaning, ﬂoor
+washing, and lawn mowing. An example of a domestic
+robot is a Roomba.
+
+Military robots
+Military robots include the SWORDS robot which is
+currently used in ground-based combat. It can use a
+variety of weapons and there is some discussion of
+giving it some degree of autonomy in battleground
+situations.[151][152][153]
+
+The Roomba domestic vacuum
+cleaner robot does a single,
+menial job
+
+Unmanned combat air vehicles (UCAVs), which are an
+upgraded form of UAVs, can do a wide variety of missions, including combat. UCAVs
+are being designed such as the BAE Systems Mantis which would have the ability to
+ﬂy themselves, to pick their own course and target, and to make most decisions on
+their own.[154] The BAE Taranis is a UCAV built by Great Britain which can ﬂy across
+continents without a pilot and has new means to avoid detection.[155] Flight trials are
+expected to begin in 2011.[156]
+The AAAI has studied this topic in depth[106] and its president has commissioned a
+study to look at this issue.[157]
+
+Some have suggested a need to build "Friendly AI", meaning that the advances
+which are already occurring with AI should also include an eﬀort to make AI
+intrinsically friendly and humane.[158] Several such measures reportedly already
+exist, with robot-heavy countries such as Japan and South Korea[159] having begun to
+pass regulations requiring robots to be equipped with safety systems, and possibly
+sets of 'laws' akin to Asimov's Three Laws of Robotics.[160][161] An oﬀicial report was
+issued in 2009 by the Japanese government's Robot Industry Policy Committee.[162]
+Chinese oﬀicials and researchers have issued a report suggesting a set of ethical
+rules, and a set of new legal guidelines referred to as "Robot Legal Studies."[163]
+Some concern has been expressed over a possible occurrence of robots telling
+apparent falsehoods.[164]
+
+Mining robots
+Mining robots are designed to solve a number of problems currently facing the
+mining industry, including skills shortages, improving productivity from declining ore
+grades, and achieving environmental targets. Due to the hazardous nature of mining,
+in particular underground mining, the prevalence of autonomous, semi-autonomous,
+and tele-operated robots has greatly increased in recent times. A number of vehicle
+manufacturers provide autonomous trains, trucks and loaders that will load material,
+transport it on the mine site to its destination, and unload without requiring human
+intervention. One of the world's largest mining corporations, Rio Tinto, has recently
+expanded its autonomous truck ﬂeet to the world's largest, consisting of 150
+autonomous Komatsu trucks, operating in Western Australia.[165] Similarly, BHP has
+announced the expansion of its autonomous drill ﬂeet to the world's largest, 21
+autonomous Atlas Copco drills.[166]
+Drilling, longwall and rockbreaking machines are now also available as autonomous
+robots.[167] The Atlas Copco Rig Control System can autonomously execute a drilling
+plan on a drilling rig, moving the rig into position using GPS, set up the drill rig and
+drill down to speciﬁed depths.[168] Similarly, the Transmin Rocklogic system can
+automatically plan a path to position a rockbreaker at a selected destination.[169]
+These systems greatly enhance the safety and eﬀiciency of mining operations.
+
+Healthcare
+Robots in healthcare have two main functions. Those which assist an individual, such
+as a suﬀerer of a disease like Multiple Sclerosis, and those which aid in the overall
+systems such as pharmacies and hospitals.
+Home automation for the elderly and disabled
+Robots used in home automation have developed over time from simple basic robotic
+assistants, such as the Handy 1,[170] through to semi-autonomous robots, such as
+FRIEND which can assist the elderly and disabled with common tasks.
+The population is aging in many countries, especially Japan, meaning that there are
+increasing numbers of elderly people to care for, but relatively fewer young people to
+care for them.[171][172] Humans make the best carers, but where they are
+unavailable, robots are gradually being introduced.[173]
+
+FRIEND is a semi-autonomous robot designed to
+support disabled and elderly people in their daily life
+activities, like preparing and serving a meal. FRIEND
+make it possible for patients who are paraplegic, have
+muscle diseases or serious paralysis (due to strokes
+etc.), to perform tasks without help from other people
+like therapists or nursing staﬀ.
+Pharmacies
+Script Pro manufactures a robot designed to help
+pharmacies ﬁll prescriptions that consist of oral solids
+or medications in pill form.[174] The pharmacist or
+The Care-Providing Robot
+pharmacy
+technician
+enters
+the
+prescription
+FRIEND
+information into its information system. The system,
+upon determining whether or not the drug is in the
+robot, will send the information to the robot for
+ﬁlling. The robot has 3 diﬀerent size vials to ﬁll determined by the size of the pill.
+The robot technician, user, or pharmacist determines the needed size of the vial
+based on the tablet when the robot is stocked. Once the vial is ﬁlled it is brought up
+to a conveyor belt that delivers it to a holder that spins the vial and attaches the
+patient label. Afterwards it is set on another conveyor that delivers the patient's
+medication vial to a slot labeled with the patient's name on an LED read out. The
+pharmacist or technician then checks the contents of the vial to ensure it's the
+correct drug for the correct patient and then seals the vials and sends it out front to
+be picked up.
+McKesson's Robot RX is another healthcare robotics product that helps pharmacies
+dispense thousands of medications daily with little or no errors.[175] The robot can be
+ten feet wide and thirty feet long and can hold hundreds of diﬀerent kinds of
+medications and thousands of doses. The pharmacy saves many resources like staﬀ
+members that are otherwise unavailable in a resource scarce industry. It uses an
+electromechanical head coupled with a pneumatic system to capture each dose and
+deliver it to its either stocked or dispensed location. The head moves along a single
+axis while it rotates 180 degrees to pull the medications. During this process it uses
+barcode technology to verify its pulling the correct drug. It then delivers the drug to
+a patient speciﬁc bin on a conveyor belt. Once the bin is ﬁlled with all of the drugs
+that a particular patient needs and that the robot stocks, the bin is then released and
+returned out on the conveyor belt to a technician waiting to load it into a cart for
+delivery to the ﬂoor.
+
+Research robots
+While most robots today are installed in factories or homes, performing labour or life
+saving jobs, many new types of robot are being developed in laboratories around the
+world. Much of the research in robotics focuses not on speciﬁc industrial tasks, but
+on investigations into new types of robot, alternative ways to think about or design
+robots, and new ways to manufacture them. It is expected that these new types of
+robot will be able to solve real world problems when they are ﬁnally realized.
+
+Bionic and biomimetic robots
+One approach to designing robots is to base them on animals. BionicKangaroo was
+designed and engineered by studying and applying the physiology and methods of
+locomotion of a kangaroo.
+Nanorobots
+Nanorobotics is the emerging technology ﬁeld of creating machines or robots whose
+components are at or close to the microscopic scale of a nanometer (10−9 meters).
+Also known as "nanobots" or "nanites", they would be constructed from molecular
+machines. So far, researchers have mostly produced only parts of these complex
+systems, such as bearings, sensors, and synthetic molecular motors, but functioning
+robots have also been made such as the entrants to the Nanobot Robocup
+contest.[176] Researchers also hope to be able to create entire robots as small as
+viruses or bacteria, which could perform tasks on a tiny scale. Possible applications
+include micro surgery (on the level of individual cells), utility fog,[177] manufacturing,
+weaponry and cleaning.[178] Some people have suggested that if there were nanobots
+which could reproduce, the earth would turn into "grey goo", while others argue that
+this hypothetical outcome is nonsense.[179][180]
+Reconﬁgurable robots
+A few researchers have investigated the possibility of creating robots which can alter
+their physical form to suit a particular task,[181] like the ﬁctional T-1000. Real robots
+are nowhere near that sophisticated however, and mostly consist of a small number
+of cube shaped units, which can move relative to their neighbours. Algorithms have
+been designed in case any such robots become a reality.[182]
+Soft-bodied robots
+Robots with silicone bodies and ﬂexible actuators (air muscles, electroactive
+polymers, and ferroﬂuids) look and feel diﬀerent from robots with rigid skeletons,
+and can have diﬀerent behaviors.[183] Soft, ﬂexible (and sometimes even squishy)
+robots are often designed to mimic the biomechanics of animals and other things
+found in nature, which is leading to new applications in medicine, care giving, search
+and rescue, food handling and manufacturing, and scientiﬁc exploration.[184][185]
+Swarm robots
+Inspired by colonies of insects such as ants and bees, researchers are modeling the
+behavior of swarms of thousands of tiny robots which together perform a useful task,
+such as ﬁnding something hidden, cleaning, or spying. Each robot is quite simple,
+but the emergent behavior of the swarm is more complex. The whole set of robots
+can be considered as one single distributed system, in the same way an ant colony
+can be considered a superorganism, exhibiting swarm intelligence. The largest
+swarms so far created include the iRobot swarm, the SRI/MobileRobots CentiBots
+project[186] and the Open-source Micro-robotic Project swarm, which are being used
+to research collective behaviors.[187][188] Swarms are also more resistant to failure.
+
+Whereas one large robot may fail and ruin a mission, a swarm can continue even if
+several robots fail. This could make them attractive for space exploration missions,
+where failure is normally extremely costly.[189]
+Haptic interface robots
+Robotics also has application in the design of virtual reality interfaces. Specialized
+robots are in widespread use in the haptic research community. These robots, called
+"haptic interfaces", allow touch-enabled user interaction with real and virtual
+environments. Robotic forces allow simulating the mechanical properties of "virtual"
+objects, which users can experience through their sense of touch.[190]
+
+Contemporary art and sculpture
+Robots are used by contemporary artists to create works that include mechanical
+automation. There are many branches of robotic art, one of which is robotic
+installation art, a type of installation art that is programmed to respond to viewer
+interactions, by means of computers, sensors and actuators. The future behavior of
+such installations can therefore be altered by input from either the artist or the
+participant, which diﬀerentiates these artworks from other types of kinetic art.
+Le Grand Palais in Paris organized an exhibition "Artists & Robots", featuring
+artworks created by more than forty artists with the help of robots in 2018.[191]
+
+Robots in popular culture
+Literature
+Robotic characters, androids (artiﬁcial men/women)
+or gynoids (artiﬁcial women), and cyborgs (also
+"bionic men/women", or humans with signiﬁcant
+mechanical enhancements) have become a staple of
+science ﬁction.
+The ﬁrst reference in Western literature to
+mechanical servants appears in Homer's Iliad. In
+Book XVIII, Hephaestus, god of ﬁre, creates new
+Toy robots on display at the
+armor for the hero Achilles, assisted by robots.[192]
+Museo del Objeto del Objeto in
+According
+to
+the
+Rieu
+translation,
+"Golden
+Mexico City.
+maidservants hastened to help their master. They
+looked like real women and could not only speak and
+use their limbs but were endowed with intelligence
+and trained in handwork by the immortal gods." The words "robot" or "android" are
+not used to describe them, but they are nevertheless mechanical devices human in
+appearance. "The ﬁrst use of the word Robot was in Karel Čapek's play R.U.R.
+(Rossum's Universal Robots) (written in 1920)". Writer Karel Čapek was born in
+Czechoslovakia (Czech Republic).
+
+Possibly the most proliﬁc author of the twentieth century was Isaac Asimov (1920–
+1992)[193] who published over ﬁve-hundred books.[194] Asimov is probably best
+remembered for his science-ﬁction stories and especially those about robots, where
+he placed robots and their interaction with society at the center of many of his
+works.[195][196] Asimov carefully considered the problem of the ideal set of
+instructions robots might be given in order to lower the risk to humans, and arrived
+at his Three Laws of Robotics: a robot may not injure a human being or, through
+inaction, allow a human being to come to harm; a robot must obey orders given it by
+human beings, except where such orders would conﬂict with the First Law; and a
+robot must protect its own existence as long as such protection does not conﬂict with
+the First or Second Law.[197] These were introduced in his 1942 short story
+"Runaround", although foreshadowed in a few earlier stories. Later, Asimov added
+the Zeroth Law: "A robot may not harm humanity, or, by inaction, allow humanity to
+come to harm"; the rest of the laws are modiﬁed sequentially to acknowledge this.
+According to the Oxford English Dictionary, the ﬁrst passage in Asimov's short story
+"Liar!" (1941) that mentions the First Law is the earliest recorded use of the word
+robotics. Asimov was not initially aware of this; he assumed the word already existed
+by analogy with mechanics, hydraulics, and other similar terms denoting branches of
+applied knowledge.[198]
+
+Films
+Robots appear in many ﬁlms. Most of the robots in cinema are ﬁctional. Two of the
+most famous are R2-D2 and C-3PO from the Star Wars franchise.
+
+Sex robots
+The concept of humanoid sex robots has elicited both public attention and concern.
+Opponents of the concept have stated that the development of sex robots would be
+morally wrong.[199][200][201][202] They argue that the introduction of such devices
+would be socially harmful, and demeaning to women and children.[200]
+
+Problems depicted in popular culture
+Fears and concerns about robots have been
+repeatedly expressed in a wide range of books and
+ﬁlms. A common theme is the development of a
+master race of conscious and highly intelligent
+robots, motivated to take over or destroy the human
+race. Frankenstein (1818), often called the ﬁrst
+science ﬁction novel, has become synonymous with
+the theme of a robot or android advancing beyond its
+creator.
+Other works with similar themes include The
+Mechanical
+Man,
+The
+Terminator,
+Runaway,
+RoboCop, the Replicators in Stargate, the Cylons in
+Battlestar Galactica, the Cybermen and Daleks in
+Doctor Who, The Matrix, Enthiran and I, Robot. Some
+
+Italian movie The Mechanical
+Man (1921), the ﬁrst ﬁlm to
+have shown a battle between
+robots.
+
+ﬁctional robots are programmed to kill and destroy; others gain superhuman
+intelligence and abilities by upgrading their own software and hardware. Examples
+of popular media where the robot becomes evil are 2001: A Space Odyssey, Red
+Planet and Enthiran.
+The 2017 game Horizon Zero Dawn explores themes of robotics in warfare, robot
+ethics, and the AI control problem, as well as the positive or negative impact such
+technologies could have on the environment.
+Another common theme is the reaction, sometimes called the "uncanny valley", of
+unease and even revulsion at the sight of robots that mimic humans too closely.[105]
+More recently, ﬁctional representations of artiﬁcially intelligent robots in ﬁlms such
+as A.I. Artiﬁcial Intelligence and Ex Machina and the 2016 TV adaptation of
+Westworld have engaged audience sympathy for the robots themselves.
+
+See also
+Index of robotics articles
+Outline of robotics
+Artiﬁcial intelligence
+William Grey Walter
+
+Speciﬁc robotics concepts
+Robot locomotion
+Simultaneous localization and mapping
+Tactile sensor
+Teleoperation
+Uncanny valley
+von Neumann machine
+Wake-up robot problem
+Neuromorphic engineering
+
+Robotics methods and categories
+Cognitive robotics
+Companion robot
+Domestic robot
+Epigenetic robotics
+Evolutionary robotics
+Humanoid robot
+Autonomous robot
+Microbotics
+Robot control
+
+Speciﬁc robots and devices
+AIBO
+Autonomous spaceport drone ship
+Driverless car
+Friendly Robotics
+Lely Juno family
+Liquid handling robot
+PatrolBot
+RoboBee
+Roborior
+Robot App Store
+
+Other related articles
+Unmanned vehicle
+Remote control vehicle
+Automated guided vehicle
+
+References
+1. "Four-legged Robot, 'Cheetah,' Sets New Speed Record" (https://www.huﬃngtonpos
+t.com/2012/03/06/four-legged-robot-sets-new-speed-record_n_1324701.html).
+Reuters. 2012-03-06. Archived (https://web.archive.org/web/20131022173838/htt
+p://www.huﬃngtonpost.com/2012/03/06/four-legged-robot-sets-new-speed-record_
+n_1324701.html) from the original on 2013-10-22. Retrieved 2013-10-05.
+2. Deﬁnition of 'robot'. Oxford English Dictionary. Retrieved November 27, 2016.
+3. https://www.conres.com/it-products-solutions/news-events/top-10-tech-trendsautonomous-agents-things/ Archived (https://web.archive.org/web/2017041914535
+8/https://www.conres.com/it-products-solutions/news-events/top-10-tech-trends-aut
+onomous-agents-things/) 2017-04-19 at the Wayback Machine retrieved April 18,
+2017
+4. "Forecasts - Driverless car market watch" (http://www.driverless-future.com/?page_
+id=384). www.driverless-future.com. Archived (https://web.archive.org/web/201704
+19100926/http://www.driverless-future.com/?page_id=384) from the original on
+2017-04-19. Retrieved 2017-04-18.
+5. "robotics" (http://www.oxforddictionaries.com/view/entry/m_en_gb0714530#m_en_
+gb0714530). Oxford Dictionaries. Archived (https://web.archive.org/web/20110518
+152729/http://www.oxforddictionaries.com/view/entry/m_en_gb0714530#m_en_gb
+0714530) from the original on 18 May 2011. Retrieved 4 February 2011.
+6. Ivan Margolius,'The Robot of Prague', Newsletter, The Friends of Czech Heritage no.
+17, Autumn 2017, pp. 3 - 6.
+https://czechfriends.net/images/RobotsMargoliusJul2017.pdf Archived (https://web.
+archive.org/web/20170911115134/https://czechfriends.net/images/RobotsMargoliu
+sJul2017.pdf) 2017-09-11 at the Wayback Machine
+7. Karel Capek – Who did actually invent the word "robot" and what does it mean? (ht
+tp://capek.misto.cz/english/robot.html) at capek.misto.cz – archive (https://web.arc
+hive.org/web/20130123023343/http://capek.misto.cz/english/robot.html)
+
+8. Kurfess, Thomas R. (1 January 2005). Robotics and Automation Handbook (https://b
+ooks.google.com/books?id=stIWUpWvI94C). Taylor & Francis.
+ISBN 9780849318047. Archived (https://web.archive.org/web/20161204234831/htt
+ps://books.google.com/books?id=stIWUpWvI94C) from the original on 4 December
+2016. Retrieved 5 July 2016 – via Google Books.
+9. Pearce, Jeremy. "George C. Devol, Inventor of Robot Arm, Dies at 99" (https://www.
+nytimes.com/2011/08/16/business/george-devol-developer-of-robot-arm-dies-at-99.
+html) Archived (https://web.archive.org/web/20161225221153/http://www.nytimes.
+com/2011/08/16/business/george-devol-developer-of-robot-arm-dies-at-99.html)
+2016-12-25 at the Wayback Machine, The New York Times, August 15, 2011.
+Retrieved February 7, 2012. "In 1961, General Motors put the ﬁrst Unimate arm on
+an assembly line at the company's plant in Ewing Township, N.J., a suburb of
+Trenton. The device was used to lift and stack die-cast metal parts taken hot from
+their molds."
+10. Akins, Crystal. "5 jobs being replaced by robots" (https://web.archive.org/web/2013
+0424145057/http://excelle.monster.com/beneﬁts/articles/4983-5-jobs-being-replac
+ed-by-robots?page=1). Excelle. Monster. Archived from the original (http://excelle.
+monster.com/beneﬁts/articles/4983-5-jobs-being-replaced-by-robots?page=1) on
+2013-04-24. Retrieved 2013-04-15.
+11. Hoy, Greg (28 May 2014). "Robots could cost Australian economy 5 million jobs,
+experts warn, as companies look to cut costs" (http://www.abc.net.au/news/2014-0
+5-28/robots-could-cost-australian-economy-5-million-jobs-expert-says/5484740).
+ABC News. Australian Broadcasting Corporation. Archived (https://web.archive.org/
+web/20140529095011/http://www.abc.net.au/news/2014-05-28/robots-could-cost-a
+ustralian-economy-5-million-jobs-expert-says/5484740) from the original on 29
+May 2014. Retrieved 29 May 2014.
+12. "Telecom glossary "bot" " (https://web.archive.org/web/20070202121608/http://ww
+w.atis.org/tg2k/_bot.html). Alliance for Telecommunications Solutions. 2001-02-28.
+Archived from the original (http://www.atis.org/tg2k/_bot.html) on 2007-02-02.
+Retrieved 2007-09-05.
+13. Polk, Igor (2005-11-16). "RoboNexus 2005 robot exhibition virtual tour" (http://ww
+w.virtuar.com/click/2005/robonexus/index.htm). Robonexus Exhibition 2005.
+Archived (https://web.archive.org/web/20070812071030/http://www.virtuar.com/cli
+ck/2005/robonexus/index.htm) from the original on 2007-08-12. Retrieved
+2007-09-10.
+14. Harris, Tom (2002-04-16). "How Robots Work" (http://science.howstuﬀworks.com/ro
+bot.htm). How Stuﬀ Works. Archived (https://web.archive.org/web/2007082621364
+0/http://science.howstuﬀworks.com/robot.htm) from the original on 2007-08-26.
+Retrieved 2007-09-10.
+15. Needham, Joseph (1991). Science and Civilisation in China: Volume 2, History of
+Scientiﬁc Thought. Cambridge University Press. ISBN 978-0-521-05800-1.
+16. Currie, Adam (1999). "The History of Robotics" (https://web.archive.org/web/20060
+718024255/http://www.faculty.ucr.edu/~currie/roboadam.htm). Archived from the
+original (http://www.faculty.ucr.edu/~currie/roboadam.htm) on 18 July 2006.
+Retrieved 2007-09-10.
+17. Noct. Att. L. 10
+18. Needham, Volume 2, 54.
+19. Deborah Levine Gera (2003). Ancient Greek Ideas on Speech, Language, and
+Civilization (https://books.google.com/books?id=h5tKJvApybsC&pg=PA114&lpg=PA
+114&dq=hephaestus+handmaidens). Oxford University Press. ISBN 978-0-19925616-7. Archived (https://web.archive.org/web/20161205062218/https://books.g
+oogle.com/books?id=h5tKJvApybsC&pg=PA114&lpg=PA114&dq=hephaestus+han
+dmaidens) from the original on 2016-12-05. Retrieved 2016-09-25.
+
+20. Mark E. Rosheim (1994). "Robot evolution: the development of anthrobotics (http
+s://archive.org/details/robotevolutionde0000rosh) Archived (https://web.archive.or
+g/web/20161205085645/https://books.google.com/books?id=IxtL54iiDPUC&pg=&d
+q&hl=en#v=onepage&q=&f=false) 2016-12-05 at the Wayback Machine". p.2.
+Wiley-IEEE. ISBN 0-471-02622-0
+21. "Robots then and now (http://news.bbc.co.uk/cbbcnews/hi/ﬁnd_out/guides/tech/rob
+ots/newsid_3914000/3914569.stm) Archived (https://web.archive.org/web/2010122
+0114656/http://news.bbc.co.uk/cbbcnews/hi/ﬁnd_out/guides/tech/robots/newsid_39
+14000/3914569.stm) 2010-12-20 at the Wayback Machine". BBC.
+22. O'Connor, J.J. and E.F. Robertson. "Heron biography" (http://www-history.mcs.st-and
+rews.ac.uk/history/Biographies/Heron.html). The MacTutor History of Mathematics
+archive. Archived (https://web.archive.org/web/20080624013623/http://www-histor
+y.mcs.st-andrews.ac.uk/history/Biographies/Heron.html) from the original on 200806-24. Retrieved 2008-09-05.
+23. Strong 2007, p. 143.
+24. Strong 2007, p. 133-134.
+25. Fowler, Charles B. (October 1967). "The Museum of Music: A History of Mechanical
+Instruments". Music Educators Journal. 54 (2): 45–49. doi:10.2307/3391092 (http
+s://doi.org/10.2307%2F3391092). JSTOR 3391092 (https://www.jstor.org/stable/339
+1092).
+26. "Earliest Clocks" (https://web.archive.org/web/20080531063139/http://physics.nist.
+gov/GenInt/Time/early.html). A Walk Through Time. NIST Physics Laboratory.
+Archived from the original (http://physics.nist.gov/GenInt/Time/early.html) on 200805-31. Retrieved 2008-08-11.
+27. "The programmable robot of ancient Greece". New Scientist: 32–35. July 6, 2007.
+28. Varadpande, Manohar Laxman (1987). History of Indian Theatre, Volume 1 (https://
+books.google.com/books?id=SyxOHOCVcVkC&pg=PA68). p. 68.
+ISBN 9788170172215.
+29. Wujastyk, Dominik (2003). The Roots of Ayurveda: Selections from Sanskrit Medical
+Writings (https://books.google.com/books?id=TaZCwjtmzZYC&pg=PA222&dq=auto
+mata#v=onepage&q=automata&f=false). p. 222. ISBN 9780140448245.
+30. Needham, Joseph (1965). Science and Civilisation in China: Volume 4, Physics and
+Physical Technology Part 2, Mechanical Engineering (https://books.google.com/boo
+ks?id=SeGyrCfYs2AC&pg=PA164&dq=bhoja+automata). p. 164.
+ISBN 9780521058032.
+31. "Al-Jazarī | Arab inventor" (https://www.britannica.com/biography/al-Jazari).
+Encyclopedia Britannica. Retrieved 2019-06-15.
+32. Howard R. Turner (1997), Science in Medieval Islam: An Illustrated Introduction, p.
+81, University of Texas Press, ISBN 0-292-78149-0
+33. Donald Hill, "Mechanical Engineering in the Medieval Near East", Scientiﬁc
+American, May 1991, pp. 64-9 (cf. Donald Hill, Mechanical Engineering (http://hom
+e.swipnet.se/islam/articles/HistoryofSciences.htm) Archived (https://web.archive.or
+g/web/20071225091836/http://home.swipnet.se/islam/articles/HistoryofSciences.ht
+m) 25 December 2007 at the Wayback Machine)
+34. Ancient Discoveries Islamic Science Part1 (https://www.youtube.com/watch?v=v2H
+cjanNWFM), retrieved 2019-06-15
+35. Rosheim, Mark E. (1994). Robot Evolution: The Development of Anthrobotics (http
+s://archive.org/details/robotevolutionde0000rosh). John Wiley & Sons. ISBN 978-0471-02622-8.
+
+36. Rosheim, Mark E. (1994), Robot Evolution: The Development of Anthrobotics (http
+s://archive.org/details/robotevolutionde0000rosh/page/9), Wiley-IEEE, p. 9 (https://a
+rchive.org/details/robotevolutionde0000rosh/page/9), ISBN 0-471-02622-0
+37. Moran, M. E. (December 2006). "The da Vinci robot". J. Endourol. 20 (12): 986–90.
+doi:10.1089/end.2006.20.986 (https://doi.org/10.1089%2Fend.2006.20.986).
+PMID 17206888 (https://pubmed.ncbi.nlm.nih.gov/17206888). "... the date of the
+design and possible construction of this robot was 1495 ... Beginning in the 1950s,
+investigators at the University of California began to ponder the signiﬁcance of
+some of da Vinci's markings on what appeared to be technical drawings ... It is now
+known that da Vinci's robot would have had the outer appearance of a Germanic
+knight."
+38. "Leonardo da Vinci's Robots" (http://www.leonardo3.net/leonardo/books%20I%20ro
+bot%20di%20Leonardo%20-%20Taddei%20Mario%20-%20english%20Leonardo%2
+0robots%201.html). Leonardo3.net. Archived (https://web.archive.org/web/200809
+24162924/http://www.leonardo3.net/leonardo/books%20I%20robot%20di%20Leona
+rdo%20-%20Taddei%20Mario%20-%20english%20Leonardo%20robots%201.html)
+from the original on 2008-09-24. Retrieved 2008-09-25.
+39. Jane Marie Law, Puppets of Nostalgia – The Life, Death and Rebirth of the Japanese
+Awaji Ningyo Tradition, 1997, Princeton University Press, ISBN 978-0-691-02894-1
+40. Wood, Gabby. "Living Dolls: A Magical History Of The Quest For Mechanical Life" (ht
+tps://www.theguardian.com/books/2002/feb/16/extract.gabywood) Archived (http
+s://web.archive.org/web/20161220154456/https://www.theguardian.com/books/200
+2/feb/16/extract.gabywood) 2016-12-20 at the Wayback Machine, The Guardian,
+2002-02-16.
+41. Edwyn Gray, Nineteenth-century torpedoes and their inventors, page 18
+42. Gray, Edwyn (2004). Nineteenth-Century Torpedoes and Their Inventors. Naval
+Institute Press. ISBN 978-1-59114-341-3.
+43. Marc Seifer Life and Times of Nikola Tesla, page 1893 google books (https://books.g
+oogle.com/books?id=DzMR8x_rbPgC&printsec=frontcover&dq=tesla+torpedo+con
+trolled+wireless+conduction&hl=en&sa=X&ei=-669Uv3NO46-sQSysYGgDQ&ved=
+0CEIQ6AEwAjgK#v=onepage&q=torpedo&f=false) Archived (https://web.archive.o
+rg/web/20161205023226/https://books.google.com/books?id=DzMR8x_rbPgC&prin
+tsec=frontcover&dq=tesla+torpedo+controlled+wireless+conduction&hl=en&sa=
+X&ei=-669Uv3NO46-sQSysYGgDQ&ved=0CEIQ6AEwAjgK#v=onepage&q=torpedo
+&f=false) 2016-12-05 at the Wayback Machine
+44. Benjamin Franklin Miessner, Radiodynamics: The Wireless Control of Torpedoes and
+Other Mechanisms, D. Van Nostrand Company, 1916, page 83
+45. US 613809 (https://worldwide.espacenet.com/textdoc?DB=EPODOC&IDX=US6138
+09)
+46. "Tesla – Master of Lightning" (https://www.pbs.org/tesla). PBS.org. Archived (https://
+web.archive.org/web/20080928061709/http://www.pbs.org/tesla) from the original
+on 2008-09-28. Retrieved 2008-09-24.
+47. "Merriam-Webster Dictionary : robot" (https://www.merriam-webster.com/dictionary/
+robot). Archived (https://web.archive.org/web/20170307044859/https://www.merria
+m-webster.com/dictionary/robot) from the original on 2017-03-07. Retrieved
+2017-03-06. "Origin: Czech, from robota, compulsory labor"
+48. "Science Diction: The Origin Of The Word 'Robot' " (https://www.npr.org/2011/04/22/
+135634400/science-diction-the-origin-of-the-word-robot). Archived (https://web.arc
+hive.org/web/20180417022654/https://www.npr.org/2011/04/22/135634400/scienc
+e-diction-the-origin-of-the-word-robot) from the original on 2018-04-17. Retrieved
+2018-04-05.
+
+49. "Hank Green's First Novel Is An Absolutely Remarkable Thing" (https://www.indiana
+polismonthly.com/arts-and-culture/books-tv-and-radio/hank-greens-ﬁrst-novel-is-an
+-absolutely-remarkable-thing). Indianapolis Monthly. 2018-10-01. Retrieved
+2019-11-20.
+50. "You Are Pronouncing the Word "Robot" Wrong" (https://www.dailykos.com/story/20
+17/10/30/1710902/-You-Are-Pronouncing-the-Word-Robot-Wrong) . Daily Kos.
+Retrieved 2019-11-20.
+51. "AH Reﬀell & Eric Robot (1928)" (https://web.archive.org/web/20131111132524/htt
+p://www.reﬀell.org.uk/people/ericrobot.php). Archived from the original (http://ww
+w.reﬀell.org.uk/people/ericrobot.php) on 2013-11-11. Retrieved 2013-11-11.
+52. "Meet Mr. Robot – Not Forgetting His Master" (https://web.archive.org/web/2017030
+7205535/http://cyberneticzoo.com/robots/1932-%E2%80%93-george-robot-%E2%8
+0%93-capt-w-h-richards-british/). The Age. 20 September 1935. Archived from the
+original (http://cyberneticzoo.com/robots/1932-%E2%80%93-george-robot-%E2%8
+0%93-capt-w-h-richards-british/) on 2017-03-07. Retrieved 7 March 2017.
+53. "Robot Dreams : The Strange Tale Of A Man's Quest To Rebuild His Mechanical
+Childhood Friend" (https://web.archive.org/web/20100115065601/http://www.freeti
+mes.com/stories/13/35/robot-dreams-the-strange-tale-of-a-mans-quest-to-rebuild-h
+is-mechanical-childhood-friend). The Cleveland Free Times. Archived from the
+original (http://www.freetimes.com/stories/13/35/robot-dreams-the-strange-tale-ofa-mans-quest-to-rebuild-his-mechanical-childhood-friend) on 15 January 2010.
+Retrieved 2008-09-25.
+54. Scott Schaut (2006). Robots of Westinghouse: 1924-Today . Mansﬁeld Memorial
+Museum. ISBN 978-0-9785844-1-2.
+55. Owen Holland. "The Grey Walter Online Archive" (https://web.archive.org/web/2008
+1009055230/http://www.ias.uwe.ac.uk/Robots/gwonline/gwonline.html). Archived
+from the original (http://www.ias.uwe.ac.uk/Robots/gwonline/gwonline.html) on
+2008-10-09. Retrieved 2008-09-25.
+56. Waurzyniak, Patrick (July 2006). "Masters of Manufacturing: Joseph F. Engelberger"
+(https://web.archive.org/web/20111109053615/http://www.sme.org/cgi-bin/ﬁnd-arti
+cles.pl?&ME06ART39&ME&20060709). Society of Manufacturing Engineers. 137
+(1). Archived from the original (http://www.sme.org/cgi-bin/ﬁnd-articles.pl?&ME06A
+RT39&ME&20060709) on 9 November 2011. Retrieved 2008-09-25.
+57. "Robot Hall of Fame – Unimate" (https://web.archive.org/web/20110926213115/htt
+p://www.robothalloﬀame.org/unimate.html). Carnegie Mellon University. Archived
+from the original (http://www.robothalloﬀame.org/unimate.html) on 26 September
+2011. Retrieved 2008-08-28.
+58. "National Inventor's Hall of Fame 2011 Inductee" (https://web.archive.org/web/201
+41104234729/http://invent.org/inductee-detail/?IID=426). Invent Now. Archived
+from the original (http://invent.org/inductee-detail/?IID=426) on 2014-11-04.
+Retrieved 2011-03-18.
+59. "Company History" (https://web.archive.org/web/20130204034959/http://www.fujiy
+usoki.com/English/rekishi.htm). Fuji Yusoki Kogyo Co. Archived from the original (htt
+p://www.fujiyusoki.com/English/rekishi.htm) on 4 February 2013. Retrieved
+2008-09-12.
+60. "KUKA Industrial Robot FAMULUS" (https://web.archive.org/web/20130610012645/h
+ttp://www.kuka-robotics.com/germany/en/company/group/milestones/1973.htm).
+Archived from the original (http://www.kuka-robotics.com/germany/en/company/gro
+up/milestones/1973.htm) on June 10, 2013. Retrieved 2008-01-10.
+
+61. "History of Industrial Robots" (https://web.archive.org/web/20121224213437/http://
+www.ifr.org/uploads/media/History_of_Industrial_Robots_online_brochure_by_IFR_20
+12.pdf) (PDF). Archived from the original (http://www.ifr.org/uploads/media/History_
+of_Industrial_Robots_online_brochure_by_IFR_2012.pdf) (PDF) on 2012-12-24.
+Retrieved 2012-10-27.
+62. "History of Industrial Robots" (https://web.archive.org/web/20150708105337/http
+s://www.robots.com/education/industrial-history). robots.com. Archived from the
+original (https://www.robots.com/education/industrial-history) on 8 July 2015.
+Retrieved 24 August 2015.
+63. "About us" (https://web.archive.org/web/20140109062457/http://emrotechnologie
+s.com/). Archived from the original (http://www.emrotechnologies.com/) on 201401-09.
+64. "Archived copy" (https://web.archive.org/web/20151007014124/http://blog.codexif
+y.com/2015/10/robohon-cute-little-robot-cum-smartphone.html). Archived from the
+original (http://blog.codexify.com/2015/10/robohon-cute-little-robot-cum-smartphon
+e.html) on 2015-10-07. Retrieved 2015-10-06.
+65. Robots to get their own operating system (https://web.archive.org/web/200909180
+55715/http://www.ethiopianreview.com/articles/23156), by Mehret Tesfaye Ethipian
+Review, August 13, 2009.
+66. Research and Development for Next-generation Service Robots in Japan (https://we
+b.archive.org/web/20120723091926/http://ukinjapan.fco.gov.uk/resources/en/pdf/5
+606907/5633632/next-generation-services-robots), United Kingdom Foreign
+Ministry report, by Yumiko Moyen, Science and Innovation Section, British
+Embassy, Tokyo, Japan, January 2009.
+67. Robotic Tactile Sensing – Technologies and System (https://www.springer.com/engin
+eering/robotics/book/978-94-007-0578-4). Springer.com. 2012-07-30.
+ISBN 9789400705784. Archived (https://web.archive.org/web/20131229011744/htt
+p://www.springer.com/engineering/robotics/book/978-94-007-0578-4) from the
+original on 2013-12-29. Retrieved 2014-02-08.
+68. Dahiya, Ravinder S.; Metta, Giorgio; Cannata, Giorgio; Valle, Maurizio (2011).
+"Guest Editorial Special Issue on Robotic Sense of Touch" (https://semanticscholar.o
+rg/paper/2d41ca7e86d59ﬀ5cb9c2138e2a87461d36bb4f0). IEEE Transactions on
+Robotics. 27 (3): 385–388. doi:10.1109/TRO.2011.2155830 (https://doi.org/10.110
+9%2FTRO.2011.2155830).
+69. "Robotics in practice: Future capabilities" by Joseph F. Engelberger. in "Electronic
+Servicing & Technology" magazine 1982 August.
+70. The Caterpillar Self-Driving Dump Truck (http://www.fastcompany.com/magazine/13
+1/the-caterpillar-self-driving-dump-truck.html?nav=inform-rl) Archived (https://web.
+archive.org/web/20110607062457/http://www.fastcompany.com/magazine/131/thecaterpillar-self-driving-dump-truck.html?nav=inform-rl) 2011-06-07 at the Wayback
+Machine, By Tim McKeough, Fast Company, November 25, 2008.
+71. Self-Driving Trucks to Revolutionize Logistics, DHL Says (https://www.bloomberg.co
+m/news/articles/2014-12-09/self-driving-trucks-to-revolutionize-logistics-dhl-says)
+Archived (https://web.archive.org/web/20160722235005/http://www.bloomberg.co
+m/news/articles/2014-12-09/self-driving-trucks-to-revolutionize-logistics-dhl-says)
+2016-07-22 at the Wayback Machine, Richard Weiss, December 9, 2014.
+72. VIDEO: Why Caterpillar’s autonomous mining tech is “completely diﬀerent from
+anything” it’s ever done (http://www.equipmentworld.com/video-why-caterpillars-a
+utonomous-mining-tech-is-completely-diﬀerent-from-anything-its-ever-done/)
+Archived (https://web.archive.org/web/20160513040542/http://www.equipmentworl
+d.com/video-why-caterpillars-autonomous-mining-tech-is-completely-diﬀerent-from
+-anything-its-ever-done/) 2016-05-13 at the Wayback Machine Wayne Grayson |
+October 16, 2014.
+
+73. Self-driving dump trucks, automatic shovels coming to Australian mines (http://asi
+a.nikkei.com/Business/Trends/Self-driving-dump-trucks-automatic-shovels-coming-t
+o-Australian-mines) Archived (https://web.archive.org/web/20160509210931/http://
+asia.nikkei.com/Business/Trends/Self-driving-dump-trucks-automatic-shovels-comin
+g-to-Australian-mines) 2016-05-09 at the Wayback Machine, KAORI TAKAHASHI,
+April 23, 2015.
+74. Forget self-driving Google cars, Australia has self-driving trucks (http://www.theag
+e.com.au/it-pro/business-it/forget-selfdriving-google-cars-australia-has-selfdriving-t
+rucks-20141020-118o47.html) Archived (https://web.archive.org/web/2016042622
+1302/http://www.theage.com.au/it-pro/business-it/forget-selfdriving-google-cars-au
+stralia-has-selfdriving-trucks-20141020-118o47.html) 2016-04-26 at the Wayback
+Machine, by Matthew Hall, October 20, 2014.
+75. Australian mining giant Rio Tinto is using these huge self-driving trucks to
+transport iron ore (http://www.businessinsider.com/rio-tinto-using-self-driving-truck
+s-to-transport-ore-2015-10?r=UK&IR=T) Archived (https://web.archive.org/web/201
+60509125519/http://www.businessinsider.com/rio-tinto-using-self-driving-trucks-totransport-ore-2015-10?r=UK&IR=T) 2016-05-09 at the Wayback Machine, Charles
+Clark, Oct. 19, 2015.
+76. Daddy, What Was a Truck Driver? Over the Next Two Decades, the Machines
+Themselves Will Take Over the Driving (https://www.wsj.com/articles/SB100014241
+27887324144304578624221804774116) Archived (https://web.archive.org/web/20
+170304131234/https://www.wsj.com/articles/SB1000142412788732414430457862
+4221804774116) 2017-03-04 at the Wayback Machine, By DENNIS K. BERMAN, July
+23, 2013, wsj.com.
+77. "Robot can read, learn like a human" (http://www.nbcnews.com/id/40534768). 6
+December 2010. Retrieved 10 December 2010.
+78. Robots: Brave New World moves a step closer (https://www.bbc.com/news/business
+-20800118) Archived (https://web.archive.org/web/20190114133009/https://www.b
+bc.com/news/business-20800118) 2019-01-14 at the Wayback Machine, By James
+Melik, Reporter, Business Daily, BBC World Service, 3 January 2013.
+79. Zunt, Dominik. "Who did actually invent the word "robot" and what does it mean?"
+(https://web.archive.org/web/20120204135259/http://capek.misto.cz/english/robot.
+html). The Karel Čapek website. Archived from the original (http://capek.misto.cz/e
+nglish/robot.html) on 2012-02-04. Retrieved 2007-09-11.
+80. "Indo-European root *orbh-" (https://web.archive.org/web/20090124172123/http://
+bartleby.com/61/roots/IE363.html). 2008-05-12. Archived from the original (http://w
+ww.bartleby.com/61/roots/IE363.html) on January 24, 2009. Retrieved 2014-02-08.
+81. "Online Etymology Dictionary" (http://www.etymonline.com/index.php?allowed_in_f
+rame=0&search=robot&searchmode=or). Archived (https://web.archive.org/web/2
+0131214120523/http://www.etymonline.com/index.php?allowed_in_frame=0&searc
+h=robot&searchmode=or) from the original on 2013-12-14. Retrieved 2012-06-10.
+82. Ranger, Steve. "Robots of death, robots of love: The reality of android soldiers and
+why laws for robots are doomed to failure" (https://www.techrepublic.com/article/ro
+bots-of-death-robots-of-love-the-reality-of-android-soldiers-and-why-laws-for-robotsare-doomed-to-failure/). TechRepublic. Archived (https://web.archive.org/web/2017
+0127121914/http://www.techrepublic.com/article/robots-of-death-robots-of-love-the
+-reality-of-android-soldiers-and-why-laws-for-robots-are-doomed-to-failure/) from
+the original on 27 January 2017. Retrieved 21 January 2017.
+83. Moubarak, Paul M.; Ben-Tzvi, Pinhas (2011). "Adaptive manipulation of a Hybrid
+Mechanism Mobile Robot". 2011 IEEE International Symposium on Robotic and
+Sensors Environments (ROSE). pp. 113–118. doi:10.1109/ROSE.2011.6058520 (htt
+ps://doi.org/10.1109%2FROSE.2011.6058520). ISBN 978-1-4577-0819-0.
+
+84. "Smart Caddy" (https://web.archive.org/web/20071011044450/http://www.smartca
+ddy.net/). Seegrid. Archived from the original (http://www.smartcaddy.net) on 200710-11. Retrieved 2007-09-13.
+85. Zhang, Gexiang; Pérez-Jiménez, Mario J.; Gheorghe, Marian (2017-04-05). Real-life
+Applications with Membrane Computing (https://books.google.com/?id=Ge-cDgAAQ
+BAJ&pg=PA224&dq=Mobile+robots+are+also+found+in+industry,+military+and
++security+environments.#v=onepage&q=Mobile%20robots%20are%20also%20fo
+und%20in%20industry,%20military%20and%20security%20environments.&f=fals
+e). Springer. ISBN 9783319559896.
+86. "Deﬁnition of a robot" (https://web.archive.org/web/20070628064010/http://www.di
+ra.dk/pdf/robotdef.pdf) (PDF). Dansk Robot Forening. Archived from the original (htt
+p://www.dira.dk/pdf/robotdef.pdf) (PDF) on 2007-06-28. Retrieved 2007-09-10.
+87. "Robotics-related Standards Sites" (https://web.archive.org/web/20060617082835/
+http://www.euron.org/resources/standards.html). European Robotics Research
+Network. Archived from the original (http://www.euron.org/resources/standards.htm
+l) on 2006-06-17. Retrieved 2008-07-15.
+88. Provisional deﬁnition of Service Robots (http://www.ifr.org/service-robots/) Archived
+(https://web.archive.org/web/20100218054027/http://www.ifr.org/service-robots/)
+2010-02-18 at the Wayback Machine, IFR, 27th of October 2012
+89. Mitgang, Lee (October 25, 1983). " 'Nova's' 'Talking Turtle' Poﬁles High Priest of
+School Computer Movement". Gainesville Sun.
+90. Barnard, Jeﬀ (January 29, 1985). "Robots In School: Games Or Learning?" (https://n
+ews.google.com/newspapers?id=W4diAAAAIBAJ&pg=1326,3744066&dq=logo+turt
+le+robot&hl=en). Observer-Reporter. Washington. Archived (https://web.archive.or
+g/web/20150922181442/https://news.google.com/newspapers?id=W4diAAAAIBAJ&
+sjid=s3cNAAAAIBAJ&pg=1326,3744066&dq=logo+turtle+robot&hl=en) from the
+original on September 22, 2015. Retrieved March 7, 2012.
+91. "Education: Marvel of the Bronx" (http://content.time.com/time/magazine/article/0,
+9171,904056,00.html). Time. April 1974. Archived (https://web.archive.org/web/20
+190524113018/http://content.time.com/time/magazine/article/0,9171,904056,00.h
+tml) from the original on 2019-05-24. Retrieved 2019-05-19.
+92. "Leachim Archives" (http://cyberneticzoo.com/tag/leachim/). cyberneticzoo.com.
+2010-09-13. Archived (https://web.archive.org/web/20190528193904/http://cybern
+eticzoo.com/tag/leachim/) from the original on 2019-05-28. Retrieved 2019-05-29.
+93. P. Moubarak, et al., Modular and Reconﬁgurable Mobile Robotics, Journal of
+Robotics and Autonomous Systems, 60 (12) (2012) 1648–1663.
+94. Rédaction (December 25, 2011). "Le consortium franco-québécois Mix dévoile son
+projet de voiture volante" (https://web.archive.org/web/20121006225358/http://ww
+w.aerobuzz.fr/spip.php?article2346). aerobuzz.fr/ (in French). aerobuzz.fr. Archived
+from the original (http://www.aerobuzz.fr/spip.php?article2346) on October 6,
+2012. Retrieved September 7, 2012.
+95. Scanlan, Steve, Robotics Design Inc., Montreal. "Modularity in robotics provides
+automation for all" (http://www.ept.ca/issues/story.aspx?aid=1000348213).
+Digital.ept.ca. Retrieved September 7, 2012.
+96. Plumbing and HVAC, Magazine (April 2010). "Duct cleaning robots" (http://www.rob
+oticsdesign.qc.ca/assets/Uploads/PDF-content/InThePress/HVAC/Pluming+HVACma
+gazineapril2010.pdf) (PDF). roboticsdesign.qc.ca/news.html. plumbingandhvac.ca/.
+Archived (https://web.archive.org/web/20130425130611/http://www.roboticsdesig
+n.qc.ca/assets/Uploads/PDF-content/InThePress/HVAC/Pluming+HVACmagazineapril
+2010.pdf) (PDF) from the original on April 25, 2013. Retrieved April 29, 2010.
+
+97. "Universal Robots collaborate outside enclosures | Control Engineering" (http://ww
+w.controleng.com/single-article/universal-robots-collaborate-outside-enclosures/83
+cc537080cf25e043eb9b770fd1d62f.html). Controleng.com. February 2013.
+Archived (https://web.archive.org/web/20130518134056/http://www.controleng.co
+m/single-article/universal-robots-collaborate-outside-enclosures/83cc537080cf25e0
+43eb9b770fd1d62f.html) from the original on 2013-05-18. Retrieved 2013-06-04.
+98. "A Brief History of Collaborative Robots" (http://www.engineering.com/AdvancedMa
+nufacturing/ArticleID/12169) Archived (https://web.archive.org/web/201606102023
+19/http://www.engineering.com/AdvancedManufacturing/ArticleID/12169) 2016-0610 at the Wayback Machine Engineering.com, May 19, 2016
+99. Hagerty, James (18 September 2012). "Baxter Robot Heads to Work' " (https://www.
+wsj.com/articles/SB10000872396390443720204578004441732584574). Wall
+Street Journal. New York: Dow Jones & Company. Archived (https://web.archive.org/
+web/20150410052711/http://www.wsj.com/articles/SB10000872396390443720204
+578004441732584574) from the original on 10 April 2015. Retrieved 29 May 2014.
+00. John Markoﬀ (September 18, 2012). "A Robot With a Reassuring Touch" (https://ww
+w.nytimes.com/2012/09/18/science/a-robot-with-a-delicate-touch.html). The New
+York Times. Archived (https://web.archive.org/web/20120919015947/http://www.ny
+times.com/2012/09/18/science/a-robot-with-a-delicate-touch.html) from the
+original on September 19, 2012. Retrieved September 18, 2012.
+01. "A Ping-Pong-Playing Terminator" (http://www.popsci.com/technology/article/2010-0
+2/ping-pong-playing-terminator). Popular Science. Archived (https://web.archive.or
+g/web/20110329123836/http://www.popsci.com/technology/article/2010-02/ping-p
+ong-playing-terminator) from the original on 2011-03-29. Retrieved 2010-12-18.
+02. "Best robot 2009" (https://web.archive.org/web/20120511033937/http://www.gadg
+etrivia.com/8164-best_robot_international_robot_exhibition). gadgetrivia.com.
+Archived from the original (http://www.gadgetrivia.com/8164-best_robot_internatio
+nal_robot_exhibition) on 11 May 2012.
+03. Robots Today and Tomorrow: IFR Presents the 2007 World Robotics Statistics
+Survey (http://www.robots.com/blog.php?tag=48) Archived (https://web.archive.or
+g/web/20080205041924/http://www.robots.com/blog.php?tag=48) 2008-02-05 at
+the Wayback Machine; World Robotics; 2007-10-29. Retrieved 2007-12-14
+04. Reporting by Watanabe, Hiroaki; Writing and additional reporting by Negishi,
+Mayumi; Editing by Norton, Jerry; Japan's robots slug it out to be world champ (http
+s://www.reuters.com/article/technologyNews/idUST32811820071202) Archived (htt
+ps://web.archive.org/web/20071213142513/http://www.reuters.com/article/technol
+ogyNews/idUST32811820071202) 2007-12-13 at the Wayback Machine; Reuters;
+2007-12-02. Retrieved 2007-01-01
+05. Ho, C. C.; MacDorman, K. F.; Pramono, Z. A. D. (2008). "Human emotion and the
+uncanny valley: A GLM, MDS, and ISOMAP analysis of robot video ratings" (http://w
+ww.macdorman.com/kfm/writings/pubs/Ho2007EmotionUncanny.pdf) (PDF). 2008
+3rd ACM/IEEE International Conference on Human-Robot Interaction (HRI). Archived
+(https://web.archive.org/web/20080911135038/http://www.macdorman.com/kfm/w
+ritings/pubs/Ho2007EmotionUncanny.pdf) (PDF) from the original on 2008-09-11.
+Retrieved 2008-09-24.
+06. AAAI webpage of materials on robot ethics (https://web.archive.org/web/20110805
+002115/http://www.aaai.org/AITopics/pmwiki/pmwiki.php/AITopics/Ethics)
+(Archived).
+07. AAAI compilation of articles on robot rights (https://web.archive.org/web/20120406
+094358/http://www.aaai.org/AITopics/newstopics/ethics5.html) (Archived), sources
+compiled up to 2006.
+
+08. Scientists Predict Artiﬁcial Brain in 10 Years (https://web.archive.org/web/20091129
+103022/http://www.familyhealthguide.co.uk/scientists-predict-artiﬁcial-brain-in-10years.html) (Archived), by Kristie McNealy M.D. July 29, 2009.
+09. Robot: Mere Machine to Transcendent Mind (https://books.google.com/books?id=fd
+uW6KHhWtQC&dq=robot&printsec=frontcover&source=bl&ots=SuquyjYb4n&sig=
+5S3L8pqiLqZ_yjJgh97tPE6F7gQ&hl=en&ei=R1-MSubxLs_dlAfJm_26CA&sa=X&oi=b
+ook_result&ct=result&resnum=6#v=onepage&q=&f=false) Archived (https://web.
+archive.org/web/20161205073358/https://books.google.com/books?id=fduW6KHh
+WtQC&dq=robot&printsec=frontcover&source=bl&ots=SuquyjYb4n&sig=5S3L8pqi
+LqZ_yjJgh97tPE6F7gQ&hl=en&ei=R1-MSubxLs_dlAfJm_26CA&sa=X&oi=book_result
+&ct=result&resnum=6#v=onepage&q=&f=false) 2016-12-05 at the Wayback
+Machine By Hans Moravec, Google Books.
+10. Robots Almost Conquering Walking, Reading, Dancing (http://www.koreaittimes.co
+m/story/4668/robots-almost-conquering-walking-reading-dancing) Archived (http
+s://web.archive.org/web/20110721092117/http://www.koreaittimes.com/story/466
+8/robots-almost-conquering-walking-reading-dancing) 2011-07-21 at the Wayback
+Machine, by Matthew Weigand, Korea Itimes, Monday, August 17, 2009.
+11. Plug & Pray (http://www.plugandpray-ﬁlm.de/en/content.html) Archived (https://we
+b.archive.org/web/20160212040134/http://www.plugandpray-ﬁlm.de/en/content.ht
+ml) 2016-02-12 at the Wayback Machine, documentary ﬁlm by Jens Schanze about
+the possibilities of AI and robotics.
+12. Scientists Worry Machines May Outsmart Man (https://www.nytimes.com/2009/07/2
+6/science/26robot.html?_r=1&ref=todayspaper) Archived (https://web.archive.org/
+web/20170701084625/http://www.nytimes.com/2009/07/26/science/26robot.html?_
+r=1&ref=todayspaper) 2017-07-01 at the Wayback Machine By John Markoﬀ, The
+New York Times, July 26, 2009.
+13. The Coming Technological Singularity: How to Survive in the Post-Human Era (htt
+p://www-rohan.sdsu.edu/faculty/vinge/misc/singularity.html) Archived (https://web.
+archive.org/web/20070101133646/http://www-rohan.sdsu.edu/faculty/vinge/misc/si
+ngularity.html) 2007-01-01 at the Wayback Machine, by Vernor Vinge, Department
+of Mathematical Sciences, San Diego State University, (c) 1993 by Vernor Vinge.
+14. Gaming the Robot Revolution: A military technology expert weighs in on
+Terminator: Salvation (http://www.slate.com/id/2218834/) Archived (https://web.arc
+hive.org/web/20100127191004/http://www.slate.com/id/2218834/) 2010-01-27 at
+the Wayback Machine., By P. W. Singer, slate.com Thursday, May 21, 2009.
+15. Robot takeover (https://web.archive.org/web/20120419163135/http://www.gyre.or
+g/news/explore/robot-takeover) (Archived), gyre.org.
+16. robot page (https://www.engadget.com/tag/robotapocalypse) Archived (https://we
+b.archive.org/web/20180504222624/https://www.engadget.com/tag/robotapocalyp
+se/) 2018-05-04 at the Wayback Machine, Engadget.
+17. "Cute robot politely shows self-awareness" (https://www.cnet.com/au/news/cute-ro
+bot-politely-shows-self-awareness/). Archived (https://web.archive.org/web/201508
+22211403/http://www.cnet.com/au/news/cute-robot-politely-shows-self-awareness/)
+from the original on 2015-08-22. Retrieved 2015-08-19.
+18. Call for debate on killer robots (http://news.bbc.co.uk/2/hi/technology/8182003.st
+m) Archived (https://web.archive.org/web/20090807005005/http://news.bbc.co.uk/
+2/hi/technology/8182003.stm) 2009-08-07 at the Wayback Machine, Jason Palmer.
+BBC News, August 3, 2009.
+19. Robot three-way portends autonomous future (https://www.wired.com/dangerroom/
+2009/08/robot-three-way-portends-autonomous-future/) Archived (https://web.archi
+ve.org/web/20121107102140/http://www.wired.com/dangerroom/2009/08/robot-thr
+ee-way-portends-autonomous-future/) 2012-11-07 at the Wayback Machine, By
+David Axe wired.com, August 13, 2009.
+
+20. New Navy-funded Report Warns of War Robots Going "Terminator" (http://www.daily
+tech.com/New%20Navyfunded%20Report%20Warns%20of%20War%20Robots%20
+Going%20Terminator/article14298.htm) Archived (https://web.archive.org/web/200
+90728101106/http://www.dailytech.com/New%20Navyfunded%20Report%20Warn
+s%20of%20War%20Robots%20Going%20Terminator/article14298.htm) 2009-07-28
+at the Wayback Machine, by Jason Mick (Blog), dailytech.com, February 17, 2009.
+21. Navy report warns of robot uprising, suggests a strong moral compass (https://ww
+w.engadget.com/2009/02/18/navy-report-warns-of-robot-uprising-suggests-a-strong
+-moral-com/) Archived (https://web.archive.org/web/20110604145633/http://www.e
+ngadget.com/2009/02/18/navy-report-warns-of-robot-uprising-suggests-a-strong-m
+oral-com/) 2011-06-04 at the Wayback Machine, by Joseph L. Flatley
+engadget.com, February 18, 2009.
+22. New role for robot warriors (http://www.csmonitor.com/Technology/Tech/2010/0217/
+New-role-for-robot-warriors) Archived (https://web.archive.org/web/2015092412094
+6/http://www.csmonitor.com/Technology/Tech/2010/0217/New-role-for-robot-warrior
+s) 2015-09-24 at the Wayback Machine Drones are just part of a bid to automate
+combat. Can virtual ethics make machines decisionmakers?, by Gregory M. Lamb,
+The Christian Science Monitor, February 17, 2010.
+23. "Biomass-Eating Military Robot Is a Vegetarian, Company Says" (https://web.archiv
+e.org/web/20090803135855/http://www.foxnews.com/story/0,2933,533382,00.htm
+l). Fox News Channel. 2009-07-16. Archived from the original (http://www.foxnews.
+com/story/0,2933,533382,00.html) on 2009-08-03. Retrieved 2009-07-31.
+24. Shachtman, Noah (2009-07-17). "Danger Room What's Next in National Security
+Company Denies its Robots Feed on the Dead" (https://www.wired.com/dangerroo
+m/2009/07/company-denies-its-robots-feed-on-the-dead/). Wired. Archived (https://
+web.archive.org/web/20090729095144/http://www.wired.com/dangerroom/2009/0
+7/company-denies-its-robots-feed-on-the-dead) from the original on 2009-07-29.
+Retrieved 2009-07-31.
+25. Press release, RTI Inc. (2009 July 16). Cyclone Power Technologies Responds to
+Rumors about “Flesh Eating” Military Robot (http://www.robotictechnologyinc.com/i
+mages/upload/ﬁle/Cyclone%20Power%20Press%20Release%20EATR%20Rumors%2
+0Final%2016%20July%2009.pdf) Archived (https://web.archive.org/web/200908231
+33634/http://www.robotictechnologyinc.com/images/upload/ﬁle/Cyclone%20Powe
+r%20Press%20Release%20EATR%20Rumors%20Final%2016%20July%2009.pdf)
+2009-08-23 at the Wayback Machine, pp. 1-2.
+26. Press release, RTI Inc. (2009 April 6). "Brief Project Overview" (http://www.roboticte
+chnologyinc.com/images/upload/ﬁle/Presentation%20EATR%20Brief%20Overview%
+206%20April%2009.pdf) Archived (https://web.archive.org/web/20090823133720/h
+ttp://www.robotictechnologyinc.com/images/upload/ﬁle/Presentation%20EATR%20B
+rief%20Overview%206%20April%2009.pdf) 2009-08-23 at the Wayback Machine,
+EATR: Energetically Autonomous Tactical Robot, pp. 22.
+27. Manuel de Landa, War in the Age of Intelligent Machines, New York: Zone Books,
+1991, 280 pages, Hardcover, ISBN 0-942299-76-0; Paperback, ISBN 0-942299-75-2.
+
+28. E McGaughey, 'Will Robots Automate Your Job Away? Full Employment, Basic
+Income, and Economic Democracy' (2018) SSRN, part 3 (https://papers.ssrn.com/s
+ol3/papers.cfm?abstract_id=3044448) Archived (https://web.archive.org/web/2018
+0524201340/https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3044448) 201805-24 at the Wayback Machine. Porter, Eduardo; Manjoo, Farhad (9 March 2016).
+"A Future Without Jobs? Two Views of the Changing Work Force" (https://www.nytim
+es.com/2016/03/09/business/economy/a-future-without-jobs-two-views-of-the-chan
+ging-work-force.html). The New York Times. Archived (https://web.archive.org/web/
+20170215151324/https://www.nytimes.com/2016/03/09/business/economy/a-futur
+e-without-jobs-two-views-of-the-changing-work-force.html) from the original on 15
+February 2017. Retrieved 23 February 2017.. Thompson, Derek (July–August 2015).
+"A World Without Work" (https://www.theatlantic.com/magazine/archive/2015/07/w
+orld-without-work/395294/). The Atlantic. Archived (https://web.archive.org/web/20
+170227122425/https://www.theatlantic.com/magazine/archive/2015/07/world-with
+out-work/395294/) from the original on 2017-02-27. Retrieved 2017-03-11.
+29. Yan (30 July 2011). "Foxconn to replace workers with 1 million robots in 3 years" (ht
+tp://news.xinhuanet.com/english2010/china/2011-07/30/c_131018764.htm).
+Xinhua News Agency. Archived (https://web.archive.org/web/20111008201637/htt
+p://news.xinhuanet.com/english2010/china/2011-07/30/c_131018764.htm) from
+the original on 8 October 2011. Retrieved 4 August 2011.
+30. "Judgment day – employment law and robots in the workplace" (https://futureofwor
+khub.squarespace.com/allcontent/2014/11/20/judgment-day-employment-law-androbots-in-the-workplace). futureofworkhub. Archived (https://web.archive.org/web/2
+0150403233901/https://futureofworkhub.squarespace.com/allcontent/2014/11/20/j
+udgment-day-employment-law-and-robots-in-the-workplace) from the original on
+2015-04-03. Retrieved 2015-01-07.
+31. Delaney, Kevin. "The robot that takes your job should pay taxes, says Bill Gates" (h
+ttps://qz.com/911968/bill-gates-the-robot-that-takes-your-job-should-pay-taxes/).
+QUARTZ. Archived (https://web.archive.org/web/20170305042737/https://qz.com/9
+11968/bill-gates-the-robot-that-takes-your-job-should-pay-taxes/) from the original
+on 5 March 2017. Retrieved 4 March 2017.
+32. "The Changing Nature of Work"
+(http://www.worldbank.org/en/publication/wdr2019). Archived (https://web.archive.
+org/web/20180930193143/http://www.worldbank.org/en/publication/wdr2019) from
+the original on 30 September 2018. Retrieved 8 October 2018.
+33. "Contact Systems Pick and Place robots" (https://web.archive.org/web/2008091405
+0602/http://www.contactsystems.com/c5_series.html). Contact Systems. Archived
+from the original (http://www.contactsystems.com/c5_series.html) on 2008-09-14.
+Retrieved 2008-09-21.
+34. "SMT pick-and-place equipment" (https://web.archive.org/web/20080803173021/ht
+tp://www.assembleon.com/surface-mount-assembly/pick-and-place-equipment/a-se
+ries/). Assembleon. Archived from the original (http://www.assembleon.com/surface
+-mount-assembly/pick-and-place-equipment/a-series/) on 2008-08-03. Retrieved
+2008-09-21.
+35. "The Basics of Automated Guided Vehicles" (https://web.archive.org/web/20071008
+135856/http://www.agvsystems.com/basics/vehicle.htm). Savant Automation, AGV
+Systems. Archived from the original (http://www.agvsystems.com/basics/vehicle.ht
+m) on 2007-10-08. Retrieved 2007-09-13.
+36. "Jervis B. Webb" (https://web.archive.org/web/20130523015511/http://www.jervisb
+webb.com/Products/automatic_trailer_loading.aspx?pid=190&qs=1_3_). Webb
+SmartLoader. Archived from the original (http://www.jervisbwebb.com/Products/aut
+omatic_trailer_loading.aspx?pid=190&qs=1_3_) on 23 May 2013. Retrieved
+2 September 2011.
+
+37. "SpeciMinder" (http://www.ccsrobotics.com/products/speciminder.html). CSS
+Robotics. Archived (https://web.archive.org/web/20090701131848/http://www.ccsro
+botics.com/products/speciminder.html) from the original on 2009-07-01. Retrieved
+2008-09-25.
+38. "ADAM robot" (https://web.archive.org/web/20060517153330/http://rmtrobotics.co
+m/tire_agv.html). RMT Robotics. Archived from the original (http://www.rmtrobotics.
+com/tire_agv.html) on 2006-05-17. Retrieved 2008-09-25.
+39. "Can Do" (https://web.archive.org/web/20080803173353/http://www.aethon.com/c
+an_do_tug.html). Aethon. Archived from the original (http://www.aethon.com/can_d
+o_tug.html) on 2008-08-03. Retrieved 2008-09-25.
+40. "Eskorta robot" (https://web.archive.org/web/20111206082746/http://www.fennecf
+oxtech.com/). Fennec Fox Technologies. Archived from the original (http://www.fenn
+ecfoxtech.com) on 2011-12-06. Retrieved 2011-11-25.
+41. "Delivery Robots & AGVs" (https://web.archive.org/web/20100226202710/http://ww
+w.mobilerobots.com/AGV.html). Mobile Robots. Archived from the original (http://w
+ww.mobilerobots.com/AGV.html) on 26 February 2010. Retrieved 2008-09-25.
+42. "Dante II, list of published papers" (https://web.archive.org/web/20080515015703/
+http://www.ri.cmu.edu/projects/project_163.html). The Robotics Institute of
+Carnegie Mellon University. Archived from the original (http://www.ri.cmu.edu/proje
+cts/project_163.html) on 15 May 2008. Retrieved 2007-09-16.
+43. "Mars Pathﬁnder Mission: Rover Sojourner" (https://web.archive.org/web/20170201
+165939/http://mars.jpl.nasa.gov/MPF/rover/sojourner.html). NASA. 1997-07-08.
+Archived from the original (http://mars.jpl.nasa.gov/MPF/rover/sojourner.html) on
+2017-02-01. Retrieved 2007-09-19.
+44. "Robot assisted surgery: da Vinci Surgical System" (https://web.archive.org/web/20
+070916084349/http://biomed.brown.edu/Courses/BI108/BI108_2005_Groups/04/da
+vinci.html). Brown University Division of Biology and Medicine. Archived from the
+original (http://biomed.brown.edu/Courses/BI108/BI108_2005_Groups/04/davinci.ht
+ml) on 2007-09-16. Retrieved 2007-09-19.
+45. The Utilization of Robotic Space Probes in Deep Space Missions:Case Study of AI
+Protocols and Nuclear Power Requirements (https://upes.academia.edu/SeeteshPA
+NDE/Papers/1717325/The_Utilization_of_Robotic_Space_Probes_in_Deep_Space_Mis
+sions_Case_Study_of_AI_Protocols_and_Nuclear_Power_Requirements), Proceedings
+of 2011 International Conference on Mechanical Engineering, Robotics and
+Aerospace, October 2011.
+46. Review: Space Probes (http://www.thespacereview.com/article/2004/1) Archived (ht
+tps://web.archive.org/web/20120831183945/http://www.thespacereview.com/articl
+e/2004/1) 2012-08-31 at the Wayback Machine, by Jeﬀ Foust, Monday, January 16,
+2012. Review of Space Probes: 50 Years of Exploration from Luna 1 to New
+Horizons, by Philippe Séguéla Fireﬂy, 2011.
+47. "Celebrities set to reach for Atwood's LongPen" (https://web.archive.org/web/20090
+522221123/http://www.cbc.ca/arts/books/story/2007/08/15/longpen-trial.html).
+Canadian Broadcasting Corporation. 2007-08-15. Archived from the original (http://
+www.cbc.ca/arts/books/story/2007/08/15/longpen-trial.html) on 22 May 2009.
+Retrieved 2008-09-21.
+48. Graham, Stephen (2006-06-12). "America's robot army" (https://web.archive.org/w
+eb/20120217174704/http://www.newstatesman.com/200606120018). New
+Statesman. Archived from the original (http://www.newstatesman.com/200606120
+018) on 17 February 2012. Retrieved 2007-09-24.
+
+49. "Battleﬁeld Robots: to Iraq, and Beyond" (http://www.defenseindustrydaily.com/batt
+leﬁeld-robots-to-iraq-and-beyond-0727). Defense Industry Daily. 2005-06-20.
+Archived (https://web.archive.org/web/20070826201610/http://www.defenseindustr
+ydaily.com/battleﬁeld-robots-to-iraq-and-beyond-0727/) from the original on 200708-26. Retrieved 2007-09-24.
+50. Shachtman, Noah (November 2005). "The Baghdad Bomb Squad" (https://www.wir
+ed.com/wired/archive/13.11/bomb.html?pg=3&topic=bomb). Wired. Archived (http
+s://web.archive.org/web/20080422132525/http://www.wired.com/wired/archive/13.
+11/bomb.html?pg=3&topic=bomb) from the original on 2008-04-22. Retrieved
+2007-09-14.
+51. Shachtman, Noah (2013-03-28). "WIRED: First Armed Robots on Patrol in Iraq" (htt
+p://blog.wired.com/defense/2007/08/httpwwwnational.html). Blog.wired.com.
+Archived (https://web.archive.org/web/20090403093830/http://blog.wired.com/defe
+nse/2007/08/httpwwwnational.html) from the original on 2009-04-03. Retrieved
+2014-02-08.
+52. Shachtman, Noah (2013-03-28). "WIRED: Armed Robots Pushed To Police" (http://bl
+og.wired.com/defense/2007/08/armed-robots-so.html). Blog.wired.com. Archived (h
+ttps://web.archive.org/web/20090412043558/http://blog.wired.com/defense/2007/0
+8/armed-robots-so.html) from the original on 2009-04-12. Retrieved 2014-02-08.
+53. "America's Robot Army" (https://web.archive.org/web/20100205083139/http://ww
+w.popularmechanics.com/technology/military_law/4252643.html?page=2).
+Popularmechanics.com. 2009-12-18. Archived from the original (http://www.popular
+mechanics.com/technology/military_law/4252643.html?page=2) on 2010-02-05.
+Retrieved 2014-02-08.
+54. The Present and Future of Unmanned Drone Aircraft: An Illustrated Field Guide (htt
+p://www.popsci.com/technology/article/2010-02/ﬁeld-guide-ﬂying-robots); Archived
+(https://web.archive.org/web/20100226101134/http://www.popsci.com/technology/
+article/2010-02/ﬁeld-guide-ﬂying-robots) 2010-02-26 at the Wayback Machine
+Inside the wild kingdom of the world's newest and most spectacular species of
+unmanned aircraft, from swarming insect ’bots that can storm a burning building to
+a seven-ton weaponized spyplane invisible to radar. By Eric Hagerman, Popular
+Science, 23 February 2010.
+55. "Taranis: The m Fighter Jet Of The Future" (https://web.archive.org/web/201007150
+51514/http://news.sky.com/skynews/Home/UK-News/Taranis-MoD-And-BAE-Systems
+-Unveil-Futuristic-Unmanned-Fighter-Jet/Article/201007215663917?lpos=UK_News_
+Second_Home_Page_Article_Teaser_Region_0&lid=ARTICLE_15663917_Taranis%3A_
+MoD_And_BAE_Systems_Unveil_Futuristic_Unmanned_Fighter_Jet). Ministry of
+Defence. 2010-07-12. Archived from the original (http://news.sky.com/skynews/Ho
+me/UK-News/Taranis-MoD-And-BAE-Systems-Unveil-Futuristic-Unmanned-Fighter-Je
+t/Article/201007215663917?lpos=UK_News_Second_Home_Page_Article_Teaser_Re
+gion_0&lid=ARTICLE_15663917_Taranis:_MoD_And_BAE_Systems_Unveil_Futuristic_
+Unmanned_Fighter_Jet) on 2010-07-15. Retrieved 2010-07-13.
+56. Emery, Daniel (2010-07-12). "MoD lifts lid on unmanned combat plane prototype"
+(http://news.bbc.co.uk/1/hi/technology/10602105.stm). BBC News. Archived (http
+s://web.archive.org/web/20100712191703/http://news.bbc.co.uk/1/hi/technology/1
+0602105.stm) from the original on 2010-07-12. Retrieved 2010-07-12.
+57. AAAI Presidential Panel on Long-Term AI Futures 2008–2009 Study (http://research.
+microsoft.com/en-us/um/people/horvitz/AAAI_Presidential_Panel_2008-2009.htm)
+Archived (https://web.archive.org/web/20090828214741/http://research.microsoft.c
+om/en-us/um/people/horvitz/AAAI_Presidential_Panel_2008-2009.htm) 2009-08-28
+at the Wayback Machine, Association for the Advancement of Artiﬁcial Intelligence.
+Retrieved July 26, 2009.
+
+58. Why We Need Friendly AI (https://web.archive.org/web/20120524150856/http://ww
+w.asimovlaws.com/articles/archives/2004/07/why_we_need_fri_1.html),
+Asimovlaws.com, July 2004. Retrieved July 27, 2009.
+59. Robotic age poses ethical dilemma (http://news.bbc.co.uk/1/hi/technology/642592
+7.stm) Archived (https://web.archive.org/web/20090215145547/http://news.bbc.co.
+uk/1/hi/technology/6425927.stm) 2009-02-15 at the Wayback Machine; BBC News;
+2007-03-07. Retrieved 2007-01-02;
+60. Asimov's First Law: Japan Sets Rules for Robots (http://www.livescience.com/techno
+logy/060526_robot_rules.html) Archived (https://web.archive.org/web/2008101302
+5115/http://www.livescience.com/technology/060526_robot_rules.html) 2008-10-13
+at the Wayback Machine, By Bill Christensen, livescience.com, May 26, 2006.
+61. Japan drafts rules for advanced robots (http://www.physorg.com/news95078958.ht
+ml) Archived (https://web.archive.org/web/20081011103322/http://www.physorg.co
+m/news95078958.html) 2008-10-11 at the Wayback Machine, UPI via physorg.com,
+April 6, 2007.
+62. Report compiled by the Japanese government's Robot Industry Policy Committee Building a Safe and Secure Social System Incorporating the Coexistence of Humans
+and Robots (http://www.meti.go.jp/english/press/data/20090325_01.html) Archived
+(https://web.archive.org/web/20110927070744/http://www.meti.go.jp/english/pres
+s/data/20090325_01.html) 2011-09-27 at the Wayback Machine, Oﬃcial Japan
+government press release, Ministry of Economy, Trade and Industry, March 2009.
+63. Toward the human-Robot Coexistence Society: on Safety intelligence for next
+Generation Robots (http://works.bepress.com/cgi/viewcontent.cgi?article=1000&co
+ntext=weng_yueh_hsuan) Archived (https://web.archive.org/web/2009092618141
+9/http://works.bepress.com/cgi/viewcontent.cgi?article=1000&context=weng_yueh
+_hsuan) 2009-09-26 at the Wayback Machine, report by Yueh-Hsuan Weng, China
+Ministry of the Interior, International Journal of Social Robotics (https://www.springe
+r.com/engineering/robotics/journal/12369) Archived (https://web.archive.org/web/2
+0170429183338/http://www.springer.com/engineering/robotics/journal/12369)
+2017-04-29 at the Wayback Machine, April 7, 2009.
+64. Evolving Robots Learn To Lie To Each Other (http://www.foxnews.com/story/0,2933,
+540721,00.html) Archived (https://web.archive.org/web/20130518220343/http://w
+ww.foxnews.com/story/0,2933,540721,00.html) 2013-05-18 at the Wayback
+Machine, Popular Science, August 19, 2009.
+65. "Rio Tinto Media Center – Rio Tinto boosts driverless truck ﬂeet to 150 under Mine
+of the Future™ programme" (https://web.archive.org/web/20130424100842/https://
+www.riotinto.com/media/5157_21165.asp). Riotinto.com. Archived from the original
+(http://www.riotinto.com/media/5157_21165.asp) on 2013-04-24. Retrieved
+2014-02-08.
+66. "BHP Billiton hits go on autonomous drills" (http://www.itnews.com.au/news/bhp-bil
+liton-hits-go-on-autonomous-drills-421008). Archived (https://web.archive.org/web/
+20160822040424/http://www.itnews.com.au/news/bhp-billiton-hits-go-on-autonom
+ous-drills-421008) from the original on 2016-08-22. Retrieved 2016-07-27.
+67. Adrian (2011-09-06). "AIMEX blog – Autonomous mining equipment" (http://adrianb
+oeing.blogspot.com/2011/06/aimex.html). Adrianboeing.blogspot.com. Archived (ht
+tps://web.archive.org/web/20131218162920/http://adrianboeing.blogspot.com/201
+1/06/aimex.html) from the original on 2013-12-18. Retrieved 2014-02-08.
+68. "Atlas Copco – RCS" (https://web.archive.org/web/20140207175830/http://www.atla
+scopco.com/rcs/). Atlascopco.com. Archived from the original (http://www.atlascopc
+o.com/rcs/) on 2014-02-07. Retrieved 2014-02-08.
+69. "Transmin – Rocklogic" (http://rocklogic.com.au/). Rocklogic.com.au. Archived (http
+s://web.archive.org/web/20140125105842/http://rocklogic.com.au/) from the
+original on 2014-01-25. Retrieved 2014-02-08.
+
+70. Topping, Mike; Smith, Jane (1999). "An Overview Of Handy 1, A Rehabilitation Robot
+For The Severely Disabled" (https://web.archive.org/web/20090805111627/https://
+www.csun.edu/cod/conf/1999/proceedings/session0059.htm). CSUN Center on
+Disabilities Conference Proceedings. 1999. Proceedings: Session 59. Archived from
+the original (http://www.csun.edu/cod/conf/1999/proceedings/session0059.htm) on
+5 August 2009. Retrieved 14 August 2010. "The early version of the Handy 1
+system consisted of a Cyber 310 robotic arm with ﬁve degrees of freedom plus a
+gripper."
+71. Jeavans, Christine (2004-11-29). "Welcome to the ageing future" (http://news.bbc.c
+o.uk/1/hi/uk/4012797.stm). BBC News. Archived (https://web.archive.org/web/2007
+1016123948/http://news.bbc.co.uk/1/hi/uk/4012797.stm) from the original on
+2007-10-16. Retrieved 2007-09-26.
+72. "Statistical Handbook of Japan: Chapter 2 Population" (https://web.archive.org/web/
+20130906015841/http://www.stat.go.jp/english/data/handbook/c02cont.htm).
+Statistics Bureau & Statistical Research and Training Institute. Archived from the
+original (http://www.stat.go.jp/english/data/handbook/c02cont.htm) on 2013-09-06.
+Retrieved 2007-09-26.
+73. "Robotic future of patient care" (https://web.archive.org/web/20071121041811/htt
+p://www.e-health-insider.com/comment_and_analysis/250/robotic_future_of_patient
+_care). E-Health Insider. 2007-08-16. Archived from the original (http://www.e-healt
+h-insider.com/comment_and_analysis/250/robotic_future_of_patient_care) on 21
+November 2007. Retrieved 2007-09-26.
+74. Gebhart, Fred (2019-07-04). "The Future of Pharmacy Automation" (https://www.dr
+ugtopics.com/article/future-pharmacy-automation). Drug Topics. Retrieved
+2019-11-20.
+75. Dolan, Kerry A. "R2D2 Has Your Pills" (https://www.forbes.com/2009/10/08/robots-m
+ckesson-business-healthcare-medical-tech-09-mckesson.html). Forbes. Retrieved
+2019-11-20.
+76. "Nanobots Play Football" (https://web.archive.org/web/20130403180057/https://ww
+w.techbirbal.com/viewtopic.php?p=3687&sid=7faaeeb64eaf84880b23755fea7fa7c
+d). Techbirbal. Archived from the original (http://www.techbirbal.com/viewtopic.ph
+p?p=3687&sid=7faaeeb64eaf84880b23755fea7fa7cd) on 2013-04-03. Retrieved
+2014-02-08.
+77. "KurzweilAI.net" (https://web.archive.org/web/20100621142011/http://www.kurzwei
+lai.net/meme/frame.html?main=%2Farticles%2Fart0220.html). 21 June 2010.
+Archived from the original (http://www.kurzweilai.net/meme/frame.html?main=/arti
+cles/art0220.html) on 21 June 2010. Retrieved 5 July 2016.
+78. "(Eric Drexler 1986) Engines of Creation, The Coming Era of Nanotechnology" (htt
+p://www.e-drexler.com/d/06/00/EOC/EOC_Chapter_11.html). E-drexler.com.
+Archived (https://web.archive.org/web/20140906190853/http://e-drexler.com/d/06/
+00/EOC/EOC_Chapter_11.html) from the original on 2014-09-06. Retrieved
+2014-02-08.
+79. Chris Phoenix (December 2003). "Of Chemistry, Nanobots, and Policy" (http://www.
+crnano.org/Debate.htm). Center for Responsible Nanotechnology. Archived (https://
+web.archive.org/web/20071011132926/http://crnano.org/Debate.htm) from the
+original on 2007-10-11. Retrieved 2007-10-28.
+80. "Nanotechnology pioneer slays 'grey goo' myths" (http://www.iop.org/EJ/news/-topi
+c=763/journal/0957-4484). Institute of Physics Electronics Journals. 2004-06-07.
+Retrieved 2007-10-28.
+81. (1996) LEGO(TM)s to the Stars: Active MesoStructures, Kinetic Cellular Automata,
+and Parallel Nanomachines for Space Applications (http://www.islandone.org/MMS
+G/9609lego.htm) Archived (https://web.archive.org/web/20070927215619/http://w
+ww.islandone.org/MMSG/9609lego.htm) 2007-09-27 at the Wayback Machine
+
+82. (Robert Fitch, Zack Butler and Daniela Rus) Reconﬁguration Planning for
+Heterogeneous Self-Reconﬁguring Robots (http://groups.csail.mit.edu/drl/publicatio
+ns/papers/MeltSortGrow.pdf) Archived (https://web.archive.org/web/200706192123
+52/http://groups.csail.mit.edu/drl/publications/papers/MeltSortGrow.pdf) 2007-0619 at the Wayback Machine
+83. John Schwartz (2007-03-27). "In the Lab: Robots That Slink and Squirm" (https://ww
+w.nytimes.com/2007/03/27/science/27robo.html?pagewanted=1&_r=1&ei=5070&e
+n=91395fe7439a5b72&ex=1177128000). The New York Times. Archived (https://w
+eb.archive.org/web/20150403233312/http://www.nytimes.com/2007/03/27/science/
+27robo.html?pagewanted=1&_r=1&ei=5070&en=91395fe7439a5b72&ex=117712
+8000) from the original on 2015-04-03. Retrieved 2008-09-22.
+84. Kat Eschner (25 March 2019). "Squishy robots now have squishy computers to
+control them" (https://www.popsci.com/soft-robot-computer). Popular Science.
+85. "The softer side of robotics" (https://store.hp.com/us/en/cv/taw-article?ai=199&ap
+=46&au=The_softer_side_of_robotics&am=May&ay=2019#false). May 2019.
+Archived (https://web.archive.org/web/20190517175356/https://store.hp.com/us/e
+n/cv/taw-article?ai=199&ap=46&au=The_softer_side_of_robotics&am=May&ay=2
+019#false) from the original on 2019-05-17. Retrieved 2019-05-17.
+86. "SRI/MobileRobots" (https://web.archive.org/web/20090212091659/https://www.act
+ivrobots.com/RESEARCH/wheelchair.html). activrobots.com. Archived from the
+original (http://www.activrobots.com/RESEARCH/wheelchair.html) on 2009-02-12.
+87. "Open-source micro-robotic project" (http://www.swarmrobot.org). Archived (http
+s://web.archive.org/web/20071111025135/http://www.swarmrobot.org/) from the
+original on 2007-11-11. Retrieved 2007-10-28.
+88. "Swarm" (https://web.archive.org/web/20070927191006/https://www.irobot.com/s
+p.cfm?pageid=149). iRobot Corporation. Archived from the original (http://www.iro
+bot.com/sp.cfm?pageid=149) on 2007-09-27. Retrieved 2007-10-28.
+89. Knapp, Louise (2000-12-21). "Look, Up in the Sky: Roboﬂy" (https://www.wired.com/
+science/discoveries/news/2000/12/40750). Wired. Archived (https://web.archive.or
+g/web/20120626210619/http://www.wired.com/science/discoveries/news/2000/12/
+40750) from the original on 2012-06-26. Retrieved 2008-09-25.
+90. "The Cutting Edge of Haptics" (http://www.technologyreview.com/read_article.asp
+x?id=17363&ch=biotech&sc=&pg=1). MIT Technology review. Retrieved
+2008-09-25.
+91. "Artists & Robots Exposition au Grand Palais du 5 avril au 9 juillet 2018" (https://we
+b.archive.org/web/20190814133056/https://www.grandpalais.fr/en/event/artists-ro
+bots). 2019-08-14. Archived from the original (https://www.grandpalais.fr/en/event/
+artists-robots) on 2019-08-14. Retrieved 2020-02-03.
+92. "Comic Potential : Q&A with Director Stephen Cole" (https://web.archive.org/web/2
+0090103103732/http://www.arts.cornell.edu/theatrearts/CTA/Program%20Notes/co
+mic%20potential.asp). Cornell University. Archived from the original (http://www.art
+s.cornell.edu/theatrearts/CTA/Program%20Notes/comic%20potential.asp) on 3
+January 2009. Retrieved 2007-11-21.
+93. Freedman, ed. by Carl (2005). Conversations with Isaac Asimov (https://archive.or
+g/details/isbn_9781578067381) (1. ed.). Jackson: Univ. Press of Mississippi. p. vii.
+ISBN 978-1-57806-738-1. Retrieved 4 August 2011. "... quite possibly the most
+proliﬁc"
+94. Oakes, Elizabeth H. (2004). American writers (https://archive.org/details/americanw
+riters0000oake). New York: Facts on File. p. 24 (https://archive.org/details/american
+writers0000oake/page/24). ISBN 978-0-8160-5158-8. Retrieved 4 August 2011.
+"most proliﬁc authors asimov."
+
+95. He wrote "over 460 books as well as thousands of articles and reviews", and was
+the "third most proliﬁc writer of all time [and] one of the founding fathers of
+modern science ﬁction". White, Michael (2005). Isaac Asimov: a life of the grand
+master of science ﬁction (https://books.google.com/books?id=EWbMiyS9v98C).
+Carroll & Graf. pp. 1–2. ISBN 978-0-7867-1518-3. Archived (https://web.archive.org/
+web/20161205023302/https://books.google.com/books?id=EWbMiyS9v98C) from
+the original on 2016-12-05. Retrieved 2016-09-25.
+96. R. Clarke. "Asimov's Laws of Robotics – Implications for Information Technology" (ht
+tps://web.archive.org/web/20080722022618/https://www.anu.edu.au/people/Roger.
+Clarke/SOS/Asimov.html). Australian National University/IEEE. Archived from the
+original (http://www.anu.edu.au/people/Roger.Clarke/SOS/Asimov.html) on 2008-0722. Retrieved 2008-09-25.
+97. Seiler, Edward; Jenkins, John H. (2008-06-27). "Isaac Asimov FAQ" (http://www.asim
+ovonline.com/asimov_FAQ.html). Isaac Asimov Home Page. Archived (https://web.a
+rchive.org/web/20120716233605/http://www.asimovonline.com/asimov_FAQ.html)
+from the original on 2012-07-16. Retrieved 2008-09-24.
+98. White, Michael (2005). Isaac Asimov: A Life of the Grand Master of Science Fiction.
+Carroll & Graf. p. 56. ISBN 978-0-7867-1518-3.
+99. "Campaign launched against 'harmful' sex robots" (https://www.cnbc.com/2015/09/
+15/sex-robots-campaign.html). CNBC. 2015-09-15. Archived (https://web.archive.or
+g/web/20170913212328/https://www.cnbc.com/2015/09/15/sex-robots-campaign.h
+tml) from the original on 2017-09-13. Retrieved 2017-09-10.
+00. "Intelligent machines: Call for a ban on robots designed as sex toys" (https://www.b
+bc.com/news/technology-34118482). BBC News. 2015-09-15. Archived (https://we
+b.archive.org/web/20180630212424/https://www.bbc.com/news/technology-34118
+482) from the original on 2018-06-30. Retrieved 2018-06-21.
+01. "Campaign calls for ban on sex robots" (https://www.wired.co.uk/article/campaign-a
+gainst-sex-robots). Wired UK. 2005-09-15. Archived (https://web.archive.org/web/2
+0170914215759/https://www.wired.co.uk/article/campaign-against-sex-robots)
+from the original on 2017-09-14. Retrieved 2017-09-10.
+02. Justin Wm. Moyer (15 September 2015). "Having sex with robots is really, really
+bad, Campaign Against Sex Robots says" (https://www.washingtonpost.com/news/
+morning-mix/wp/2015/09/15/having-sex-with-robots-is-really-really-bad-campaign-a
+gainst-sex-robots-says/). Washington Post. Archived (https://web.archive.org/web/2
+0160908172134/https://www.washingtonpost.com/news/morning-mix/wp/2015/09/
+15/having-sex-with-robots-is-really-really-bad-campaign-against-sex-robots-says/)
+from the original on 8 September 2016. Retrieved 10 September 2017.
+
+Further reading
+See this humanoid robot artist sketch drawings from sight (CNN, Video, 2019) (http
+s://www.cnn.com/videos/business/2019/06/06/uk-oxford-university-ai-da-humanoidrobot-artist-ge-lon-orig.cnn-business/video/playlists/business-robots/)
+Čapek, Karel (1920). R.U.R. (https://web.archive.org/web/20160825193650/https://
+ebooks.adelaide.edu.au/c/capek/karel/rur/), Aventinum, Prague.
+Margolius, Ivan. 'The Robot of Prague', Newsletter, The Friends of Czech Heritage
+no. 17, Autumn 2017, pp. 3 – 6.
+https://czechfriends.net/images/RobotsMargoliusJul2017.pdf
+Glaser, Horst Albert and Rossbach, Sabine: The Artiﬁcial Human, Frankfurt/M.,
+Bern, New York 2011 "A Tragical History" (https://www.amazon.com/Artiﬁcial-Huma
+n-Tragical-History/dp/3631578083)
+
+TechCast Article Series, Jason Rupinski and Richard Mix, "Public Attitudes to
+Androids: Robot Gender, Tasks, & Pricing" (https://web.archive.org/web/200905130
+32434/http://www.techcast.org/Upload/PDFs/050804104155TC.androids2.pdf)
+Cheney, Margaret [1989:123] (1981). Tesla, Man Out of Time. Dorset Press. New
+York. ISBN 0-88029-419-1
+Craig, J.J. (2005). Introduction to Robotics, Pearson Prentice Hall. Upper Saddle
+River, NJ.
+Gutkind, L. (2006). Almost Human: Making Robots Think. New York: W. W. Norton &
+Company, Inc.
+Needham, Joseph (1986). Science and Civilization in China: Volume 2. Taipei: Caves
+Books Ltd.
+Sotheby's New York. The Tin Toy Robot Collection of Matt Wyse (1996)
+Tsai, L. W. (1999). Robot Analysis. Wiley. New York.
+DeLanda, Manuel. War in the Age of Intelligent Machines. 1991. Swerve. New York.
+Journal of Field Robotics (http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)15564967)
+
+External links
+Robot (https://www.britannica.com/EBchecked/topic/505818) at the Encyclopædia
+Britannica
+Robotics (https://curlie.org/Computers/Robotics) at Curlie
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Robot&oldid=961539530"
+
+This page was last edited on 9 June 2020, at 02:18 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may
+apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered
+trademark of the Wikimedia Foundation, Inc., a non-proﬁt organization.
+
+
