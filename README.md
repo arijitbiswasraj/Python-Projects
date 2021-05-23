@@ -1,4 +1,4 @@
 # Python-Projects
-Contains a list of useful py scripts.
+Good py scripts.
 
 Read commit detalis to get more info.
