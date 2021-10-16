@@ -8,9 +8,13 @@ include('dbcon.php');
 
 <html>
 <head>
+<?php include('header.php');?>
 </head>
 <body>
-  <h1>Gym Management SOFTWARE</h1>
+  <?php 
+  include('menu.php');
+  ?>
+  <!-- <h1>Gym Management SOFTWARE</h1>
   <a href="admission.php">Admission</a>
   <a href="stumanage.php">Student Management</a>
   <a href="dues.php">Fees and Dues</a>
@@ -18,6 +22,6 @@ include('dbcon.php');
   <a href="stats.php">Stats</a>
   <a href="sms.php">SMS</a>
   <a href="changepass.php">Change Password</a>
-  <a href="logout.php">Logout</a>
+  <a href="logout.php">Logout</a> -->
 </body>
 </html>

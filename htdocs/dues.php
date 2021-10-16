@@ -15,7 +15,7 @@ if ( isset($_POST['sendmessage'])){
     $phno = $_POST['phno'];
     $id = $_POST['id'];
     $today = $_POST['today'];
-    $query 	= mysqli_query($conn, "UPDATE `user` SET `reminderdate` = '$today' WHERE `user`.`id` = $idno;");
+    $query 	= mysqli_query($conn, "UPDATE `user` SET `reminderdate` = '$today' WHERE `user`.`id` = $id;");
     if (!$query) {
         die ('SQL Error: ' . mysqli_error($conn));
     }
@@ -52,7 +52,7 @@ if(isset($_POST['recharge'])){
     //UPDATE `user` SET `packstartdate` = '2021-10-23', `packenddate` = '2021-11-24' WHERE `user`.`id` = 343;
     $query 	= mysqli_query($conn, "UPDATE `user` SET `packstartdate` = '$startdate', `packenddate` = '$enddate' WHERE `user`.`id` = $idno;");
     $year = $startdate.substr(0,4);
-    $month = $month.substr(5,2);
+    $month = $startdate.substr(5,2);
     $amount = $resultrow['monthly'];
     $packname = $resultrow['name'];
     $query2 = mysqli_query($conn, "INSERT INTO `transaction` (`amount`, `date`, `duration`, `name`, `id`, `slno`, `year`, `month`, `packid`, `packname`) VALUES ('$amount', '$startdate', '$duration', '$name', '$idno', NULL, '$year', '$month', '7', '$packname');");
@@ -77,9 +77,12 @@ if(isset($_POST['recharge'])){
 <!DOCTYPE html>
 <html>
     <head>
-
+    <?php include('header.php');?>
     </head>
     <body>
+    <?php 
+  include('menu.php');
+  ?>
             <?php
                 $query 	= mysqli_query($conn, "SELECT name,id,packstartdate,packenddate,packid,mobile,reminderdate FROM `user`;"); 
                 echo '<table>';                
@@ -151,7 +154,7 @@ if(isset($_POST['recharge'])){
                     echo '<td>'.$newEndDate.'</td>';
                     
                     if(!$isexpired){
-                        echo '<td>'.$diff.'</td>';
+                        echo '<td>'.$diff->format('%d').'</td>';
                     }
                     else{
                         echo '<td style="color:red;">Expired</td>';
@@ -181,7 +184,7 @@ if(isset($_POST['recharge'])){
                     }
                     else{
                         
-                        $reminderdiff = date_diff(date_create(date("M j, Y")), date_create(date('M j, Y', $reminderdate)));
+                        $reminderdiff = date_diff(date_create(date("M j, Y")), date_create(date('M j, Y', strtotime($reminderdate))));
                         $reminderdays = $reminderdiff->format('%d');
 
                         if($reminderdays == 0){

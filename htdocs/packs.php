@@ -30,9 +30,12 @@ if(isset($_POST["createpack"])){
 <html>
 
     <head>
-
+    <?php include('header.php');?>
     </head>
     <body>
+    <?php 
+  include('menu.php');
+  ?>
         <h3>List of Packages present</h3>
         <table>
             <tr>

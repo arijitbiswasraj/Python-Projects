@@ -11,9 +11,12 @@ if(!isset($_SESSION['user_hfcgym'])){
 <!DOCTYPE html>
 <html>
     <head>
-
+    <?php include('header.php');?>
     </head>
     <body>
+    <?php 
+  include('menu.php');
+  ?>
         <h1>Analytics</h1>
         <table>
             <?php

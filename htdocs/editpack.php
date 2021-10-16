@@ -7,8 +7,13 @@ if(!isset($_SESSION['user_hfcgym'])){
 ?>
 <!DOCTYPE html>
 <html>
-    <head></head>
+    <head>
+    <?php include('header.php');?>
+    </head>
     <body>
+    <?php 
+  include('menu.php');
+  ?>
         <?php 
         if(isset($_POST['editpack'])){
             $id = $_POST['id'];

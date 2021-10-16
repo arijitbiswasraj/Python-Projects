@@ -1,5 +1,9 @@
 <?php session_start(); ?>
-<?php include('dbcon.php'); ?>
+<?php include('dbcon.php'); 
+	if(isset($_SESSION['user_hfcgym'])){
+		header("Location: home.php");
+	}
+?>
 <html>
 <head>
 <link rel="stylesheet" type="text/css" href="style.css">

@@ -5,13 +5,15 @@ if(!isset($_SESSION['user_hfcgym'])){
   header('location:index.php');
 }
 ?>
-//remove from couple too
 <!DOCTYPE html>
 <html>
     <head>
-
+    <?php include('header.php');?>
     </head>
     <body>
+    <?php 
+  include('menu.php');
+  ?>
         <form action="stumanage.php" method="POST">
             <label>Search By ID: </label>
             <input type="number" name="idno">
@@ -61,12 +63,14 @@ if(!isset($_SESSION['user_hfcgym'])){
         if(isset($_POST['remove'])){
             $idno = mysqli_real_escape_string($conn, $_POST['idno']);
             $query 	= mysqli_query($conn, "DELETE FROM `user` WHERE id = $idno");
-            if (!$query) {
+            $query1 	= mysqli_query($conn, "DELETE FROM `couple` WHERE id1 = $idno || id2 = $idno;");
+            if (!$query || !$query1) {
                 die ('SQL Error: ' . mysqli_error($conn));
             }
             else{
                 echo '<h4>User deleted Sucessfully.</h4>';
             }
+           
         }
         ?>
 
